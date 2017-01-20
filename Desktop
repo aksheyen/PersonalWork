@@ -1,0 +1,5279 @@
+,Location,Type of breach,Type of organization
+0,"Shepherdsville, Kentucky",DISC,EDU
+1,"Harriman, Tennessee",PORT,EDU
+2,"Daytona Beach, Florida",PORT,MED
+3,"Selden, New York",DISC,EDU
+4,"Colorado Springs, Colorado",PHYS,MED
+5,"Richmond, Kentucky",DISC,EDU
+6,"Dallas, Texas",PORT,BSF
+7,"Bakersfield, California",PHYS,MED
+8,"Pinedale, Wyoming",DISC,BSF
+9,"Gainesville, Florida",DISC,EDU
+10,"Boulder, Colorado",PHYS,BSR
+11,"Danville, Kentucky",UNKN,EDU
+12,"Pensacola, Florida",PORT,MED
+13,"Amherst, Massachusetts",HACK,EDU
+14,"Highland Heights, Kentucky",PORT,EDU
+15,"Battle Creek, Michigan",DISC,EDU
+16,"Washington, District Of Columbia",DISC,GOV
+17,"Honolulu, Hawaii",INSD,MED
+18,"Cottonwood  Heights, Utah",PORT,EDU
+19,"Leander, Texas",UNKN,EDU
+20,"Salt Lake, Utah",PHYS,MED
+21,"Chicago, Illinois",INSD,BSO
+22,"Tallahassee, Florida",PORT,GOV
+23,"Battle Creek, Michigan",DISC,GOV
+24,"Ithaca, New York",PORT,EDU
+25,"Tampa, Florida",HACK,BSF
+26,"Redondo Beach, California",INSD,BSR
+27,"Cedar Rapids, Iowa",PORT,EDU
+28,"Richmond, Virginia",STAT,EDU
+29,"Augusta, Maine",PHYS,GOV
+30,"Lebanon, Ohio",PHYS,EDU
+31,"Indianapolis, Indiana",DISC,GOV
+32,"Trenton, New Jersey",DISC,GOV
+33,"Boulder, Colorado",PHYS,BSR
+34,"Washington, District Of Columbia",DISC,EDU
+35,"Oklahoma City, Oklahoma",PORT,GOV
+36,"Springfield, Illinois",DISC,GOV
+37,"New York, New York",INSD,BSF
+38,"Oklahoma City, Oklahoma",PORT,GOV
+39,"Santa Maria, California",PORT,MED
+40,"New York, New York",INSD,GOV
+41,"Charlotte , North Carolina",PORT,BSO
+42,"Los Angeles, California",INSD,BSO
+43,"Greensboro, North Carolina",PORT,MED
+44,"Chattanooga, Tennessee",STAT,MED
+45,"Salisbury, Maryland",PORT,MED
+46,"Borrego Springs, California",PORT,BSF
+47,"Erie, Pennsylvania",HACK,EDU
+48,"Nashville, Tennessee",DISC,EDU
+49,"Culpepper, Virginia",DISC,GOV
+50,"Kapolei, O'ahu, Hawaii",PORT,GOV
+51,"Nashville, Tennessee",INSD,GOV
+52,"Palo Alto, California",PORT,MED
+53,", Maryland",PHYS,GOV
+54,"Forest Grove, Oregon",PORT,EDU
+55,"Baltimore, Maryland",DISC,GOV
+56,"Nashville, Tennessee",PHYS,EDU
+57,"Carrollton, Georgia",PORT,EDU
+58,"New York, New York",PHYS,GOV
+59,"University Park, Pennsylvania",HACK,EDU
+60,"Binghamton, New York",STAT,EDU
+61,"Idaho Falls, Idaho",PORT,GOV
+62,"Shawnee, Oklahoma",PHYS,GOV
+63,"Griffith, Indiana",PORT,GOV
+64,"Lima, Ohio",PHYS,MED
+65,"Elk Grove, California",PHYS,EDU
+66,"New York, New York",INSD,GOV
+67,"Altus, Oklahoma",DISC,EDU
+68,"Muskogee, Oklahoma",PORT,GOV
+69,"Steamboat Springs, Colorado",PORT,EDU
+70,"Gainesville, Florida",DISC,EDU
+71,"Corona Del Mar, California",PHYS,BSF
+72,"Del Mar, California",PHYS,EDU
+73,"Little Rock, Arkansas",PORT,GOV
+74,"Gainesville, Florida",HACK,EDU
+75,"Albuquerque, New Mexico",PORT,NGO
+76,"Binghamton, New York",DISC,EDU
+77,"Tulsa, Oklahoma",DISC,BSO
+78,"Dallas, Texas",PORT,MED
+79,"Washington, District Of Columbia",HACK,GOV
+80,"Santee, California",INSD,GOV
+81,"Woburn, Massachusetts",HACK,BSO
+82,"Harris, New York",INSD,MED
+83,"Lathrup Village, Michigan",PHYS,MED
+84,"Springfield, Massachusetts",PORT,MED
+85,"Fairfax, Virginia",HACK,BSO
+86,"Atlanta, Georgia",STAT,GOV
+87,"Denver, Colorado",INSD,MED
+88,"Indianapolis, Indiana",PHYS,BSR
+89,"Muncie, Indiana",DISC,EDU
+90,"Manhattan, Kansas",DISC,EDU
+91,"Indianapolis, Indiana",DISC,GOV
+92,"Springfield, Massachusetts",DISC,NGO
+93,"Beaumont, Texas",DISC,GOV
+94,"New York, New York",PHYS,BSO
+95,"Madison, Wisconsin",PORT,GOV
+96,"Springfield, Missouri",DISC,EDU
+97,"Coos Bay, Oregon",PORT,EDU
+98,"Dallas, Texas",INSD,BSO
+99,"Eugene, Oregon",PORT,EDU
+100,"Hackensack, New Jersey",PORT,BSO
+101,"Silver Spring, Maryland",PORT,NGO
+102,"Neward, New Jersey",PORT,BSO
+103,"Morganton, North Carolina",PORT,NGO
+104,"Columbus, Ohio",PHYS,EDU
+105,"Rochester, New York",HACK,EDU
+106,"Washington, Delaware",INSD,GOV
+107,"New York, New York",STAT,BSF
+108,"Laconia, New Hampshire",PHYS,MED
+109,"Las Vegas, Nevada",PHYS,BSO
+110,"New Orleans, Louisiana",DISC,GOV
+111,"Los Angeles, California",INSD,MED
+112,"Chillicothe, Ohio",PORT,EDU
+113,"Winston-Salem, North Carolina",DISC,EDU
+114,"Wethersfield, Connecticut",PHYS,GOV
+115,"Clarksville, Tennessee",PHYS,EDU
+116,"Dover, New Hampshire",PORT,BSR
+117,"Greensboro, North Carolina",HACK,EDU
+118,"Baton Rouge, Louisiana",DISC,GOV
+119,"Merrimack, New Hampshire",HACK,BSR
+120,"Houston, Texas",PORT,BSR
+121,"Pomona, California",DISC,EDU
+122,"Sacramento, California",PORT,NGO
+123,"Tallahassee, Florida",DISC,GOV
+124,"Ogden, Utah",PHYS,GOV
+125,"Baltimore, Maryland",PORT,GOV
+126,"Jackson, Tennessee",PORT,EDU
+127,"New Bern, North Carolina",STAT,BSO
+128,"Rio Grande Valley, Texas",STAT,BSO
+129,"Pinellas County, Florida",PHYS,GOV
+130,"Dayton, Ohio",DISC,EDU
+131,"Corpus Christi, Texas",DISC,EDU
+132,"Charlottesville, North Carolina",PORT,GOV
+133,"Houston, Texas",PORT,MED
+134,"Phoenix, Arizona",PORT,GOV
+135,"Cambridge, Massachusetts",PORT,EDU
+136,"Mundy Township, Michigan",PORT,EDU
+137,"Seattle, Washington",DISC,EDU
+138,"Portland, Oregon",DISC,MED
+139,"Dallas, Texas",PORT,MED
+140,"Houston, Texas",INSD,BSR
+141,"Columbus, Ohio",PORT,MED
+142,"Fresno, California",PORT,BSO
+143,"Fredericksburg, Virginia",DISC,MED
+144,"Goodyear, Arizona",PHYS,GOV
+145,"Houston, Texas",UNKN,BSO
+146,"Indianapolis, Indiana",DISC,GOV
+147,"Summitt, Mississippi",DISC,EDU
+148,"Grand Forks, North Dakota",PORT,EDU
+149,"Charleston, West Virginia",PORT,GOV
+150,"New York City, New York",PORT,GOV
+151,"Indianapolis, Indiana",HACK,EDU
+152,"Baton Rouge, Louisiana",DISC,MED
+153,"Fort Wayne, Indiana",UNKN,EDU
+154,"Sonoma, California",DISC,EDU
+155,"College Station, Texas",HACK,EDU
+156,"Surprise, Arizona",INSD,BSO
+157,"Nashville, Tennessee",PORT,EDU
+158,"Charleston, West Virginia",DISC,EDU
+159,"Bloomington, Indiana",DISC,EDU
+160,"Pittsburgh, Pennsylvania",PORT,EDU
+161,"Morganton, North Carolina",DISC,EDU
+162,"Columbus, Ohio",INSD,GOV
+163,"Las Vegas, Nevada",PHYS,MED
+164,"Baton Rouge, Louisiana",DISC,GOV
+165,"Reynoldsburg, Ohio",PORT,EDU
+166,"Champaign, Illinois",UNKN,NGO
+167,"Manhattan, Kansas",PHYS,EDU
+168,"Harrisburg, Pennsylvania",DISC,GOV
+169,"Manassas, Virginia",DISC,EDU
+170,"Liberty, Kentucky",INSD,BSR
+171,"Kingston, Washington",PORT,BSO
+172,"Keller, Texas",DISC,EDU
+173,"Rockledge, Florida",HACK,MED
+174,"Greenville, South Carolina",PORT,BSO
+175,"Minneapolis, Minnesota",HACK,BSF
+176,"San Antonio, Texas",PHYS,GOV
+177,"Houston, Texas",PORT,MED
+178,"New York, New York",PORT,BSO
+179,"Littleton, Colorado",PORT,EDU
+180,"Oakland, California",STAT,EDU
+181,"Potsdam, New York",DISC,EDU
+182,"Knoxville, Tennessee",PORT,GOV
+183,"Yuma, Arizona",DISC,GOV
+184,"Atlanta, Georgia",DISC,MED
+185,"St. Louis, Missouri",PORT,BSR
+186,"Chicago, Illinois",PORT,GOV
+187,"Tampa , Florida",PHYS,EDU
+188,"Houston, Texas",DISC,EDU
+189,"San Francisco, California",PHYS,GOV
+190,"Minneapolis, Minnesota",STAT,GOV
+191,"Jacksonville, Florida",PORT,BSO
+192,"College Park, Maryland",DISC,EDU
+193,"Sacramento, California",INSD,GOV
+194,"Greensboro, North Carolina",PORT,MED
+195,"Houston, Texas",PHYS,BSO
+196,"Jefferson City, Missouri",UNKN,GOV
+197,"Washington, District Of Columbia",DISC,GOV
+198,"Wichita, Kansas",INSD,MED
+199,"Austin, Texas",PHYS,GOV
+200,"Cape Girardeau, Missouri",INSD,EDU
+201,"Houston, Texas",PHYS,BSO
+202,"Tucson, Arizona",PHYS,BSR
+203,"Dickson, Tennessee",PORT,EDU
+204,"South Bend, Indiana",HACK,BSF
+205,"Gainesville, Florida",DISC,EDU
+206,"Boca Raton, Florida",PHYS,BSO
+207,"Columbia, South Carolina",STAT,EDU
+208,"Southington, Connecticut",PHYS,GOV
+209,"Johnson City, Tennessee",STAT,EDU
+210,"Stanford, California",PORT,EDU
+211,"Corvallis, Oregon",HACK,EDU
+212,"Louisville, Kentucky",PHYS,GOV
+213,"Boston, Massachusetts",STAT,BSF
+214,"Franklin, Tennessee",PORT,MED
+215,"Oklahoma City, Oklahoma",STAT,GOV
+216,"New York, New York",DISC,EDU
+217,"Louisville, Kentucky",PHYS,EDU
+218,"Montgomery, Alabama",PHYS,EDU
+219,"Lake Buena Vista, Florida",PHYS,NGO
+220,"Harrisonburg, Virginia",PORT,BSF
+221,"Stillwater, Oklahoma",HACK,EDU
+222,"Princeton, New Jersey",DISC,EDU
+223,"Las Cruces, New Mexico",DISC,EDU
+224,"Wooster, Ohio",DISC,EDU
+225,"Atlanta, Georgia",INSD,BSO
+226,"West Haven, Massachusetts",PHYS,BSO
+227,"Statesville, North Carolina",PHYS,GOV
+228,"Staten  Island, New York",STAT,MED
+229,"San Antonio, Texas",INSD,GOV
+230,"Englewood, Colorado",PHYS,BSF
+231,"North Bend, Oregon",PORT,BSO
+232,"East Hempfield Township, Pennsylvania",PORT,MED
+233,"Baltimore, Maryland",DISC,GOV
+234,"Madison, Wisconsin",DISC,BSO
+235,"Denville, New Jersey",DISC,BSO
+236,"Tyler, Texas",DISC,MED
+237,"New Haven, Connecticut",HACK,EDU
+238,"Buffalo, New York",PORT,MED
+239,"Leominster, Massachusetts",PORT,MED
+240,"Smithtown, New York",INSD,GOV
+241,"Indianapolis, Indiana",STAT,BSO
+242,"Miami, Florida",PORT,MED
+243,"Dallas, Texas",PHYS,EDU
+244,"Charlottesville, Virginia",PORT,EDU
+245,"Oklahoma City, Oklahoma",DISC,GOV
+246,"Danbury, North Carolina",STAT,EDU
+247,"Toledo, Ohio",DISC,EDU
+248,"West Seneca, New York",HACK,EDU
+249,"New York, New York",INSD,MED
+250,"Joliet, Illinois",HACK,EDU
+251,"Norfolk, Virginia",PHYS,NGO
+252,"Indianapolis, Indiana",DISC,BSO
+253,"Atlanta, Georgia",DISC,MED
+254,"New York, New York",PORT,BSO
+255,"Milwaukee, Wisconsin",PORT,BSO
+256,"Ludlow, Vermont",HACK,BSO
+257,"Roanoke, Virginia",HACK,BSR
+258,"Atlanta, Georgia",PORT,GOV
+259,"San Quentin, California",PORT,GOV
+260,"Yellow Springs, Ohio",HACK,EDU
+261,"Boston, Massachusetts",DISC,NGO
+262,"Coconut Creek, Florida",HACK,EDU
+263,"Cullowhee, North Carolina",HACK,EDU
+264,"Birmingham, Alabama",INSD,BSF
+265,"Cranston, Rhode Island",PORT,GOV
+266,"Columbus, Ohio",PHYS,BSO
+267,"Harrisburg, Pennsylvania",DISC,GOV
+268,"Flint, Michigan",PHYS,BSO
+269,"Binghamton, New York",DISC,EDU
+270,"Cambridge, Massachusetts",HACK,EDU
+271,"Sanford, Florida",PHYS,MED
+272,"Austin, Texas",STAT,MED
+273,"Buffalo, New York",PORT,MED
+274,"Los Angeles, California",HACK,BSO
+275,"Carson City, Nevada",PORT,GOV
+276,"Northfield, Illinois",PORT,BSO
+277,"Wellesley, Massachusetts",PHYS,GOV
+278,"Rancho Cordova, California",DISC,MED
+279,"Ft. Lauderdale, Florida",PHYS,BSF
+280,"College Station, Texas",DISC,EDU
+281,"Lexington, Kentucky",DISC,BSO
+282,"Carthage, Missouri",PHYS,NGO
+283,"Dallas, Texas",INSD,MED
+284,"Milwaukee, Wisconsin",DISC,GOV
+285,"Memphis, Tennessee",PORT,MED
+286,"Murfreesboro, Tennessee",STAT,EDU
+287,"Brookville, New York",PHYS,EDU
+288,"Arvada, Colorado",PORT,EDU
+289,"Seattle, Washington",STAT,BSO
+290,"Louisville, Kentucky",HACK,BSR
+291,"South Bend, Indiana",PORT,MED
+292,"Providence, Rhode Island",STAT,NGO
+293,", South Carolina",PORT,GOV
+294,"Minneapolis, Minnesota",PORT,MED
+295,"Washington, District Of Columbia",PORT,EDU
+296,"Newark, New Jersey",PORT,MED
+297,"University Park, Pennsylvania",PORT,EDU
+298,"Worcester, Massachusetts",PORT,MED
+299,"Fort Worth, Texas",HACK,BSF
+300,"Boston, Massachusetts",PORT,BSF
+301,"Madison, Wisconsin",PHYS,GOV
+302,"White Oak, Maryland",PHYS,GOV
+303,"Cookeville, Tennessee",PORT,EDU
+304,"Turlock, California",UNKN,EDU
+305,"Akron, Ohio",PORT,EDU
+306,"Iowa City, Iowa",DISC,EDU
+307,"Richmond, Virginia",INSD,GOV
+308,"Levelland, Texas",PHYS,MED
+309,"Madison, Wisconsin",DISC,GOV
+310,"Cook County, Illinois",DISC,BSR
+311,"Oceanside, California",HACK,BSR
+312,"Las Cruces, New Mexico",PORT,EDU
+313,"Mountain View, California",PORT,MED
+314,"Baltimore, Maryland",DISC,GOV
+315,"Ann Arbor, Michigan",HACK,BSO
+316,"Augusta, Georgia",STAT,EDU
+317,"Salt Lake City, Utah",PORT,BSO
+318,"Manhattan, New York",PORT,NGO
+319,"Harrisburg, Pennsylvania",PORT,GOV
+320,"Pittsburgh, Pennsylvania",PORT,MED
+321,"Brownsville, Texas",UNKN,GOV
+322,"Lakeport, California",PORT,MED
+323,"Aurora, Colorado",DISC,MED
+324,"Des Moines, Iowa",PORT,GOV
+325,"Oak Ridge, Tennessee",HACK,GOV
+326,"Duluth, Minnesota",PORT,MED
+327,"Cambridge, Massachusetts",PORT,BSO
+328,"Oakwood, Ohio",PORT,BSO
+329,"Indianapolis, Indiana",DISC,BSO
+330,"Durham, North Carolina",HACK,EDU
+331,"Gainesville, Florida",DISC,EDU
+332,"Brownsville, Pennsylvania",PHYS,EDU
+333,"Dallas , Texas",PHYS,NGO
+334,"Vineland, New Jersey",STAT,BSO
+335,"Washington, District Of Columbia",INSD,GOV
+336,"Concord, North Carolina",PORT,MED
+337,"Chico, California",PORT,BSF
+338,"Bozeman, Montana",PORT,EDU
+339,"Bozeman, Montana",DISC,EDU
+340,"Bozeman, Montana",DISC,EDU
+341,"Reno, Nevada",PORT,EDU
+342,"Hartford, Connecticut",PORT,BSF
+343,"Memphis, Tennessee",STAT,MED
+344,"Oahu, Hawaii",PORT,GOV
+345,"Greenville, North Carolina",PHYS,BSO
+346,"Lockbourne, Ohio",HACK,BSR
+347,"Dartmouth, Massachusetts",HACK,BSO
+348,"Akron, Ohio",PORT,EDU
+349,"Sarasota, Florida",PHYS,BSR
+350,"Charleston, West Virginia",PORT,MED
+351,"St. George, Utah",DISC,EDU
+352,"Lewiston, Maine",DISC,EDU
+353,"Cincinnati, Ohio",PORT,EDU
+354,"Baton Rouge, Louisiana",PORT,EDU
+355,"Houston, Texas",PORT,BSO
+356,"Boston, Massachusetts",PORT,BSR
+357,"Des Plaines, Illinois",DISC,BSO
+358,"Arlington, Virginia",PORT,GOV
+359,"Seattle, Washington",PORT,GOV
+360,"Wichita, Kansas",HACK,BSF
+361,"Pembroke, Massachusetts",DISC,EDU
+362,"Iowa City, Iowa",PORT,EDU
+363,"Pittsburgh, Pennsylvania",PORT,EDU
+364,"Boston, Massachusetts",DISC,GOV
+365,"Arlington, Virginia",HACK,NGO
+366,"American Fork, Utah",PORT,GOV
+367,"Camarillo, California",PORT,BSO
+368,"Columbus, Ohio",STAT,GOV
+369,"Norridge, Illinois",DISC,BSF
+370,"Lawrence, Kansas",PHYS,EDU
+371,"Ann Arbor, Michigan",PORT,MED
+372,"Hartford, Connecticut",PORT,GOV
+373,,PORT,MED
+374,"Cookeville, Tennessee",DISC,EDU
+375,"Reston, Virginia",HACK,BSO
+376,"Harrisburg, Pennsylvania",STAT,GOV
+377,"West Lafayette, Indiana",DISC,EDU
+378,"Cupertino, California",PORT,EDU
+379,"Columbia, South Carolina",DISC,EDU
+380,"New York, New York",INSD,BSO
+381,"Baltimore, Maryland",STAT,MED
+382,"Annapolis, Maryland",PORT,GOV
+383,"San Antonio, Texas",PORT,BSO
+384,"Champaign-Urbana, Illinois",DISC,EDU
+385,", Texas",UNKN,NGO
+386,"New York, New York",PORT,GOV
+387,"Windsor, Connecticut",UNKN,EDU
+388,"Silver Spring, Maryland",PHYS,GOV
+389,"Charleston, West Virginia",UNKN,BSO
+390,"Boise, Idaho",PORT,GOV
+391,"Toledo, Ohio",PORT,EDU
+392,"Detroit, Michigan",PHYS,MED
+393,"Klamath Falls, Oregon",DISC,MED
+394,"New York, New York",PORT,BSO
+395,"Chicago, Illinois",STAT,EDU
+396,"Anhorage, Alaska",PORT,MED
+397,"Portland, Oregon",INSD,MED
+398,"New Haven, Connecticut",STAT,EDU
+399,"Montgomery, Alabama",INSD,BSO
+400,"Hopewell, New Jersey",UNKN,BSF
+401,"Mountain View, California",PORT,BSO
+402,"Battle Creek, Michigan",STAT,BSF
+403,"Pleasant Grove, Utah",PHYS,MED
+404,"Indianapolis, Indiana",DISC,GOV
+405,"Louisville, Kentucky",PORT,BSO
+406,"Toledo, Ohio",STAT,EDU
+407,"Dallas, Texas",PHYS,GOV
+408,"Yuba County, California",PORT,MED
+409,"Ann Arbor, Michigan",HACK,EDU
+410,"Omaha, Nebraska",PHYS,BSO
+411,"Massillon, Ohio",DISC,EDU
+412,"Hartford, Connecticut",DISC,GOV
+413,"Greenwood Village, Colorado",HACK,BSF
+414,"Baton Rouge, Louisiana",DISC,GOV
+415,"Arlington, Virginia",PORT,GOV
+416,"Salt Lake City, Utah",DISC,EDU
+417,"Encinitas, California",DISC,GOV
+418,"St.Louis, Missouri",INSD,GOV
+419,"South Kingstown, Rhode Island",PHYS,MED
+420,"Neenah, Wisconsin",INSD,BSO
+421,"Denver, Colorado",PORT,NGO
+422,"Cleveland, Ohio",PORT,GOV
+423,"Charleston, West Virginia",STAT,EDU
+424,"Milwaukee, Wisconsin",DISC,BSR
+425,"Bowling Green, Ohio",PORT,EDU
+426,"Texas City, Texas",PORT,BSF
+427,"Fort Worth, Texas",DISC,BSO
+428,"Tampa, Florida",DISC,MED
+429,"Bellevue, Washington",DISC,BSO
+430,"Corpus Christi, Texas",PORT,EDU
+431,"Los Angeles, California",INSD,BSO
+432,"Lynchburg, Virginia",DISC,GOV
+433,"New York, New York",DISC,BSO
+434,"Allendale, Michigan",PORT,EDU
+435,"Cedarburg, Wisconsin",DISC,EDU
+436,"Greenwich, Connecticut",PHYS,MED
+437,"Edmonds, Washington",DISC,MED
+438,"College Gadsden, Alabama",PHYS,EDU
+439,"Jacksonville, Florida",DISC,BSF
+440,"Evanston, Illinois",DISC,BSO
+441,"South Pasadena, California",DISC,BSF
+442,"Auburn, New York",PORT,NGO
+443,"Aurora, Colorado",DISC,MED
+444,"Waco, Texas",HACK,EDU
+445,"Fair Lawn, New Jersey",HACK,BSF
+446,"Chicago, Illinois",PORT,EDU
+447,"Austin, Texas",PORT,GOV
+448,"Stony Brook, New York",DISC,EDU
+449,"Yuma, Arizona",PHYS,EDU
+450,"Goshen, Indiana",HACK,EDU
+451,"Columbia, Missouri",HACK,EDU
+452,"Rochester, New York",PORT,MED
+453,"Annapolis, Maryland",PORT,GOV
+454,"Baton Rogue, Louisiana",PORT,EDU
+455,"Conroe, Texas",DISC,EDU
+456,"Hallowell, Maine",PHYS,GOV
+457,"Champaign, Illinois",STAT,GOV
+458,"Alburquerque, New Mexico",PORT,EDU
+459,"Dallas, Texas",DISC,BSO
+460,"Minneapolis, Minnesota",DISC,BSO
+461,"Washington, District Of Columbia",DISC,GOV
+462,"Washington, District Of Columbia",DISC,GOV
+463,"Alburquerque, New Mexico",DISC,GOV
+464,"Las Cruces, New Mexico",DISC,EDU
+465,"Pittsburgh, Pennsylvania",DISC,MED
+466,"Atlanta, Georgia",PHYS,GOV
+467,"Denver, Colorado",PORT,BSF
+468,"Spearfish, South Dakota",STAT,EDU
+469,"Chicago, Illinois",PORT,EDU
+470,"Tuscaloosa, Alabama",PORT,MED
+471,"Los Angeles, California",PORT,GOV
+472,"San Diego, California",PORT,GOV
+473,"Centerville, Louisiana",DISC,EDU
+474,"Seattle, Washington",PORT,MED
+475,"Boise, Idaho",PHYS,BSO
+476,"Washington, District Of Columbia",UNKN,GOV
+477,"Sacramento, California",PORT,GOV
+478,"Sacramento, California",DISC,EDU
+479,"Washington, District Of Columbia",DISC,GOV
+480,"Denver, Colorado",PORT,EDU
+481,"Winslow, Maine",HACK,BSR
+482,"Westerly, Rhode Island",DISC,MED
+483,"Nashville, Tennessee",PORT,MED
+484,"Rabun Gap, Georgia",DISC,BSR
+485,"Shreveport, Louisiana",PHYS,BSF
+486,"Charleston, Illinois",STAT,EDU
+487,"North Austin, Texas",PORT,MED
+488,"Clarksville, Tennessee",DISC,EDU
+489,"San Francisco, California",DISC,EDU
+490,"Oakland, California",PORT,MED
+491,"Hartford, Connecticut",DISC,GOV
+492,"Greenville, North Carolina",DISC,EDU
+493,"Radford, Virginia",HACK,EDU
+494,"Minneapolis, Minnesota",DISC,BSF
+495,"Leonardtown, Maryland",PORT,MED
+496,"Lincoln, Nebraska",DISC,EDU
+497,"Baltimore, Maryland",PORT,MED
+498,"New Britain, Connecticut",DISC,EDU
+499,"Glenn Falls, New York",PHYS,GOV
+500,"Cassopolis, Michigan",STAT,BSO
+501,"Boston, Massachusetts",INSD,GOV
+502,"San Francisco, California",PHYS,GOV
+503,"Columbia, Missouri",HACK,EDU
+504,"Costa Mesa, California",STAT,EDU
+505,"Oregon, Ohio",HACK,EDU
+506,"Honolulu, Hawaii",INSD,GOV
+507,"Kansas City, Missouri",PORT,GOV
+508,"Charleston, South Carolina",STAT,BSO
+509,"Albuquerque, New Mexico",STAT,EDU
+510,"Raleigh, North Carolina",PORT,GOV
+511,"Moscow, Idaho",STAT,EDU
+512,"Tucson, Arizona",UNKN,EDU
+513,"Notre Dame, Indiana",PORT,EDU
+514,"Las Vegas, Nevada",PHYS,BSO
+515,"Madison, Wisconsin",DISC,GOV
+516,"Cleveland, Ohio",PORT,BSF
+517,"Dallas, Texas",DISC,EDU
+518,"Santa Clara County, California",STAT,GOV
+519,"Philadelphia, Pennsylvania",HACK,BSR
+520,"Washington, District Of Columbia",PHYS,GOV
+521,"Jackson, Mississippi",DISC,EDU
+522,"Wickliffe, Ohio",HACK,GOV
+523,"Longmont, Colorado",PHYS,EDU
+524,"Charlotte, North Carolina",INSD,BSF
+525,"Los Angeles, California",HACK,EDU
+526,"Richmond, Virginia",DISC,EDU
+527,"Columbia , Missouri",PHYS,BSF
+528,"Charleston, West Virginia",PORT,GOV
+529,"Johnston County, North Carolina",DISC,GOV
+530,"Chicago, Illinois",DISC,EDU
+531,"Roanoke, Virginia",DISC,EDU
+532,"Louisville, Kentucky",PORT,NGO
+533,"Warner, Oklahoma",PORT,EDU
+534,"Los Alamos, New Mexico",PORT,BSO
+535,"Lubbock, Texas",HACK,GOV
+536,"Charlottesville, Virginia",DISC,EDU
+537,"Joliet, Illinois",INSD,BSO
+538,"Philadelphia, Pennsylvania",PORT,BSO
+539,"Muskogee, Oklahoma",PORT,MED
+540,"Salt Lake City, Utah",PORT,MED
+541,"White Plains, New York",INSD,BSO
+542,"Fort Monroe, Virginia",PORT,GOV
+543,"San Francisco, California",PORT,BSR
+544,"Savannah, Georgia",PORT,BSO
+545,"Oklahoma City, Oklahoma",INSD,BSO
+546,"Akron, Ohio",HACK,MED
+547,"Charlotte, North Carolina",PHYS,BSF
+548,"Denver, Colorado",HACK,BSO
+549,"Plymouth Meeting, Pennsylvania",PORT,BSF
+550,"Portland, Oregon",PORT,GOV
+551,"Seattle, Washington",INSD,MED
+552,"Buffalo, New York",PORT,MED
+553,"Chicago, Illinois",DISC,GOV
+554,"Bowling Green, Ohio",DISC,GOV
+555,"Minneapolis-St.Paul, Minnesota",PORT,EDU
+556,"Visalia, California",PHYS,GOV
+557,"Germanton, North Carolina",STAT,EDU
+558,"Englewood, Colorado",PHYS,MED
+559,"Poulsbo, Washington",PORT,GOV
+560,"Bellvue, Washington",PORT,BSO
+561,"Washington, District Of Columbia",DISC,NGO
+562,"Camp Pendleton, California",PORT,GOV
+563,"San Juan Capistrano, California",STAT,EDU
+564,"Orlando, Florida",DISC,GOV
+565,"Carlisle, Pennsylvania",DISC,GOV
+566,"Salem, Oregon",STAT,EDU
+567,"Rockaway, New Jersey",UNKN,GOV
+568,"Seattle, Washington",PORT,GOV
+569,"Frankfort, Kentucky",DISC,GOV
+570,"Louisville, North Carolina",STAT,GOV
+571,"Springfield, Illinois",PHYS,GOV
+572,"Fairfield, Connecticut",PORT,BSO
+573,"Chattanooga, Tennessee",PORT,MED
+574,"Washington, District Of Columbia",PORT,GOV
+575,"Mount Berry, Georgia",PHYS,EDU
+576,"Norfolk, Virginia",STAT,MED
+577,"Orlando, Florida",PHYS,BSO
+578,"Melville, New York",DISC,BSR
+579,"Indianapolis, Indiana",PHYS,BSO
+580,"Naples, Florida",INSD,MED
+581,"San Francisco, California",HACK,BSO
+582,"Minneapolis, Minnesota",STAT,EDU
+583,"Bradenton, Florida",PORT,GOV
+584,"Washington, District Of Columbia",DISC,GOV
+585,"Richmond, Virginia",DISC,EDU
+586,"Harlingen, Texas",DISC,MED
+587,"Santa Fe, New Mexico",DISC,GOV
+588,"Portland, Maine",HACK,BSO
+589,"Richmond, Virginia",PORT,BSO
+590,"Baltimore, Maryland",PORT,GOV
+591,"New Bedford, Massachusetts",PORT,BSF
+592,"Beaverton, Oregon",PHYS,EDU
+593,"San Francisco, California",PORT,BSR
+594,"Nashville, Tennessee",STAT,MED
+595,"Lexington, Kentucky",DISC,EDU
+596,"Lexington, Kentucky",DISC,EDU
+597,"Bellingham, Washington",INSD,MED
+598,"Richmond, Virginia",DISC,GOV
+599,"Sterling, Virginia",PHYS,BSR
+600,"Norcross, Georgia",PHYS,MED
+601,"Wichita, Kansas",HACK,EDU
+602,"Portland, Oregon",UNKN,BSR
+603,"Denver, Colorado",PORT,BSF
+604,"Oakland, California",PORT,MED
+605,"Burbank, California",PORT,GOV
+606,"Trenton, New Jersey",PORT,GOV
+607,"Beckley, West Virginia",PORT,GOV
+608,"Washington, District Of Columbia",DISC,MED
+609,"Kansas City, Missouri",PORT,BSF
+610,"Bethpage, New York",PORT,BSO
+611,"New York, New York",DISC,GOV
+612,"Davenport, Iowa",PORT,EDU
+613,"Beaver Dam, Wisconsin",PORT,EDU
+614,"Boca Raton, Florida",PORT,BSF
+615,"Helena, Montana",STAT,MED
+616,"Roseland, New Jersey",PORT,BSF
+617,"Lincoln, Nebraska",HACK,GOV
+618,"Fayetteville, North Carolina",PORT,MED
+619,"Middletown, Connecticut",INSD,BSF
+620,"Springfield, Massachusetts",HACK,BSF
+621,"Newark, New Jersey",HACK,EDU
+622,"Fort Belvoir, Virginia",PORT,GOV
+623,"Oxford, Ohio",PORT,EDU
+624,"Columbus, Ohio",PORT,MED
+625,"Louisville, Kentucky",DISC,MED
+626,"El Paso, Texas",HACK,EDU
+627,"Denver, Colorado",PHYS,GOV
+628,"St. Paul, Minnesota",PORT,GOV
+629,"Omaha, Nebraska",PORT,BSO
+630,"Lexington, Kentucky",PORT,EDU
+631,"Roseland, New Jersey",DISC,BSO
+632,"Sacramento, California",PHYS,GOV
+633,"Atlanta, Georgia",PORT,BSF
+634,"Washington, District Of Columbia",HACK,GOV
+635,"Washington, District Of Columbia",PORT,GOV
+636,"San Francisco, California",PORT,EDU
+637,"Washington, District Of Columbia",DISC,GOV
+638,"Alamosa, Colorado",PORT,EDU
+639,"West Lafayette, Indiana",DISC,EDU
+640,"Woodbury, New York",INSD,BSF
+641,"San Francisco, California",HACK,BSR
+642,"University Park, Pennsylvania",HACK,EDU
+643,"Salem, Oregon",DISC,GOV
+644,"Los Angeles, California",UNKN,BSF
+645,"Woodlands, Texas",STAT,BSO
+646,"Chicago, Illinois",PORT,MED
+647,"Fort Bragg, North Carolina",DISC,GOV
+648,"New York, New York",INSD,BSF
+649,"Tulsa, Oklahoma",PORT,BSO
+650,"Deerfield, Illinois",INSD,BSR
+651,"LaCrosse, Wisconsin",INSD,MED
+652,"Wethersfield, Connecticut",PHYS,GOV
+653,"Murray Hill, New Jersey",PORT,BSO
+654,"Whittier, California",STAT,MED
+655,"North Las Vegas, Nevada",HACK,EDU
+656,"McLean, Virginia",DISC,BSF
+657,"San Antonio, Texas",PORT,BSO
+658,"New York, New York",DISC,BSF
+659,"Carmel, Indiana",HACK,BSR
+660,"Washington, District Of Columbia",PHYS,GOV
+661,"Raleigh, North Carolina",DISC,MED
+662,"Raleigh, North Carolina",DISC,EDU
+663,"Bushland, Texas",PHYS,EDU
+664,"Richmond, Virginia",PORT,EDU
+665,"Moorestown, New Jersey",HACK,BSF
+666,"Bellaire, Texas",DISC,BSO
+667,"Palm Springs, Florida",PHYS,BSO
+668,"Washington, District Of Columbia",PORT,GOV
+669,"Portland, Oregon",DISC,MED
+670,"Los Angeles, California",PORT,EDU
+671,"Laconia, New Hampshire",PHYS,GOV
+672,"Herndon, Virginia",HACK,BSO
+673,"San Francisco, California",PHYS,BSF
+674,"Charleston, South Carolina",PORT,BSO
+675,"Columbus , Ohio",DISC,EDU
+676,"Austin, Texas",INSD,GOV
+677,"Houston, Texas",DISC,BSF
+678,"Tigard, Oregon",PORT,NGO
+679,"Hildebran, North Carolina",PORT,NGO
+680,"Atlanta, Georgia",PHYS,GOV
+681,"Charleston, West Virginia",HACK,NGO
+682,"Cupertino, California",INSD,BSO
+683,"Columbus, Ohio",DISC,GOV
+684,"Beaverton, Oregon",PHYS,BSO
+685,"New Orleans, Louisiana",PHYS,EDU
+686,"Deerfield, Illinois",DISC,MED
+687,"Philadelphia, Pennsylvania",DISC,BSO
+688,"Toledo, Ohio",STAT,EDU
+689,"Chicago, Illinois",PORT,BSO
+690,"Raleigh, North Carolina",DISC,MED
+691,"Los Alamos, New Mexico",STAT,GOV
+692,"Mooresville, North Carolina",INSD,BSO
+693,"Orange City, Florida",PHYS,BSO
+694,"Waco, Texas",DISC,GOV
+695,"Raleigh, North Carolina",PORT,GOV
+696,"Hidalgo County, Texas",DISC,GOV
+697,,PHYS,GOV
+698,"Gainesville, Florida",HACK,EDU
+699,"Corpus Christi, Texas",PHYS,EDU
+700,"Shenendehowa, New York",HACK,EDU
+701,"Atlanta, Georgia",INSD,MED
+702,"Cincinnati, Ohio",HACK,BSF
+703,"Salt Lake City, Utah",UNKN,GOV
+704,"Tallahassee, Florida",DISC,GOV
+705,"Las Vegas, Nevada",DISC,GOV
+706,"Little Rock, Arkansas",INSD,MED
+707,"Dallas, Texas",PHYS,BSF
+708,"West Lafayette, Indiana",HACK,EDU
+709,"San Francisco, California",HACK,EDU
+710,"Irving, Texas",PORT,BSF
+711,"Denver, Colorado",PORT,NGO
+712,"Lake Forest, Illinois",STAT,BSO
+713,"Washington, District Of Columbia",PORT,GOV
+714,"Baltimore, Maryland",STAT,BSF
+715,"Greensburg, Pennsylvania",STAT,BSR
+716,"Sacramento, California",DISC,GOV
+717,"Bixby, Oklahoma",PHYS,BSF
+718,"Harrisburg, Pennsylvania",PORT,BSF
+719,"Harrisburg, Pennsylvania",DISC,EDU
+720,"West Lafayette, Indiana",DISC,EDU
+721,"Fountain Valley, California",HACK,BSO
+722,"Pascagoula, Mississippi",PHYS,MED
+723,"Fresno, California",PORT,GOV
+724,"Champaign, Illinois",PHYS,BSF
+725,"Nashville, Tennessee",DISC,MED
+726,"Dallas, Texas",STAT,BSR
+727,"Liberty, Texas",PHYS,MED
+728,"Atlanta, Georgia",PORT,GOV
+729,"Santa Rosa, California",STAT,BSF
+730,"Springfield, Ohio",PORT,EDU
+731,"Sacramento, California",DISC,GOV
+732,"Madison, Wisconsin",PHYS,GOV
+733,"Jeffersonville, Indiana",STAT,MED
+734,"Troy, Michigan",PORT,EDU
+735,"Hartford, Connecticut",DISC,GOV
+736,"Madison, Wisconsin",PORT,BSF
+737,"Atlanta, Georgia",DISC,GOV
+738,"Greenville, South Carolina",PORT,BSF
+739,"Lancaster County, Pennsylvania",PORT,BSO
+740,"Huntsville, Alabama",STAT,BSF
+741,"Birmingham, Alabama",STAT,EDU
+742,"Salt Lake City, Utah",INSD,GOV
+743,"Ft. Belvoir, Virginia",DISC,GOV
+744,"Indianapolis, Indiana",PHYS,MED
+745,"Miramar, Florida",DISC,BSF
+746,"Boise, Idaho",PORT,BSO
+747,"Savannah, Georgia",DISC,GOV
+748,"Long Island, New York",HACK,BSF
+749,"Columbia, Missouri",DISC,EDU
+750,"Houston, Texas",PORT,MED
+751,"Arcata , California",HACK,EDU
+752,"Morgantown, West Virginia",DISC,EDU
+753,"Springfield, Missouri",DISC,NGO
+754,"Charleston, West Virginia",INSD,GOV
+755,"Cheyenne, Wyoming",DISC,GOV
+756,"Sacramento, California",DISC,GOV
+757,"Kansas City, Kansas",STAT,EDU
+758,"Memphis, Tennessee",INSD,GOV
+759,"New York, New York",PORT,GOV
+760,"Carbondale, Illinois",HACK,EDU
+761,"Nashville, Tennessee",DISC,MED
+762,"Valdosta, Georgia",HACK,EDU
+763,"Gainesville, Florida",PORT,MED
+764,"Dallas, Texas",INSD,MED
+765,"Los Angeles, California",HACK,BSO
+766,"Atlanta, Georgia",INSD,MED
+767,"Rancho Cucamonga, California",HACK,BSR
+768,"St. Louis, Missouri",HACK,GOV
+769,"Nashville, Tennessee",STAT,EDU
+770,"Sonoma, California",HACK,BSO
+771,"Hartford, Connecticut",INSD,GOV
+772,"Hanceville, Alabama",HACK,BSO
+773,"Los Gatos, California",UNKN,BSO
+774,"Orange County, California",PORT,MED
+775,"Streetsboro, Ohio",PHYS,BSF
+776,"Honolulu, Hawaii",DISC,EDU
+777,"Sacramento, California",STAT,BSO
+778,"Indianapolis, Indiana",HACK,BSO
+779,"Kalispell, Montana",INSD,BSO
+780,"Somerset, Pennsylvania",PORT,MED
+781,"Minneapolis, Minnesota",HACK,BSF
+782,"Salt Lake City, Utah",PORT,MED
+783,"New York, New York",PORT,BSO
+784,"Coal Township, Pennsylvania",DISC,EDU
+785,"Washington, District Of Columbia",PORT,GOV
+786,"St. Paul, Minnesota",PORT,GOV
+787,"San Antonio, Texas",PORT,BSO
+788,"Columbia, South Carolina",HACK,EDU
+789,"Wilmington, Delaware",PORT,BSF
+790,"Los Angeles, California",DISC,EDU
+791,"San Francisco, California",PORT,BSF
+792,"San Luis Obispo, California",PORT,EDU
+793,"Sacramento, California",PORT,MED
+794,"Washington, District Of Columbia",PORT,GOV
+795,"Sacramento, California",PHYS,GOV
+796,"Virginia Beach, Virginia",INSD,GOV
+797,"Des Moines, Iowa",PORT,BSF
+798,"West Lafayette, Indiana",DISC,EDU
+799,"Canton, Ohio",PORT,BSO
+800,"New York, New York",PORT,BSO
+801,"Vancouver, Washington",INSD,EDU
+802,"St. Petersburg, Pennsylvania",DISC,MED
+803,"Richmond, Virginia",PORT,MED
+804,"Orlando, Florida",PORT,GOV
+805,"Athens, Ohio",HACK,EDU
+806,"Philadelphia, Pennsylvania",PORT,MED
+807,"Norwich, Connecticut",HACK,EDU
+808,"Maitland, Florida",PORT,BSO
+809,"Chicago, Illinois",INSD,BSF
+810,"Walnut Creek, California",PORT,MED
+811,"Elgin, Illinois",HACK,MED
+812,"Tenafly, New Jersey",HACK,BSO
+813,"Cheney, Washington",HACK,EDU
+814,"University Park, Pennsylvania",HACK,EDU
+815,"Omaha, Nebraska",HACK,EDU
+816,"Omaha, Nebraska",HACK,GOV
+817,"Brunswick, Maine",HACK,BSO
+818,"New York, New York",HACK,BSR
+819,"San Diego, California",HACK,MED
+820,"Bellevue, Washington",HACK,BSO
+821,"Coquille, Oregon",HACK,GOV
+822,"Maynard, Massachusetts",HACK,BSO
+823,"Oceanside, California",HACK,BSO
+824,"Atlanta, Georgia",HACK,BSF
+825,"Mason, Ohio",HACK,BSR
+826,"Littleton, Colorado",HACK,GOV
+827,"Iowa City, Iowa",HACK,EDU
+828,"Westerly, Rhode Island",HACK,BSF
+829,"Richmond, Virginia",HACK,BSO
+830,"Middletown, Connecticut",HACK,EDU
+831,"Boston, Massachusetts",HACK,BSF
+832,"Asheville, North Carolina",HACK,BSR
+833,"Bellevue, Washington",HACK,BSO
+834,"Concord, New Hampshire",HACK,BSF
+835,"New York, New York",CARD,BSF
+836,"Richmond , Virginia",HACK,MED
+837,"Miamisburg, Ohio",CARD,BSO
+838,"Washington, District Of Columbia",HACK,GOV
+839,"Parsippany, New Jersey",HACK,BSO
+840,"Tuscaloosa, Alabama",HACK,EDU
+841,"Los Angeles, California",HACK,BSR
+842,"Cedar Rapids, Iowa",HACK,BSR
+843,"Swiftwater, Pennsylvania",HACK,EDU
+844,"Downingtown, Pennsylvania",HACK,EDU
+845,"River Forest, Illinois",HACK,EDU
+846,"Los Gatos, California",CARD,BSR
+847,"Canton, New York",HACK,BSR
+848,"Oakbrook Terrace, Illinois",CARD,BSR
+849,"Newton, Massachusetts",HACK,EDU
+850,"Salt Lake City, Utah",HACK,GOV
+851,"Prineville, Oregon",HACK,MED
+852,"Athens, Georgia",HACK,EDU
+853,"Greenville, South Carolina",STAT,EDU
+854,"Greenville, South Carolina",HACK,EDU
+855,"Storrs, Connecticut",HACK,NGO
+856,"Bozeman, Montana",HACK,EDU
+857,"Davis, California",HACK,EDU
+858,"Charlottesville, Virginia",HACK,EDU
+859,"Fresno, California",HACK,GOV
+860,"Atlanta, Georgia",HACK,GOV
+861,"Tampa, Florida",CARD,BSF
+862,"Ludington, Michigan",CARD,BSF
+863,"Muskegon, Michigan",CARD,BSR
+864,"Hartford, Connecticut",HACK,MED
+865,"St. Louis, Missouri",UNKN,BSO
+866,"Austin, Texas",INSD,GOV
+867,"Terre Haute, Indiana",PORT,EDU
+868,"Franklin, Tennessee",DISC,EDU
+869,"Fort Lewis, Washington",PORT,GOV
+870,"Bridgeport, Connecticut",PHYS,BSF
+871,"Pittsburgh, Pennsylvania",PORT,BSF
+872,"Bethesda, Maryland",PORT,GOV
+873,"Los Angeles, California",INSD,MED
+874,"Raleigh, North Carolina",PORT,MED
+875,"Nashville, Tennessee",PORT,GOV
+876,"Indianapolis, Indiana",STAT,MED
+877,"Viera, Florida",UNKN,EDU
+878,"Hartford, Connecticut",PORT,GOV
+879,"Maynard, Massachusetts",HACK,BSO
+880,"Crystal City, Virginia",PORT,GOV
+881,"Portland, Texas",PHYS,BSR
+882,"Seattle, Washington",PORT,BSO
+883,"Washington, District Of Columbia",PORT,GOV
+884,"Chicago, Illinois",STAT,BSF
+885,"Washington, District Of Columbia",PORT,GOV
+886,"St. Paul, Minnesota",PORT,GOV
+887,"Macomb, Illinois",HACK,EDU
+888,"New York, New York",STAT,BSF
+889,"Round Rock, Texas",UNKN,BSF
+890,"Hampton, Virginia",DISC,GOV
+891,"Newton, North Carolina",UNKN,EDU
+892,"Las Vegas, Nevada",STAT,GOV
+893,"Alpharetta, Georgia",INSD,BSO
+894,"Mountain View, California",HACK,BSO
+895,"Alameda, California",CARD,BSR
+896,"Columbus, Ohio",HACK,EDU
+897,"Columbus, Ohio",PORT,EDU
+898,"Phoenix, Arizona",HACK,BSF
+899,"Quincy, Massachusetts",CARD,BSR
+900,"Atlanta, Georgia",HACK,EDU
+901,"Des Moines , Iowa",HACK,GOV
+902,"Indianapolis, Indiana",HACK,GOV
+903,"Costa Mesa, California",CARD,BSR
+904,"Chicago, Illinois",INSD,MED
+905,"Charlotte, North Carolina",PORT,BSF
+906,"Mountain View, California",DISC,BSO
+907,"Atlanta, Georgia",INSD,GOV
+908,"Southfield, Minnesota",PORT,MED
+909,"Washington, District Of Columbia",HACK,GOV
+910,"Iowa City, Iowa",HACK,EDU
+911,"San Francisco, California",HACK,BSO
+912,"Wichita, Kansas",HACK,EDU
+913,"Carmichael, California",HACK,BSR
+914,"Evanston, Illinois",HACK,EDU
+915,"Athens, Ohio",HACK,EDU
+916,"Salem, Oregon",HACK,GOV
+917,"Miami, Florida",HACK,EDU
+918,"Athens, Ohio",HACK,EDU
+919,"Valdosta, Georgia",HACK,EDU
+920,"Boston, Massachusetts",HACK,EDU
+921,"Ft. Washington, Pennsylvania",HACK,NGO
+922,"Sacramento, California",PORT,GOV
+923,"Colorado Springs, Colorado",PORT,BSO
+924,"Omaha, Nebraska",PORT,BSF
+925,"Pittsburgh, Pennsylvania",HACK,EDU
+926,"Houston, Texas",STAT,MED
+927,"East Lansing, Michigan",HACK,EDU
+928,"Columbus, Ohio",DISC,EDU
+929,"Washington, District Of Columbia",HACK,EDU
+930,"Evanston, Illinois",HACK,EDU
+931,"Pasadena, California",HACK,BSO
+932,"Hackensack, New Jersey",INSD,BSF
+933,"Denver, Colorado",PORT,GOV
+934,"San Jose, California",STAT,MED
+935,"West Lafayette, Indiana",HACK,EDU
+936,"Stanford, California",HACK,EDU
+937,"Hinsdale, Illinois",HACK,EDU
+938,"Iowa City, Iowa",HACK,EDU
+939,"Westborough, Massachusetts",INSD,BSF
+940,"Jackson, Michigan",HACK,EDU
+941,"Stillwater, Oklahoma",PORT,EDU
+942,"Los Angeles, California",STAT,EDU
+943,"Berkeley, California",HACK,EDU
+944,"Colorado Springs, Colorado",PORT,EDU
+945,"Schaumburg, Illinois",STAT,BSO
+946,"Berkeley, California",HACK,EDU
+947,"Boulder, Colorado",HACK,EDU
+948,"Dallas, Texas",HACK,EDU
+949,"Austin, Texas",DISC,EDU
+950,"New York, New York",PORT,BSF
+951,"Kearney, Nebraska",HACK,EDU
+952,"Boulder, Colorado",HACK,EDU
+953,"San  Francisco, California",DISC,MED
+954,"Amherst, Massachusetts",HACK,MED
+955,"Madison, Wisconsin",DISC,EDU
+956,"Boulder, Colorado",HACK,EDU
+957,"Irvine, California",PHYS,MED
+958,"San Francisco, California",HACK,EDU
+959,"San Francisco, California",STAT,EDU
+960,"Moscow, Idaho",DISC,EDU
+961,"Dallas, Texas",HACK,EDU
+962,"Los Angeles, California",PORT,EDU
+963,"Arlington, Texas",STAT,EDU
+964,"Boulder, Colorado",STAT,EDU
+965,"San Francisco, California",HACK,EDU
+966,"Davis, California",HACK,EDU
+967,"Las Vegas, Nevada",HACK,EDU
+968,"Chico, California",HACK,EDU
+969,"Berkeley, California",PORT,EDU
+970,"San Diego, California",HACK,EDU
+971,"Kent, Ohio",PORT,EDU
+972,"Fairfax, Virginia",HACK,EDU
+973,"New York, New York",HACK,BSR
+974,"Tucson, Arizona",HACK,BSF
+975,"Storrs, Connecticut",HACK,EDU
+976,"Toledo, Ohio",DISC,GOV
+977,"Charlotte, North Carolina",PORT,BSF
+978,"Columbus, Ohio",PORT,MED
+979,"Los Angeles, California",PORT,BSF
+980,"East Lansing, Michigan",HACK,EDU
+981,"Boulder, Colorado",HACK,EDU
+982,"Carson, California",HACK,EDU
+983,"San Diego, California",HACK,GOV
+984,"Pomona, California",HACK,EDU
+985,"Denver, Colorado",HACK,EDU
+986,"Salt Lake City, Utah",HACK,EDU
+987,"Rohnert Park, California",HACK,EDU
+988,"Denton, Texas",HACK,EDU
+989,"Turlock, California",HACK,EDU
+990,"Denver, Colorado",HACK,EDU
+991,"Washington, District Of Columbia",HACK,GOV
+992,"Gainesville, Florida",PORT,EDU
+993,"Long Beach, California",HACK,EDU
+994,"Kent, Ohio",STAT,EDU
+995,"Hamilton, Ohio",DISC,EDU
+996,"New York, New York",PORT,BSF
+997,"San Jose, California",PORT,NGO
+998,"New York, New York",DISC,EDU
+999,"Charlotte, North Carolina",PORT,BSF
+1000,"Columbus, Ohio",DISC,MED
+1001,"Montclair, New Jersey",DISC,EDU
+1002,"Lihue, Hawaii",PORT,MED
+1003,"Knoxville, Tennessee",PORT,MED
+1004,"Los Angeles, California",STAT,EDU
+1005,"Pleasanton, California",PORT,BSR
+1006,"Lincoln, Nebraska",PORT,BSO
+1007,"Chester, Pennsylvania",STAT,BSF
+1008,"Santa Ana, California",HACK,BSF
+1009,"Atlanta, Georgia",STAT,EDU
+1010,"Chicago, Illinois",PORT,BSO
+1011,"San Diego, California",HACK,EDU
+1012,"Memphis, Tennessee",PORT,BSF
+1013,"Ithaca, New York",HACK,EDU
+1014,"Olympia, Washington",PORT,GOV
+1015,"Pocatello, Idaho",HACK,EDU
+1016,"Bentonville , Arkansas",UNKN,BSR
+1017,"Colorado Springs, Colorado",DISC,EDU
+1018,"Ann Arbor, Michigan",PORT,BSF
+1019,"Kansas City, Missouri",DISC,BSO
+1020,"La Jolla, California",HACK,EDU
+1021,"Pittsburgh, Pennsylvania",STAT,MED
+1022,"Kansas City, Missouri",DISC,BSO
+1023,"Bridgeport, Connecticut",PORT,BSF
+1024,"Notre Dame, Indiana",HACK,EDU
+1025,"Seattle, Washington",PORT,MED
+1026,"Providence, Rhode Island",HACK,GOV
+1027,"Durham, North Carolina",DISC,BSO
+1028,"Newark, New Jersey",DISC,BSF
+1029,"Morristown, New Jersey",UNKN,BSO
+1030,"Norfolk, Virginia",DISC,EDU
+1031,"Washington, District Of Columbia",DISC,GOV
+1032,"Colma, California",DISC,BSO
+1033,"St. Louis, Missouri",INSD,NGO
+1034,"Sacramento, California",INSD,GOV
+1035,"Cedar Falls, Iowa",HACK,EDU
+1036,,PORT,BSO
+1037,"Jacksonville, Florida",INSD,MED
+1038,"Columbus, Ohio",PORT,MED
+1039,"Chicago, Illinois",UNKN,BSF
+1040,"Denver, Colorado",PORT,EDU
+1041,"Buffalo, New York",HACK,BSO
+1042,"San Rafael, California",HACK,BSR
+1043,"Boston , Massachusetts",PORT,BSF
+1044,"Hudson, New Hampshire",HACK,BSR
+1045,"Waterbury, Vermont",PORT,EDU
+1046,"Sacramento, California",DISC,GOV
+1047,"Middletown, Connecticut",DISC,EDU
+1048,"Atlanta, Georgia",HACK,GOV
+1049,"Monterey, California",PORT,GOV
+1050,"New York, New York",PORT,BSO
+1051,"Mayfield Village, Ohio",INSD,BSF
+1052,"Honolulu, Hawaii",INSD,BSO
+1053,"Seattle, Washington",PORT,BSO
+1054,"Fairbanks, Alaska",HACK,EDU
+1055,"Austin, Texas",HACK,EDU
+1056,"West Lafayette, Indiana",HACK,EDU
+1057,"Wheaton, Maryland",INSD,MED
+1058,"Jamaica, New York",PORT,GOV
+1059,"Cleveland, Ohio",DISC,GOV
+1060,"Atlanta, Georgia",STAT,GOV
+1061,"San Francisco, California",STAT,BSF
+1062,"Hartford, Connecticut",PORT,MED
+1063,"Gaithersburg, Maryland",PORT,BSF
+1064,"New York, New York",PORT,NGO
+1065,"Buffalo, New York",PORT,BSF
+1066,"Cincinnati, Ohio",PORT,NGO
+1067,"Newark, Delaware",HACK,EDU
+1068,"Fairfield, Connecticut",HACK,EDU
+1069,"Jacksonville, Florida",HACK,BSF
+1070,"Providence, Rhode Island",PORT,NGO
+1071,"Lexington, Kentucky",DISC,EDU
+1072,"Washington, District Of Columbia",HACK,GOV
+1073,"Ann Arbor, Michigan",PHYS,BSF
+1074,"Richland, Washington",UNKN,GOV
+1075,"Albany, New York",PORT,GOV
+1076,"Washington, District Of Columbia",PORT,BSF
+1077,"Rockville, Maryland",UNKN,BSF
+1078,"Virginia Beach, Virginia",INSD,GOV
+1079,"Albany, New York",INSD,MED
+1080,"San Diego, California",INSD,GOV
+1081,"Detroit, Michigan",INSD,BSO
+1082,"Dearborn, Michigan",STAT,BSO
+1083,"Evansville, Indiana",PHYS,MED
+1084,"Colorado Springs, Colorado",PHYS,BSF
+1085,"New York, New York",PORT,EDU
+1086,"Columbus, Ohio",DISC,EDU
+1087,"Washington, District Of Columbia",INSD,GOV
+1088,"San Antonio, Texas",PORT,MED
+1089,"Algiers, Louisiana",PHYS,GOV
+1090,", Nevada",PHYS,BSF
+1091,"Bossier, Louisiana",PHYS,BSF
+1092,"Albany, New York",HACK,BSF
+1093,"Irving, Texas",PHYS,EDU
+1094,"Fort Smith, Arkansas",HACK,BSF
+1095,"Fort Totten, New York",PHYS,GOV
+1096,"Ellwood City, Pennsylvania",DISC,BSF
+1097,"Palo Alto, California",DISC,BSO
+1098,"Jacksonville, Florida",INSD,MED
+1099,"Port St. Lucie, Florida",PHYS,MED
+1100,"Chattanooga, Tennessee",PHYS,EDU
+1101,"Monticello, New York",PHYS,MED
+1102,"Chattanooga, Tennessee",PHYS,MED
+1103,"Butte, Montana",DISC,EDU
+1104,"Charlotte, North Carolina",CARD,BSF
+1105,"Bowling Green, Kentucky",PORT,MED
+1106,"Pensacola, Florida",PORT,MED
+1107,"Orange, California",PHYS,MED
+1108,"Louisville, Kentucky",PHYS,MED
+1109,"ST. Paul, Minnesota",PORT,BSF
+1110,"Whitewater, Wisconsin",DISC,EDU
+1111,"Greenbay, Wisconsin",PHYS,MED
+1112,"Pleasant Hill, California",DISC,BSF
+1113,"New York, New York",PORT,BSO
+1114,"Fremont, California",PORT,BSO
+1115,"Atlanta, Georgia",DISC,GOV
+1116,"Sparks, Nevada",PHYS,BSR
+1117,"Waterbury Center, Vermont",HACK,BSO
+1118,"New York, New York",PORT,BSF
+1119,"Boston, Massachusetts",PORT,BSF
+1120,"Scottsdale, Arizona",HACK,BSO
+1121,"New Haven, Connecticut",HACK,EDU
+1122,"Chicago, Illinois",INSD,MED
+1123,"Valencia, California",INSD,EDU
+1124,", Colorado",DISC,GOV
+1125,"Yuma, Arizona",HACK,GOV
+1126,"Baltimore, Maryland",DISC,EDU
+1127,"Little Rock, Arkansas",INSD,BSO
+1128,"Albany, Georgia",DISC,GOV
+1129,"Boston, Massachusetts",PORT,BSF
+1130,"Knoxville, Tennessee",PHYS,BSF
+1131,"Washington, District Of Columbia",HACK,BSF
+1132,"Washington, District Of Columbia",UNKN,GOV
+1133,"Wickenburg, Arizona",DISC,EDU
+1134,"Juniper, Florida",INSD,MED
+1135,"Brookings, South Dakota",HACK,BSF
+1136,"Washington, District Of Columbia",UNKN,MED
+1137,"New York, New York",HACK,NGO
+1138,"Las Vegas, New Mexico",UNKN,EDU
+1139,"Santa Fe, New Mexico",PORT,GOV
+1140,"Iowa City, Iowa",HACK,EDU
+1141,"Atlanta, Georgia",DISC,EDU
+1142,"Greensboro, North Carolina",HACK,EDU
+1143,"Chicago, Illinois",INSD,BSF
+1144,"Manchester, New Hampshire",PORT,BSO
+1145,"Pittsburgh, Pennsylvania",STAT,BSF
+1146,"Seattle, Washington",INSD,MED
+1147,"Columbia, Maryland",HACK,BSR
+1148,"Greenwood Village, Colorado",INSD,BSO
+1149,"Cheyenne, Wyoming",DISC,GOV
+1150,"Kalamazoo, Michigan",DISC,EDU
+1151,"Los Angeles, California",DISC,BSR
+1152,"Louisville, Kentucky",DISC,BSF
+1153,"Denver, Colorado",PORT,MED
+1154,"St. Paul, Minnesota",PORT,MED
+1155,"Derry, New Hampshire",INSD,MED
+1156,"Chalmette, Louisiana",DISC,MED
+1157,"Heber Springs, Arkansas",STAT,MED
+1158,"Reston, Virginia",DISC,MED
+1159,"Morrow, Georgia",PORT,GOV
+1160,"Westmont, Illinois",PORT,MED
+1161,"Palo Alto, California",DISC,BSO
+1162,"Washington, District Of Columbia",PORT,GOV
+1163,"Brentwood, Tennessee",PORT,MED
+1164,"Hoboken, New Jersey",HACK,BSF
+1165,"Melville, New York",PORT,BSO
+1166,"Yuma, Arizona",HACK,BSO
+1167,"Burlington, Massachusetts",PORT,BSO
+1168,"Annapolis, Maryland",PHYS,BSR
+1169,"Alexandria, Washington",CARD,BSF
+1170,"Plymouth Meeting, Pennsylvania",CARD,BSR
+1171,"Sandy, Utah",CARD,BSR
+1172,"Jacksonville, Florida",DISC,BSO
+1173,"Charlotte, North Carolina",PHYS,GOV
+1174,"Roanoke, Virginia",PORT,EDU
+1175,"Louisville, Kentucky",DISC,EDU
+1176,"Santa Cruz, California",PORT,MED
+1177,"Eden Prairie, Minnesota",HACK,BSF
+1178,"Springfield, Illinois",DISC,GOV
+1179,"Lexington, Virginia",STAT,MED
+1180,"San Antonio, Texas",HACK,BSR
+1181,"San Antonio, Texas",HACK,BSR
+1182,"Santa Clara, California",STAT,MED
+1183,"McLean, Virginia",UNKN,BSF
+1184,"Cheektowaga, New York",DISC,MED
+1185,"Washington, District Of Columbia",DISC,GOV
+1186,"Middle Township, New Jersey",PHYS,GOV
+1187,"Orono, Maine",HACK,EDU
+1188,"Houston, Texas",INSD,MED
+1189,"Houston, Texas",INSD,MED
+1190,"Monrovia, California",INSD,MED
+1191,"San Francisco, California",INSD,BSF
+1192,"Albany, New York",DISC,BSF
+1193,"Baldwyn, Mississippi",DISC,BSR
+1194,"Middle, Ohio",PHYS,GOV
+1195,"Killeen, Texas",INSD,BSF
+1196,"New York, New York",PORT,BSO
+1197,"Palm Beach Gardens, Florida",PORT,MED
+1198,"Denver, Colorado",STAT,MED
+1199,"Dayton, Ohio",UNKN,BSO
+1200,"Carlisle, Pennsylvania",HACK,EDU
+1201,"Detroit, Michigan",PORT,GOV
+1202,,HACK,EDU
+1203,"Columbus, Ohio",PORT,BSO
+1204,"Santa Clara, California",PORT,BSO
+1205,"Waco, Texas",INSD,EDU
+1206,"Chicago, Illinois",HACK,GOV
+1207,"Monroe, New Jersey",STAT,MED
+1208,"Notre Dame, Indiana",DISC,EDU
+1209,"Tuscarawas County, Ohio",DISC,GOV
+1210,"Alpharetta, Georgia",PORT,BSO
+1211,"Englewood, Colorado",UNKN,BSR
+1212,"Greer, South Carolina",PHYS,BSF
+1213,"Orange, California",PHYS,MED
+1214,"Manchester, Connecticut",PHYS,BSF
+1215,"Brooklyn, New York",HACK,EDU
+1216,"Willard, Ohio",INSD,MED
+1217,"Tyler, Texas",INSD,MED
+1218,"Oceanside, California",INSD,MED
+1219,"Greensboro, North Carolina",PHYS,MED
+1220,"Fort Worth, Texas",STAT,BSO
+1221,"Fort Worth , Texas",PORT,BSO
+1222,"West Lafayette, Indiana",HACK,BSR
+1223,"Gainesville, Florida",PHYS,EDU
+1224,"Park Ridge, Illinois",PORT,MED
+1225,"Big Bend, Wisconsin",PORT,GOV
+1226,"Washington, District Of Columbia",UNKN,GOV
+1227,"Columbus, Ohio",DISC,MED
+1228,"Baldwyn, Mississippi",HACK,BSR
+1229,"Stillwater, Minnesota",HACK,BSR
+1230,"Athens, Georgia",STAT,MED
+1231,"Jackson, Mississippi",DISC,GOV
+1232,"Bellmore, New York",INSD,BSR
+1233,"Atlanta, Georgia",DISC,BSF
+1234,"Tulsa, Oklahoma",PORT,BSF
+1235,"Warner Robins, Georgia",HACK,BSR
+1236,"Denver, Colorado",PORT,GOV
+1237,"Indianapolis, Indiana",HACK,BSR
+1238,"Radnor, Pennsylvania",DISC,BSF
+1239,"Woburn, Massachusetts",HACK,BSR
+1240,"Bemidji, Minnesota",HACK,MED
+1241,"Perinton, New York",PHYS,GOV
+1242,"Cincinnati, Ohio",PORT,MED
+1243,"Brooklyn, New York",DISC,BSO
+1244,"Waitsfield, Vermont",HACK,BSR
+1245,", New York",INSD,GOV
+1246,"Escondido, California",HACK,BSR
+1247,"Mansfield, Massachusetts",HACK,BSR
+1248,"Montgomery, Alabama",DISC,GOV
+1249,"Los Angeles, California",INSD,BSO
+1250,"Los Angeles, California",DISC,BSO
+1251,"Hattiesburg, Mississippi",STAT,GOV
+1252,"Grand Prairie, Texas",DISC,GOV
+1253,"Durham, North Carolina",DISC,EDU
+1254,"Bay Pines, Florida",PHYS,GOV
+1255,"Albuquerque, New Mexico",PORT,MED
+1256,"Chicago, Illinois",DISC,MED
+1257,"Big Bend, Wisconsin",PORT,BSO
+1258,"Las Vagas, Nevada",HACK,BSO
+1259,"Boston, Massachusetts",PORT,GOV
+1260,"Cincinnati, Ohio",DISC,GOV
+1261,"Deerfield Beach, Florida",UNKN,BSF
+1262,"Tucson, Arizona",PHYS,GOV
+1263,"Akron, Ohio",HACK,MED
+1264,"Woodbridge, Virginia",PORT,GOV
+1265,"Spring, Texas",PORT,EDU
+1266,"Bohemia, New York",DISC,BSR
+1267,"New York, New York",DISC,BSO
+1268,"Blue Island, Illinois",PORT,MED
+1269,"Baltimore, Maryland",DISC,MED
+1270,"Pittsburgh, Pennsylvania",INSD,EDU
+1271,"Tomah, Wisconsin",INSD,MED
+1272,"Ridgefield, Connecticut",HACK,EDU
+1273,"Lakewood, Colorado",UNKN,BSF
+1274,"Storm Lake, Iowa",HACK,EDU
+1275,"New York, New York",PORT,MED
+1276,"Rego Park, New York",PORT,MED
+1277,"Milwaukee, Wisconsin",PORT,MED
+1278,"Orlando, Florida",PHYS,BSF
+1279,"Des Moines, Iowa",PORT,GOV
+1280,"Denver, Colorado",PORT,GOV
+1281,"Arlington, Texas",HACK,EDU
+1282,"Natchez, Mississippi",INSD,GOV
+1283,"Salt Lake City, Utah",INSD,GOV
+1284,"Bridgeport, Connecticut",PORT,GOV
+1285,"Brisbane, California",STAT,BSR
+1286,"Camp Hill, Pennsylvania",PHYS,BSR
+1287,"New York, New York",INSD,BSR
+1288,"Charlottesville, Virginia",PORT,EDU
+1289,"Indianapolis, Indiana",PORT,BSF
+1290,"Tucson, Arizona",PORT,MED
+1291,"Bronx, New York",PORT,MED
+1292,"Guttenberg, New Jersey",HACK,GOV
+1293,"Bronx, New York",STAT,MED
+1294,"Washington, District Of Columbia",DISC,GOV
+1295,"Rockland, Massachusetts",PHYS,GOV
+1296,"Nashville, Tennessee",DISC,GOV
+1297,"Hartford, Connecticut",PORT,GOV
+1298,"Tallahassee, Florida",DISC,GOV
+1299,"Greensboro, North Carolina",HACK,EDU
+1300,"Austin, Texas",CARD,BSR
+1301,"South Burlington, Vermont",HACK,NGO
+1302,"Madison, Wisconsin",PORT,BSF
+1303,"Rye Brook, New York",STAT,BSR
+1304,"Loma Linda, California",STAT,EDU
+1305,"Clare, Michigan",HACK,BSR
+1306,"Clinton, Oklahoma",HACK,BSR
+1307,"Nashville, Tennessee",PORT,GOV
+1308,"Nashville, Tennessee",DISC,GOV
+1309,"Canton, Ohio",PORT,MED
+1310,"Baltimore, Maryland",STAT,NGO
+1311,"Salt Lake City, Utah",DISC,BSF
+1312,"Conshohocken, Pennsylvania",PORT,BSF
+1313,"Boston, Massachusetts",PORT,BSO
+1314,"Atlanta, Georgia",DISC,BSF
+1315,"New York, New York",PORT,BSO
+1316,"Detroit, Michigan",DISC,BSR
+1317,"Buffalo, New York",PORT,BSR
+1318,"Cheektowaga, New York",PHYS,MED
+1319,"Houston, Texas",PHYS,BSR
+1320,"Campbell, California",PORT,BSR
+1321,"New York, New York",INSD,MED
+1322,"Stateboro, Georgia",HACK,EDU
+1323,"Coon Rapids, Minnesota",CARD,BSR
+1324,"Mechanicsburg, Pennsylvania",PORT,BSF
+1325,"Portland, Oregon",DISC,BSR
+1326,"Bellevue, Washington",PORT,BSR
+1327,"Woodbury, Minnesota",PORT,BSF
+1328,"Cleveland, Ohio",PORT,EDU
+1329,"University Park, Pennsylvania",DISC,EDU
+1330,"Oskaloosa, Iowa",INSD,MED
+1331,"St. Louis, Missouri",PHYS,EDU
+1332,"Cape Coral, Florida",CARD,BSF
+1333,"Atlanta, Georgia",INSD,BSF
+1334,"San Francisco, California",PORT,BSR
+1335,"Salt Lake City, Utah",PORT,MED
+1336,"Columbus, Ohio",STAT,GOV
+1337,"Washington, District Of Columbia",PORT,BSF
+1338,"Chicago, Illinois",PORT,BSF
+1339,"Columbus, Ohio",PHYS,BSF
+1340,"Buffalo, New York",UNKN,BSF
+1341,"Durham, North Carolina",PHYS,GOV
+1342,"Smithfield, Virginia",INSD,BSR
+1343,"Philadelphia, Pennsylvania",PORT,EDU
+1344,"West Hartford, Connecticut",PORT,EDU
+1345,"Houston, Texas",DISC,BSF
+1346,"New Haven, Connecticut",PORT,MED
+1347,"Tukwila, Washington",INSD,BSR
+1348,"Birmingham, Alabama",INSD,MED
+1349,"South Windsor, Connecticut",PHYS,BSO
+1350,"Baltimore, Maryland",INSD,GOV
+1351,"Hingham, Massachusetts",DISC,GOV
+1352,"Louisville, Kentucky",PORT,MED
+1353,"Lexington, Kentucky",PORT,EDU
+1354,"Chicago, Illinois",PORT,GOV
+1355,"Fort Worth, Texas",STAT,MED
+1356,"Corvallis, Oregon",HACK,EDU
+1357,"Columbus, Georgia",DISC,BSR
+1358,"Virgina Beach, Virginia",HACK,EDU
+1359,"Nashville, Tennessee",PHYS,MED
+1360,"Bronx, New York",INSD,BSF
+1361,"New York, New York",DISC,BSR
+1362,"Medford, Massachusetts",HACK,EDU
+1363,"Atlanta, Georgia",PORT,BSF
+1364,"Washington, District Of Columbia",PORT,NGO
+1365,"Chicago, Illinois",PHYS,BSF
+1366,"Urbana, Illinois",PHYS,MED
+1367,"Chicago, Illinois",PORT,MED
+1368,"Chicago, Illinois",PHYS,MED
+1369,"Reno, Nevada",STAT,EDU
+1370,"Greeley, Colorado",INSD,BSR
+1371,"Boston, Massachusetts",DISC,BSF
+1372,"Bronx, New York",PORT,MED
+1373,"Wilmington, Delaware",HACK,BSR
+1374,"Des Moines, Iowa",HACK,BSF
+1375,"Providence, Rhode Island",PHYS,MED
+1376,"Grove City, Ohio",INSD,BSR
+1377,"Wilmington, Delaware",HACK,BSR
+1378,"San Antonio, Texas",PHYS,BSF
+1379,"Los Angeles, California",UNKN,BSF
+1380,"Louisville, Kentucky",STAT,MED
+1381,"Columbia, South Carolina",PHYS,GOV
+1382,"Jacksonville, Florida",DISC,EDU
+1383,"Woodbridge, Virginia",PORT,EDU
+1384,"Rochester, New York",DISC,MED
+1385,"Sparta Township, New Jersey",DISC,GOV
+1386,"San Bernardino, California",DISC,EDU
+1387,"Englewood, Colorado",HACK,BSO
+1388,"Nashville, Tennessee",PHYS,NGO
+1389,"Boston, Massachusetts",PHYS,GOV
+1390,"Berwyn, Illinois",PHYS,MED
+1391,"Manhattan Beach, California",STAT,BSF
+1392,"Cleveland, Ohio",INSD,BSR
+1393,"Saline, Michigan",HACK,BSO
+1394,"Gainesville, Florida",PORT,EDU
+1395,"New York, New York",PORT,BSO
+1396,"Columbus, Ohio",PHYS,GOV
+1397,"Sacramento, California",PHYS,GOV
+1398,"Covington, Kentucky",PHYS,BSF
+1399,,PORT,BSO
+1400,"Oberlin, Ohio",STAT,GOV
+1401,"Dillon, Montana",PORT,EDU
+1402,"Omaha, Nebraska",PORT,BSF
+1403,"Jackson, Michigan",PORT,EDU
+1404,"Merced, California",PORT,MED
+1405,"Bozeman, Montana",DISC,EDU
+1406,"Atlanta, Georgia",CARD,BSF
+1407,"Dallas, Texas",INSD,GOV
+1408,"Lancaster, Pennsylvania",STAT,EDU
+1409,"Sacramento, California",PHYS,GOV
+1410,"Washington, District Of Columbia",PORT,GOV
+1411,"Everett, Washington",PORT,MED
+1412,"Tempe, Arizona",PHYS,BSR
+1413,"Indianapolis, Indiana",DISC,EDU
+1414,"Indianapolis, Indiana",DISC,GOV
+1415,"Sterling, Colorado",PHYS,MED
+1416,"Charlotte, North Carolina",PORT,BSF
+1417,"San Diego, California",DISC,BSO
+1418,"Seattle, Washington",PORT,MED
+1419,"San Antonio, Texas",PHYS,MED
+1420,"Hurst, Texas",PHYS,BSF
+1421,"Albany, New York",DISC,GOV
+1422,"Seattle, Washington",PHYS,GOV
+1423,"Indianapolis, Indiana",DISC,GOV
+1424,"Detroit, Michigan",PORT,GOV
+1425,"Baltimore, Maryland",PORT,GOV
+1426,"Concord, New Hampshire",DISC,GOV
+1427,"Dunmore, Pennsylvania",STAT,GOV
+1428,"Raleigh, North Carolina",UNKN,GOV
+1429,"Reading, Pennsylvania",DISC,GOV
+1430,"Cape Girardeau, Missouri",PHYS,GOV
+1431,"Rochester, New York",PORT,EDU
+1432,"Dallas, Texas",STAT,GOV
+1433,"Riverside, California",DISC,GOV
+1434,"Greenville, Texas",DISC,GOV
+1435,"Sacramento, California",PORT,GOV
+1436,"Houston, Texas",PORT,NGO
+1437,"Portland, Oregon",STAT,MED
+1438,"Chattanooga, Tennessee",PORT,MED
+1439,"Memphis, Tennessee",HACK,BSR
+1440,"San Antonio, Texas",DISC,BSR
+1441,"Jonesboro, Arkansas",DISC,EDU
+1442,"Overland Park, Kansas",INSD,BSO
+1443,"Overland Park, Kansas",INSD,BSR
+1444,"Edmond, Oklahoma",PHYS,BSF
+1445,"Chicago, Illinois",PORT,GOV
+1446,"Essex, Massachusetts",PHYS,GOV
+1447,"Chicago, Illinois",PHYS,MED
+1448,"Louisville, Kentucky",PHYS,BSF
+1449,"Loma Linda , California",STAT,MED
+1450,"Ypsilanti, Michigan",HACK,EDU
+1451,"New York, New York",PORT,EDU
+1452,"Des Moines, Iowa",HACK,GOV
+1453,"Sacramento, California",DISC,GOV
+1454,"White Plains, New York",INSD,BSR
+1455,"Phoenix, Arizona",INSD,MED
+1456,"Norwalk, Connecticut",HACK,BSR
+1457,"Fall River, Massachusetts",PORT,MED
+1458,"West Orange, New Jersey",PORT,MED
+1459,"New York, New York",PORT,EDU
+1460,"Albuquerque, New Mexico",PORT,MED
+1461,"New York, New York",PORT,MED
+1462,"Roseville, California",HACK,BSR
+1463,"New York, New York",INSD,GOV
+1464,"Houston, Texas",PORT,EDU
+1465,"Manchester, New Hampshire",DISC,EDU
+1466,"East Providence, Rhode Island",PORT,BSF
+1467,"Los Angeles, California",INSD,GOV
+1468,"Boulder, Colorado",PHYS,BSR
+1469,"Batesville, Indiana",STAT,MED
+1470,"Bakersfield, California",HACK,MED
+1471,"Indianapolis, Indiana",PORT,MED
+1472,"Warwick, Rhode Island",PHYS,MED
+1473,"New York, New York",DISC,EDU
+1474,"Camden, New Jersey",PORT,MED
+1475,"Washington, District Of Columbia",PORT,GOV
+1476,"Augusta, Maine",DISC,EDU
+1477,"Des Moines, Iowa",PORT,MED
+1478,"Louisville, Kentucky",INSD,MED
+1479,"Rochester, New York",PORT,MED
+1480,"Dayton, Ohio",PORT,MED
+1481,"Washington, District Of Columbia",PORT,MED
+1482,"Minneapolis, Minnesota",PHYS,MED
+1483,"Minneapolis, Minnesota",PHYS,MED
+1484,"Baltimore, Maryland",INSD,MED
+1485,"Baltimore, Maryland",INSD,MED
+1486,"Memphis, Tennessee",PORT,BSF
+1487,"Gainesville, Florida",DISC,EDU
+1488,"Southwest Ranches, Florida",CARD,BSR
+1489,"Washington, District Of Columbia",INSD,BSR
+1490,"Washington, District Of Columbia",INSD,BSR
+1491,"Cleveland, Ohio",PORT,BSF
+1492,"Eau Claire, Wisconsin",CARD,BSF
+1493,"Lincoln, Nebraska",HACK,BSR
+1494,"Farmington Hills, Michigan",PHYS,BSF
+1495,"Port St. Joe, Florida",PHYS,MED
+1496,"La Mesa, California",INSD,BSF
+1497,"Omaha, Nebraska",PHYS,MED
+1498,"Alpharetta, Georgia",DISC,BSO
+1499,"Natchitoches, Louisiana",HACK,BSR
+1500,"Tallahassee, Florida",HACK,BSR
+1501,"Shreveport, Louisiana",PHYS,GOV
+1502,"San Diego, California",STAT,BSR
+1503,"Dublin, Ohio",PORT,MED
+1504,"Greenburgh, New York",CARD,BSF
+1505,"New York, New York",PHYS,EDU
+1506,"Anton, Massachusetts",INSD,BSR
+1507,"Chicago, Illinois",DISC,BSF
+1508,"Norco, California",DISC,EDU
+1509,"Jackson, Mississippi",DISC,GOV
+1510,"Washington, District Of Columbia",DISC,GOV
+1511,"Baltimore, Maryland",PORT,MED
+1512,"Norman, Oklahoma",HACK,EDU
+1513,"Dayton, Ohio",PHYS,GOV
+1514,"Rockville, Maryland",PORT,MED
+1515,"Oklahoma City, Oklahoma",HACK,MED
+1516,"Anchorage, Alaska",PORT,NGO
+1517,"Newport Beach, California",PORT,MED
+1518,"Chicago, Illinois",PHYS,MED
+1519,"Wichita, Kansas",PORT,MED
+1520,"Bronx, New York",STAT,MED
+1521,"Inglewood, California",STAT,MED
+1522,"Hudson, New Hampshire",PORT,BSO
+1523,"Chesapeake, Virginia",PORT,MED
+1524,"Tacoma, Washington",STAT,MED
+1525,"San Antonio, Texas",PHYS,BSO
+1526,"Barstow, California",PHYS,MED
+1527,"Chino Hills, California",PHYS,MED
+1528,"Middletown, Ohio",PHYS,GOV
+1529,"Lafayette, Colorado",PHYS,MED
+1530,"Lake Mary, Florida",PHYS,MED
+1531,"Greensburg, Pennsylvania",PORT,MED
+1532,"Greensburg, Pennsylvania",PORT,MED
+1533,"St. John, Missouri",DISC,MED
+1534,"Lewiston, New York",PORT,MED
+1535,"Patuxent River, Maryland",INSD,BSF
+1536,"New York, New York",HACK,BSF
+1537,"Naperville, Illinois",HACK,BSR
+1538,"Florence, Kentucky",INSD,BSF
+1539,"Johnson City, Tennessee",PHYS,GOV
+1540,"Lake County, Florida",INSD,BSF
+1541,"Wilmington, Delaware",DISC,BSF
+1542,"Washington, District Of Columbia",PORT,BSO
+1543,"Columbia, South Carolina",DISC,EDU
+1544,"San Diego, California",STAT,BSF
+1545,"West Sacramento, California",PHYS,MED
+1546,"Socorro, New Mexico",DISC,EDU
+1547,"Jacksonville, Florida",HACK,EDU
+1548,"Jacksonville, Florida",PHYS,BSF
+1549,"Westminster, California",INSD,BSF
+1550,"Beaumont, Texas",UNKN,BSO
+1551,"Milwaukee, Wisconsin",INSD,GOV
+1552,"Northbrook, Illinois",PHYS,BSO
+1553,"Walworth, Wisconsin",DISC,EDU
+1554,"Accomac, Virginia",PORT,GOV
+1555,"Little Rock, Arkansas",PORT,MED
+1556,"Somerset, Kentucky",PHYS,MED
+1557,"Houston, Texas",PORT,MED
+1558,"Norman, Oklahoma",PHYS,MED
+1559,"San Luis Obispo, California",PHYS,GOV
+1560,"Purchase, New York",PORT,MED
+1561,"Irvine, California",UNKN,EDU
+1562,"Dayton, Ohio",CARD,BSF
+1563,"Miami, Florida",INSD,MED
+1564,"New York, New York",STAT,MED
+1565,"South Pasadena, California",STAT,BSR
+1566,"Washington, District Of Columbia",PORT,GOV
+1567,"Phoenix, Arizona",UNKN,MED
+1568,"Baton Rouge, Louisiana",HACK,GOV
+1569,"Laurinburg, North Carolina",PHYS,BSF
+1570,"Storrs Mansfield, Connecticut",DISC,EDU
+1571,"Burien, Washington",HACK,MED
+1572,"San Francisco, California",INSD,EDU
+1573,"San Diego, California",PORT,MED
+1574,"Los Angeles, California",HACK,BSR
+1575,"Honolulu, Hawaii",HACK,EDU
+1576,"Durham, North Carolina",HACK,EDU
+1577,"Warner Robins, Georgia",HACK,GOV
+1578,"South Orange, New Jersey",DISC,EDU
+1579,"Indianapolis, Indiana",PHYS,BSR
+1580,"Fullerton, California",STAT,BSO
+1581,"Los Angeles, California",PHYS,GOV
+1582,"Modesto, California",PORT,EDU
+1583,"Charlotte, North Carolina",PHYS,GOV
+1584,"Los Angeles, California",HACK,BSO
+1585,"San Francisco, California",PORT,BSR
+1586,"Greeley, Colorado",PORT,EDU
+1587,"San Diego, California",STAT,BSO
+1588,"Quincy, Massachusetts",DISC,BSF
+1589,"Boston, Massachusetts",HACK,EDU
+1590,"Washington, District Of Columbia",PORT,GOV
+1591,"Honolulu, Hawaii",STAT,EDU
+1592,"Honolulu, Hawaii",INSD,EDU
+1593,"Woonsocket, Rhode Island",DISC,BSR
+1594,"Rochester, New York",PORT,BSO
+1595,"Minnetonka, Minnesota",INSD,MED
+1596,"New York, New York",PORT,BSO
+1597,"Los Angeles, California",DISC,BSO
+1598,"Phoenix, Arizona",PORT,MED
+1599,"Ames, Iowa",HACK,EDU
+1600,"Anderson, North Carolina",PHYS,EDU
+1601,"Madison, Wisconsin",PHYS,EDU
+1602,"North Canton, Ohio",DISC,EDU
+1603,"Dallas, Texas",PHYS,GOV
+1604,"West Des Moines, Iowa",PORT,BSF
+1605,"Chicago, Illinois",PORT,BSF
+1606,"Colorado Springs, Colorado",PORT,GOV
+1607,"San Francisco, California",PHYS,GOV
+1608,"Athens, Georgia",HACK,EDU
+1609,"New York, New York",PHYS,BSR
+1610,"West Long Branch, New Jersey",DISC,EDU
+1611,"Randolph Center, Vermont",DISC,EDU
+1612,"Knoxville, Tennessee",HACK,EDU
+1613,"Louisville, Kentucky",DISC,BSR
+1614,"Washington, District Of Columbia",INSD,GOV
+1615,"Shelbyville, Indiana",PHYS,BSR
+1616,"Indianapolis, Indiana",HACK,EDU
+1617,"Knoxville, Tennessee",DISC,EDU
+1618,"Newark, Delaware",HACK,EDU
+1619,"Minneapolis, Minnesota",INSD,BSF
+1620,"San Antonio, Texas",PORT,EDU
+1621,"Richmond, Virginia",DISC,EDU
+1622,"Dallas, Texas",PHYS,GOV
+1623,"Orlando, Florida",PORT,BSR
+1624,"Lynbrook, New York",PHYS,BSR
+1625,"Springfield, Oregon",PHYS,BSF
+1626,"Richmond, Virginia",DISC,EDU
+1627,"Woodstock, Georgia",PHYS,MED
+1628,"Wilmington, North Carolina",DISC,GOV
+1629,"Duluth, Minnesota",STAT,EDU
+1630,"Minneapolis, Minnesota",PORT,BSF
+1631,"Newark, Delaware",STAT,EDU
+1632,"San Ramon, California",PORT,BSO
+1633,"Lawrence, Kansas",DISC,EDU
+1634,"New York, New York",INSD,GOV
+1635,"Pittsburgh, Pennsylvania",DISC,MED
+1636,"Springfield, Illinois",STAT,NGO
+1637,"Boston, Massachusetts",DISC,BSO
+1638,"Colorado Springs, Colorado",HACK,EDU
+1639,"Albuquerque, New Mexico",STAT,MED
+1640,"Long Island, New York",DISC,GOV
+1641,"Seattle, Washington",HACK,MED
+1642,"Little Rock, Arkansas",PHYS,BSR
+1643,", New Hampshire",HACK,GOV
+1644,"Houston, Texas",PORT,MED
+1645,"New York, New York",PORT,BSO
+1646,"New York, New York",DISC,EDU
+1647,"New York, New York",DISC,BSR
+1648,"Washington, District Of Columbia",DISC,GOV
+1649,"Carson, California",PORT,EDU
+1650,"Lincoln, Nebraska",DISC,EDU
+1651,"Los Angeles, California",PHYS,GOV
+1652,"Bethesda, Maryland",PORT,BSF
+1653,"Ruidoso, New Jersey",HACK,BSF
+1654,"Brooklyn, New York",DISC,EDU
+1655,"Orlando, Florida",HACK,BSR
+1656,"Lake Oswego, Oregon",STAT,BSF
+1657,"Southfield, Michigan",UNKN,BSF
+1658,"Columbus, Ohio",PORT,GOV
+1659,"New York, New York",PORT,BSF
+1660,"New York, New York",PORT,BSF
+1661,"Ft. Lauderdale, Florida",PORT,NGO
+1662,"Rome, Georgia",HACK,EDU
+1663,"Fort Lauderdale, Florida",DISC,GOV
+1664,"Providence, Rhode Island",HACK,BSR
+1665,"Evansville, Indiana",INSD,BSF
+1666,"Newport Beach, California",PORT,BSF
+1667,"Charlottesville, Virginia",STAT,EDU
+1668,"Poughkeepsie, New York",PORT,MED
+1669,"Washington, District Of Columbia",HACK,GOV
+1670,"New York, New York",DISC,BSF
+1671,"New York, New York",PORT,MED
+1672,"Jersey City, New Jersey",PORT,BSF
+1673,"Lincoln, Rhode Island",PORT,BSF
+1674,"Novato, California",PORT,BSF
+1675,"Syracuse, New York",HACK,BSO
+1676,"Columbus, Georgia",PORT,BSF
+1677,"Winter Park, Florida",DISC,BSF
+1678,"New Paltz, New York",HACK,EDU
+1679,"Athens, Ohio",HACK,EDU
+1680,"Columbus, Georgia",HACK,BSF
+1681,"Berkeley, California",HACK,EDU
+1682,"Dallas, Texas",PORT,NGO
+1683,"Washington, District Of Columbia",PORT,GOV
+1684,"Birmingham, Alabama",PORT,MED
+1685,"Southport, North Carolina",HACK,BSF
+1686,"Miami, Florida",UNKN,BSF
+1687,"Plano, Texas",INSD,BSF
+1688,"Albany, New York",PORT,GOV
+1689,"Sayville, New York",STAT,BSF
+1690,"New York, New York",PORT,BSF
+1691,"Boston, Massachusetts",PORT,BSF
+1692,"Philadelphia, Pennsylvania",PORT,BSF
+1693,"New York, New York",PORT,GOV
+1694,"Durham, North Carolina",DISC,MED
+1695,", California",PORT,GOV
+1696,"San Antonio, Texas",HACK,BSF
+1697,"Landover, Maryland",PORT,BSR
+1698,"Denver, Colorado",PHYS,GOV
+1699,"Athens, Ohio",HACK,MED
+1700,"Phoenix, Arizona",PORT,BSF
+1701,"Boston, Massachusetts",PORT,BSO
+1702,"Minneapolis, Minnesota",PORT,GOV
+1703,"Jersey City, New Jersey",DISC,GOV
+1704,"Washington, District Of Columbia",UNKN,GOV
+1705,"Atlanta, Georgia",PORT,GOV
+1706,"Seattle, Washington",DISC,GOV
+1707,"Fayetteville, Arkansas",PORT,GOV
+1708,"Lincoln, Nebraska",DISC,GOV
+1709,"Northridge, California",PHYS,MED
+1710,"Bulverde, Texas",HACK,BSR
+1711,"Greensboro, North Carolina",PORT,BSR
+1712,"Waterford, Connecticut",PORT,MED
+1713,"Hartford, Connecticut",UNKN,MED
+1714,"Flower Mound, Texas",PORT,MED
+1715,"New York, New York",HACK,EDU
+1716,"Atlanta, Georgia",PORT,BSO
+1717,"Brooklyn, New York",PORT,MED
+1718,"Brooklyn, New York",PHYS,EDU
+1719,"Saratoga Springs, New York",INSD,EDU
+1720,"Conneaut, Ohio",UNKN,BSF
+1721,"Rochester, New York",DISC,EDU
+1722,"Harrison, New York",PORT,MED
+1723,"Reno, Nevada",STAT,BSF
+1724,"Eagan, Minnesota",PORT,BSO
+1725,"Roseland, New Jersey",UNKN,BSO
+1726,"Norfolk, Virginia",DISC,GOV
+1727,"Wellington, Kansas",PORT,GOV
+1728,"Torrance, California",PORT,BSO
+1729,"Monterey Park, California",HACK,GOV
+1730,"Los Angeles, California",PORT,GOV
+1731,"Stevens Point, Wisconsin",INSD,BSF
+1732,"Buffalo, New York",PHYS,MED
+1733,", New York",INSD,GOV
+1734,"Houston, Texas",PORT,BSF
+1735,"Stone Ridge, New York",PORT,EDU
+1736,"New York, New York",STAT,EDU
+1737,"Clarksville, Tennessee",DISC,EDU
+1738,"Bridgeport, Connecticut",PORT,BSF
+1739,"New York, New York",DISC,EDU
+1740,"Troy, Michigan",PORT,MED
+1741,"Basking Ridge, New Jersey",DISC,BSR
+1742,"Reston, Virginia",INSD,GOV
+1743,"New York, New York",STAT,EDU
+1744,"Irvine, California",INSD,BSF
+1745,"Covina, California",PORT,BSF
+1746,"New York, New York",PORT,BSF
+1747,"Washington, District Of Columbia",PHYS,BSR
+1748,"Great Neck, New York",STAT,GOV
+1749,"Dallas, Texas",PORT,MED
+1750,"Washington, District Of Columbia",PORT,BSR
+1751,"Fairfield, California",HACK,BSR
+1752,"Irondequoit, New York",PORT,MED
+1753,"Roseville, California",HACK,BSF
+1754,"Paris, Kentucky",PORT,GOV
+1755,"San Antonio, Texas",HACK,EDU
+1756,"Florissant, Missouri",PORT,MED
+1757,"Bronx, New York",PHYS,GOV
+1758,"Knoxville, Tennessee",HACK,BSO
+1759,"Salina, Kansas",PHYS,BSF
+1760,"Dallas, Texas",HACK,BSR
+1761,"Peterborough, New Hampshire",HACK,BSF
+1762,"Great Falls, Montana",HACK,BSF
+1763,"Macon, Georgia",INSD,MED
+1764,"Grantham, Pennsylvania",PORT,EDU
+1765,"South Bend, Indiana",UNKN,BSF
+1766,"Washington, District Of Columbia",DISC,BSF
+1767,"Bakersfield, California",INSD,GOV
+1768,"Dallas, Texas",DISC,BSR
+1769,"Oakland, California",DISC,MED
+1770,"Minneapolis, Minnesota",PHYS,MED
+1771,"Jamestown, New York",PHYS,GOV
+1772,"Springfield, Illinois",PHYS,GOV
+1773,"Oakland, California",PORT,BSF
+1774,"New York, New York",DISC,BSO
+1775,"Greenwood, Delaware",PORT,BSF
+1776,"Olean, New York",HACK,BSF
+1777,"Poughkeepsie, New York",STAT,BSF
+1778,"Palm Beach, Florida",PORT,BSF
+1779,"Rancho Cordova, California",PORT,BSF
+1780,"Camden, New York",HACK,BSR
+1781,"Novato, California",PORT,BSF
+1782,"Englewood, Colorado",HACK,BSR
+1783,"Bakersfield, California",PHYS,MED
+1784,"West Lafayette, Indiana",STAT,EDU
+1785,"Columbus, Ohio",PORT,BSF
+1786,"New York, New York",INSD,EDU
+1787,"New York, New York",PORT,MED
+1788,"Burbank, California",PORT,BSR
+1789,"San Jose, California",HACK,BSF
+1790,"New York, New York",DISC,BSF
+1791,"Melville, New York",HACK,BSF
+1792,"Gastonia, North Carolina",PHYS,BSR
+1793,"Boston, Massachusetts",STAT,BSF
+1794,"Edmonds, Washington",INSD,MED
+1795,"Tallahassee, Florida",DISC,GOV
+1796,"Indianapolis, Indiana",PORT,MED
+1797,"Chicago, Illinois",PORT,GOV
+1798,"Portland, Oregon",PORT,GOV
+1799,"Great Neck, New York",PORT,BSF
+1800,"Minneapolis, Minnesota",DISC,BSF
+1801,"El Segundo, California",PORT,BSR
+1802,"Bethpage, New York",PHYS,BSF
+1803,"Englewood, Colorado",PORT,BSF
+1804,"New York, New York",PORT,EDU
+1805,"Buffalo, New York",PORT,BSF
+1806,"Philadelphia, Pennsylvania",PORT,BSO
+1807,"New York, New York",PORT,MED
+1808,"Atlanta, Georgia",PORT,BSR
+1809,"Boca Raton, Florida",PORT,BSO
+1810,"Tulsa, Oklahoma",INSD,MED
+1811,"Detroit, Michigan",PORT,MED
+1812,"Jackson, Mississippi",STAT,MED
+1813,"Tacoma, Washington",PHYS,GOV
+1814,"Washington, District Of Columbia",DISC,GOV
+1815,"Omaha , Nebraska",STAT,MED
+1816,"Indianapolis, Indiana",PHYS,MED
+1817,"San Juan, Puerto Rico",HACK,MED
+1818,"Woonsocket, Rhode Island",PHYS,MED
+1819,"Baltimore, Maryland",INSD,BSF
+1820,"Chicago, Illinois",CARD,BSR
+1821,"Tucson, Arizona",PORT,EDU
+1822,"Houston, Texas",HACK,EDU
+1823,"Knoxville, Tennessee",PHYS,MED
+1824,"Harlingen, Texas",PHYS,BSF
+1825,"Hanover, New Hampshire",PORT,EDU
+1826,"Gardena, California",PHYS,MED
+1827,"Philadelphia, Pennsylvania",STAT,MED
+1828,"Brooklyn, New York",STAT,MED
+1829,"Newark, New Jersey",DISC,MED
+1830,"New Orleans, Louisiana",PHYS,MED
+1831,"Tulsa, Oklahoma",PHYS,BSF
+1832,"Madison, Wisconsin",HACK,EDU
+1833,"Delaware, Ohio",PORT,EDU
+1834,"Libertyville, Illinois",INSD,GOV
+1835,"Evansville, Indiana",PORT,NGO
+1836,"Mesa, Arizona",PORT,MED
+1837,"Portsmouth, Virginia",PHYS,BSF
+1838,"Deerfield, Illinois",HACK,BSR
+1839,"New York, New York",INSD,BSF
+1840,"Bowle, Maryland",UNKN,BSF
+1841,"Houston, Texas",STAT,BSO
+1842,"Elmira, New York",STAT,BSF
+1843,"Winter Park, Florida",PORT,BSF
+1844,"New York, New York",PORT,MED
+1845,"Seattle, Washington",PORT,BSR
+1846,"New York, New York",PHYS,GOV
+1847,"Chicago, Illinois",PORT,BSO
+1848,"Denver, Colorado",PORT,MED
+1849,"Chester, Pennsylvania",INSD,BSF
+1850,"Providence, Rhode Island",DISC,BSF
+1851,"Chester, Pennsylvania",HACK,BSF
+1852,"Penn Yan, New York",PORT,MED
+1853,"North Las Vegas, Nevada",STAT,BSR
+1854,"Bronx, New York",DISC,EDU
+1855,"Albany, New York",PHYS,EDU
+1856,"Bethesda, Maryland",INSD,BSF
+1857,"Tallahassee, Florida",INSD,BSR
+1858,"New York, New York",HACK,BSO
+1859,"Chicago, Illinois",INSD,EDU
+1860,"Jena, Louisiana",HACK,BSF
+1861,"Cleveland, Ohio",DISC,BSF
+1862,"Stony Brook, New York",STAT,EDU
+1863,"Charlotte, North Carolina",PORT,BSR
+1864,"Bloomfield, Connecticut",PORT,BSF
+1865,"Montvale, New Jersey",PORT,BSO
+1866,"Bellevue, Washington",INSD,BSO
+1867,"West Covina, California",PORT,MED
+1868,"Dolton, Illinois",INSD,GOV
+1869,"San Diego, California",STAT,BSF
+1870,"Grand Rapids, Michigan",DISC,GOV
+1871,"New York, New York",HACK,EDU
+1872,"New York, New York",DISC,EDU
+1873,"Raleigh, North Carolina",PORT,EDU
+1874,"Woodbridge, New Jersey",PORT,BSR
+1875,"Long Island, New York",PORT,MED
+1876,"New York, New York",STAT,EDU
+1877,"Louisville, Kentucky",PORT,BSF
+1878,"New York, New York",DISC,EDU
+1879,"Pittsburgh, Pennsylvania",INSD,MED
+1880,"Cornelius, North Carolina",PHYS,BSF
+1881,"Boca Raton, Florida",INSD,BSO
+1882,"Mesquite, Texas",INSD,BSF
+1883,"Brooklyn, New York",PORT,GOV
+1884,"Ithica, New York",PORT,EDU
+1885,"North Charleston, South Carolina",PORT,EDU
+1886,"Johnston County, North Carolina",PORT,GOV
+1887,"New York, New York",INSD,BSF
+1888,"Greenville, South Carolina",PHYS,EDU
+1889,"Wilsonville, Oregon",PORT,BSR
+1890,"Newark, New Jersey",PORT,EDU
+1891,"Columbus, Ohio",DISC,GOV
+1892,"Salina, Kansas",PORT,MED
+1893,"Waterbury, Vermont",HACK,GOV
+1894,"Escondido, California",STAT,GOV
+1895,"San Francisco, California",PORT,BSR
+1896,"Detroit, Michigan",PORT,EDU
+1897,"Memphis, Tennessee",PORT,BSF
+1898,,PORT,BSF
+1899,"Fort Worth, Texas",PORT,BSR
+1900,"Charlotte, North Carolina",PORT,BSR
+1901,"Glendale, California",HACK,BSO
+1902,"Philadelphia, Pennsylvania",INSD,BSF
+1903,"New York, New York",PORT,MED
+1904,"Cedar Rapid, Iowa",INSD,BSF
+1905,"New York, New York",STAT,EDU
+1906,"Cheektowaga, New York",STAT,MED
+1907,"Windsor, Connecticut",PORT,BSF
+1908,"Durham, North Carolina",PORT,NGO
+1909,"New York, New York",INSD,BSF
+1910,"Tallahassee, Florida",PORT,MED
+1911,"Alpharetta, Georgia",PORT,BSF
+1912,"St. Louis Park, Minnesota",PORT,BSR
+1913,"Louisville, Kentucky",PORT,BSR
+1914,"Camarillo, California",HACK,BSR
+1915,"Waltham, Massachusetts",PORT,MED
+1916,"Lake Forrest, Illinois",HACK,BSR
+1917,"Seattle, Washington",PORT,BSR
+1918,"Stony Brook, New York",DISC,EDU
+1919,"Waco, Texas",INSD,BSO
+1920,"Okeechobee, Florida",INSD,BSR
+1921,"Redmond, Washington",STAT,BSO
+1922,"Orlando, Florida",INSD,BSO
+1923,"Grand Junction, Colorado",DISC,GOV
+1924,"Hollywood, California",HACK,BSO
+1925,"New York, New York",HACK,BSO
+1926,"Palm Beach Garden, Florida",PORT,BSO
+1927,"Burr Ridge, Illinois",DISC,EDU
+1928,"Boca Raton, Florida",INSD,BSO
+1929,,PORT,BSF
+1930,"Midwest City, Oklahoma",UNKN,BSR
+1931,"New York, New York",PORT,GOV
+1932,"New York, New York",DISC,BSF
+1933,"Saint Petersburg, Florida",HACK,BSO
+1934,"Albany, New York",PORT,MED
+1935,,INSD,BSO
+1936,"Fort Monroe, Virginia",PORT,GOV
+1937,"Chicago, Illinois",PORT,BSF
+1938,"New York, New York",HACK,BSO
+1939,"Stamford, Connecticut",PORT,BSF
+1940,"New Orleans, Louisiana",PORT,NGO
+1941,"Edina, Minnesota",PORT,BSO
+1942,"Old Westbury, New York",DISC,EDU
+1943,"Malvern, Pennsylvania",PORT,BSR
+1944,"Raleigh, North Carolina",PHYS,GOV
+1945,"Patchogue, New York",HACK,GOV
+1946,"Flushing, New York",INSD,GOV
+1947,"Sacramento, California",PORT,BSF
+1948,"Cranston, Rhode Island",STAT,BSF
+1949,"Dallas, Texas",PORT,BSF
+1950,"Rhinelander, Wisconsin",HACK,BSO
+1951,"Albany, New York",DISC,GOV
+1952,"Edwardsville, Illinois",PORT,BSF
+1953,"Peoria, Illinois",PORT,BSO
+1954,"Las Vegas, Nevada",UNKN,BSR
+1955,"Atlanta, Georgia",PORT,BSR
+1956,"Newark, New Jersey",DISC,BSO
+1957,"Greensboro, North Carolina",PHYS,EDU
+1958,"Morristown, New Jersey",PORT,BSF
+1959,"Cherry Hill, New Jersey",PORT,BSF
+1960,"Los Angeles, California",STAT,BSF
+1961,"Houston, Texas",PORT,BSO
+1962,"Wixom, Michigan",INSD,BSO
+1963,"Itasca, Illinois",DISC,BSR
+1964,"Bellevue, Washington",HACK,BSR
+1965,"San Diego, California",PORT,BSF
+1966,"Hackettstown, New Jersey",INSD,BSF
+1967,"Dallas, Texas",PORT,BSF
+1968,"Chicago, Illinois",PORT,BSF
+1969,"New York, New York",PHYS,BSF
+1970,"Asheville, North Carolina",HACK,BSO
+1971,"Southold, New York",PORT,BSF
+1972,"Sunnyvale, California",UNKN,BSR
+1973,"San Antonio, Texas",PHYS,BSF
+1974,"Dallas, Texas",PHYS,EDU
+1975,"San Diego, California",HACK,BSF
+1976,"Petersborough, New Hampshire",HACK,BSO
+1977,"Manchester, New Hampshire",DISC,BSO
+1978,"Atlanta, Georgia",PORT,BSR
+1979,"Palo Alto, California",HACK,BSO
+1980,"Armonk, New York",PORT,BSO
+1981,"Trumbull, Connecticut",INSD,MED
+1982,"Boca Raton, Florida",HACK,BSF
+1983,"New York, New York",PORT,BSO
+1984,"Jacksonville, Florida",DISC,BSF
+1985,,DISC,MED
+1986,"Providence, Rhode Island",PORT,BSF
+1987,"Huntsville, Alabama",HACK,BSR
+1988,"Levington, Kentucky",PORT,GOV
+1989,"Mankato, Minnesota",PORT,MED
+1990,"Hato Ray, Puerto Rico",HACK,MED
+1991,"San Antonio, Texas",STAT,MED
+1992,"Dallas, Texas",PHYS,GOV
+1993,"Saint Paul, Minnesota",DISC,MED
+1994,"Tampa, Florida",PORT,GOV
+1995,"Chicago, Illinois",DISC,GOV
+1996,"Southfield, Michigan",INSD,MED
+1997,"Reno, Nevada",HACK,MED
+1998,"chicago, Illinois",STAT,MED
+1999,"Madison, Wisconsin",PORT,MED
+2000,"Dallas, Texas",PORT,GOV
+2001,"Jasper, Indiana",INSD,BSF
+2002,"New Orleans, Louisiana",INSD,NGO
+2003,"Houston, Texas",HACK,BSR
+2004,"Fayetteville, North Carolina",INSD,BSR
+2005,"Scottsdale, Arizona",STAT,MED
+2006,"Atlanta, Georgia",PORT,BSO
+2007,"Irvine, California",HACK,BSF
+2008,"Atlanta, Georgia",PORT,BSR
+2009,"Berlin, Connecticut",HACK,BSR
+2010,"Reston, Virginia",HACK,BSO
+2011,"Durham, New Hampshire",DISC,EDU
+2012,"Stamford, Connecticut",PORT,BSF
+2013,"Norwalk, Connecticut",PORT,BSO
+2014,"Summit, New Jersey",PORT,BSR
+2015,"Woodbury, New York",PORT,BSF
+2016,"Dallas, Texas",HACK,BSF
+2017,"Durham, North Carolina",DISC,BSF
+2018,"New York, New York",INSD,MED
+2019,"Washington, District Of Columbia",PORT,NGO
+2020,"Northfield, Illinois",PORT,BSR
+2021,"Jacksonville, Florida",PORT,BSR
+2022,"Denver, Colorado",PHYS,MED
+2023,"Wilkes-Barre, Pennsylvania",DISC,MED
+2024,"Toledo, Ohio",PHYS,MED
+2025,"Bentonville, Arkansas",INSD,BSR
+2026,"Pinehurst, North Carolina",PORT,BSF
+2027,"Ithaca, New York",STAT,EDU
+2028,"Simsbury Center, Connecticut",HACK,BSF
+2029,"Kalispell, Montana",HACK,BSO
+2030,"Kalispell, Montana",HACK,BSO
+2031,"Elk Grove Village, Illinois",PORT,MED
+2032,"Pleasantville, New York",HACK,BSR
+2033,"Lantana, Florida",PORT,BSR
+2034,"New York, New York",HACK,BSF
+2035,"La Jolla, California",PORT,BSR
+2036,"San Diego, California",HACK,BSF
+2037,"Springfield, Illinois",PORT,BSF
+2038,"Jericho, New York",HACK,BSF
+2039,"New York, New York",PORT,BSF
+2040,"Boston, Massachusetts",DISC,EDU
+2041,"Wesley Chapel, Florida",PORT,BSF
+2042,"Alexandria, Virginia",PORT,BSF
+2043,"Boston, Massachusetts",UNKN,MED
+2044,"Raritan, New Jersey",DISC,BSO
+2045,"Marshall, Texas",DISC,BSO
+2046,"New York, New York",STAT,NGO
+2047,"Fort Washington, Pennsylvania",INSD,BSF
+2048,"Suwanee, Georgia",STAT,BSR
+2049,"Weehawken, New Jersey",PORT,BSF
+2050,"Glen Allen, Virginia",DISC,BSR
+2051,"Topsham, Maine",HACK,BSR
+2052,"Raleigh, North Carolina",PORT,EDU
+2053,"New York, New York",DISC,MED
+2054,"Carson City, Nevada",PORT,GOV
+2055,"San Antonio, Texas",UNKN,BSF
+2056,"Las Vegas, Nevada",HACK,BSR
+2057,"Cambridge, Massachusetts",PHYS,EDU
+2058,"Littleton, New Hampshire",INSD,MED
+2059,"Nashville, Tennessee",HACK,BSF
+2060,"Somers, New York",PORT,BSR
+2061,"New York, New York",INSD,GOV
+2062,"Wyomissing, Pennsylvania",HACK,BSF
+2063,"Irvine, California",UNKN,BSO
+2064,"St. Paul, Minnesota",DISC,BSR
+2065,"Savannah, Georgia",PORT,EDU
+2066,"Chicago, Illinois",PORT,BSF
+2067,"Albany, New York",DISC,BSF
+2068,"Turlock, California",DISC,EDU
+2069,"Oklahoma City, Oklahoma",PHYS,GOV
+2070,"San Antonio, Texas",INSD,BSR
+2071,"Panama City, Florida",HACK,BSR
+2072,"Plano, Texas",PHYS,BSO
+2073,"Springfield, Illinois",PORT,BSF
+2074,"Foxborough, Massachusetts",PHYS,EDU
+2075,"Ann Arbor, Michigan",HACK,BSR
+2076,"Palo Alto, California",DISC,BSR
+2077,"Montpelier, Vermont",DISC,BSO
+2078,"Richmond, Virginia",HACK,BSR
+2079,"Dublin, Ohio",PORT,BSR
+2080,"Lone Tree, Colorado",PHYS,GOV
+2081,"Del Mar, California",STAT,BSF
+2082,"Chicago, Illinois",STAT,BSR
+2083,"Watertown, Massachusetts",PORT,EDU
+2084,"Boston, Massachusetts",PORT,BSF
+2085,"New York, New York",PORT,BSF
+2086,"Lansing, Michigan",HACK,BSF
+2087,"Carlsbad, California",PORT,BSO
+2088,"Indianapolis, Indiana",HACK,NGO
+2089,"Los Angeles, California",DISC,BSF
+2090,"Horsham, Pennsylvania",PORT,BSR
+2091,"Natick, Massachusetts",PORT,BSR
+2092,"West Richland, Washington",INSD,BSF
+2093,"New York, New York",PHYS,BSO
+2094,"Rockville, Maryland",PHYS,MED
+2095,"New York, New York",PORT,BSO
+2096,"Tulsa, Oklahoma",DISC,BSO
+2097,"Germantown, Maryland",HACK,MED
+2098,"Harrisburg, Pennsylvania",DISC,MED
+2099,"Grand Rapids, Michigan",INSD,BSR
+2100,"Appleton, Wisconsin",DISC,BSF
+2101,"Melbourne, Florida",CARD,BSR
+2102,"West Lafayette, Indiana",PHYS,BSO
+2103,"Olympia, Washington",PHYS,GOV
+2104,"Jacksonville, Florida",DISC,GOV
+2105,"Mesa, Arizona",PHYS,BSR
+2106,"Arlington, Virginia",DISC,GOV
+2107,"New York, New York",INSD,BSR
+2108,"Mission, Texas",PHYS,BSO
+2109,"Philadelphia, Pennsylvania",INSD,BSF
+2110,"Philadelphia, Pennsylvania",INSD,BSF
+2111,"Corbin, Kentucky",PORT,GOV
+2112,"Boulder, Colorado",DISC,BSR
+2113,"Fort Myers, Florida",PHYS,MED
+2114,"Fort Myers, Florida",PHYS,BSF
+2115,"Sierra Madre, California",CARD,BSR
+2116,"New York, New York",DISC,BSO
+2117,"Columbus, Ohio",DISC,GOV
+2118,"San Mateo, California",PORT,BSF
+2119,"Columbus, Ohio",DISC,EDU
+2120,"Kissimmee, Florida",PHYS,BSR
+2121,", California",PORT,MED
+2122,"Orange, Florida",PORT,GOV
+2123,"Osceola, Wisconsin",HACK,MED
+2124,"Baltimore, Maryland",PHYS,NGO
+2125,"Columbus, Ohio",INSD,MED
+2126,"Alpharetta, Georgia",PORT,MED
+2127,"New York, New York",PORT,MED
+2128,"Harper Woods, Michigan",DISC,MED
+2129,"Indianapolis, Indiana",DISC,MED
+2130,"Richland, Washington",HACK,MED
+2131,"Indianapolis, Indiana",UNKN,MED
+2132,"Tucson, Arizona",INSD,MED
+2133,"Omaha , Nebraska",HACK,EDU
+2134,"New Orleans, Louisiana",PORT,EDU
+2135,"Newtown, Iowa",UNKN,BSO
+2136,"Alexandria, Virginia",HACK,BSF
+2137,"Rock Hill, South Carolina",HACK,BSR
+2138,"Malpitas, California",PORT,MED
+2139,"Eden Prairie, Minnesota",DISC,BSO
+2140,"St. Louis, Missouri",PHYS,GOV
+2141,"Sante Fe, New Mexico",STAT,GOV
+2142,", Maryland",PORT,BSO
+2143,"Mclean, Virginia",HACK,BSO
+2144,"Murray, Kentucky",DISC,EDU
+2145,"Henderson, Nevada",PHYS,MED
+2146,"Cerritos, California",PORT,MED
+2147,"Ann Arbor, Michigan",DISC,BSR
+2148,"Sioux Falls, South Dakota",INSD,BSF
+2149,"Atlanta, Georgia",PORT,BSF
+2150,"Nashville, Tennessee",PORT,NGO
+2151,"Baltimore, Maryland",PHYS,MED
+2152,"Charlotte, North Carolina",INSD,EDU
+2153,"Austin, Texas",DISC,EDU
+2154,"Fort Collins, Colorado",DISC,EDU
+2155,"Dartmouth, Massachusetts",DISC,EDU
+2156,"Somerset, New Jersey",PORT,BSR
+2157,"Chicago, Illinois",PORT,BSF
+2158,"Dublin, Ohio",DISC,BSR
+2159,"Binghampton, New York",DISC,BSO
+2160,"San Antonio, Texas",CARD,BSF
+2161,"Aberdeen, Washington",PORT,MED
+2162,"Torrance, California",HACK,BSR
+2163,"Philadelphia, Pennsylvania",INSD,MED
+2164,"Raleigh, North Carolina",PORT,GOV
+2165,"Albuquerque, New Mexico",INSD,MED
+2166,"Boston, Massachusetts",DISC,EDU
+2167,"Columbia, Missouri",DISC,EDU
+2168,"Portland, Oregon",PORT,EDU
+2169,"Phoenix, Arizona",PORT,EDU
+2170,"Boston, Massachusetts",PHYS,BSO
+2171,"Glen Allen, Virginia",HACK,BSR
+2172,"New Haven, Connecticut",HACK,BSR
+2173,"Houston, Texas",PORT,BSO
+2174,"Plainfield, New Jersey",UNKN,EDU
+2175,"Bend, Oregon",STAT,MED
+2176,"Pelham, Alabama",PORT,MED
+2177,"Ocala, Florida",PORT,MED
+2178,"Philadelphia, Pennsylvania",PORT,MED
+2179,"Tacoma, Washington",STAT,MED
+2180,"Cincinnati, Ohio",PORT,MED
+2181,"White River Junction, Vermont",DISC,GOV
+2182,"Rochester, New Hampshire",HACK,MED
+2183,"Durham, North Carolina",PHYS,MED
+2184,"Azle, Texas",PORT,MED
+2185,"New York, New York",UNKN,BSF
+2186,"Roseville, Minnesota",DISC,GOV
+2187,"Seattle, Washington",DISC,BSR
+2188,"Tampa Bay, Florida",HACK,MED
+2189,"Houston, Texas",HACK,MED
+2190,"Bath, Maine",HACK,BSF
+2191,"Seattle, Washington",PHYS,EDU
+2192,"Rapides Parish, Louisiana",HACK,BSO
+2193,"San Francisco, California",INSD,GOV
+2194,"Melville, New York",PORT,BSR
+2195,"St. Petersburg, Florida",INSD,BSO
+2196,"Miami, Florida",INSD,MED
+2197,"Galveston, Texas",INSD,MED
+2198,"Columbus, Ohio",DISC,GOV
+2199,"El Paso, Texas",DISC,EDU
+2200,"Apple Valley, Minnesota",INSD,BSF
+2201,"Kansas City, Missouri",CARD,BSR
+2202,"Raleigh, North Carolina",HACK,EDU
+2203,"Chicago, Illinois",PORT,EDU
+2204,"Lake Placid, New York",DISC,EDU
+2205,"Notre Dame, Indiana",DISC,EDU
+2206,"College Park, Maryland",STAT,GOV
+2207,"Baltimore, Maryland",DISC,MED
+2208,"San Diego, California",DISC,BSO
+2209,"Sacramento, California",HACK,BSO
+2210,"Orlando, Florida",PHYS,BSR
+2211,"Madras, Oregon",PORT,GOV
+2212,"Louisville, Kentucky",DISC,MED
+2213,"Greenville, North Carolina",PORT,MED
+2214,"Arlington, Virginia",PORT,GOV
+2215,"St. Charles, Missouri",PORT,EDU
+2216,"Mountain View, California",HACK,BSO
+2217,"Sacramento, California",PORT,MED
+2218,"Jersey City, New Jersey",DISC,BSF
+2219,"Broken Arrow, Oklahoma",STAT,MED
+2220,"Los Angeles, California",INSD,GOV
+2221,"Charlotte, North Carolina",DISC,BSF
+2222,"Columbia, South Carolina",HACK,GOV
+2223,"Huntingdon, Tennessee",UNKN,MED
+2224,"Austin, Texas",PORT,MED
+2225,"Muskegon, Michigan",STAT,MED
+2226,"Dallas, Texas",PORT,MED
+2227,"Waterville, Maine",HACK,BSR
+2228,"Cincinnati, Ohio",PORT,BSO
+2229,"Chicago, Illinois",INSD,MED
+2230,", Florida",INSD,MED
+2231,"Woodinville, Washington",STAT,BSR
+2232,"Las Vegas, Nevada",CARD,BSR
+2233,"Baton Rouge, Louisiana",INSD,GOV
+2234,"Atlanta, Georgia",PHYS,MED
+2235,"Uniondale, New York",PORT,BSO
+2236,"Weston, Missouri",HACK,BSO
+2237,"Los Angeles, California",DISC,EDU
+2238,"Kennesaw, Georgia",UNKN,BSF
+2239,"Pearland, Texas",INSD,BSR
+2240,"Radnor, Pennsylvania",INSD,BSF
+2241,"Olathe, Kansas",INSD,GOV
+2242,"Detroit, Michigan",PORT,MED
+2243,"Hazelwood, Missouri",PHYS,BSO
+2244,"Columbus, Ohio",HACK,EDU
+2245,"San Jose, California",INSD,BSO
+2246,"New York, New York",HACK,BSO
+2247,", Alabama",DISC,GOV
+2248,"San Francisco, California",PORT,MED
+2249,", Florida",PHYS,MED
+2250,"Kalamazoo, Michigan",PORT,EDU
+2251,"Springfield, Missouri",DISC,EDU
+2252,"Juneau, Alaska",PORT,GOV
+2253,"Fort Pierce, Florida",CARD,BSR
+2254,"Downey, California",PORT,MED
+2255,"Mountain View, California",CARD,BSR
+2256,"Orange, California",DISC,EDU
+2257,"Norfolk, Virginia",UNKN,GOV
+2258,"San Diego, California",HACK,BSO
+2259,"Loves Park, Illinois",PHYS,BSF
+2260,"Woonsocket, Rhode Island",INSD,BSR
+2261,"Amherst, Massachusetts",HACK,EDU
+2262,"Spokane, Washington",DISC,GOV
+2263,"Wheat Ridge, Colorado",PORT,MED
+2264,"Owensboro, Kentucky",DISC,MED
+2265,"St. Louis, Missouri",HACK,EDU
+2266,"Dallas, Texas",HACK,MED
+2267,"Billings, Montana",PORT,MED
+2268,"Cleveland, Texas",PHYS,GOV
+2269,"Aptos, California",INSD,BSR
+2270,"Boca Raton, Florida",STAT,BSO
+2271,"Wakefield, Massachusetts",DISC,BSO
+2272,"Anderson, Indiana",PHYS,BSF
+2273,"Millersport, Ohio",HACK,GOV
+2274,"Blacksburg, Virginia",HACK,EDU
+2275,"Vacaville, California",CARD,BSR
+2276,"Portland, Oregon",PHYS,GOV
+2277,"Bloomfield, Michigan",DISC,GOV
+2278,"Newton, Massachusetts",HACK,BSO
+2279,"Des Plaines, Illinois",PORT,GOV
+2280,"Boston, Massachusetts",HACK,BSR
+2281,"New Orleans, Louisiana",PORT,BSO
+2282,"Portland, Oregon",HACK,BSO
+2283,"Sacramento, California",INSD,BSF
+2284,"Sumter, South Carolina",HACK,EDU
+2285,"New York, New York",STAT,MED
+2286,"Cupertino, California",HACK,BSR
+2287,"Hartford, Connecticut",HACK,BSF
+2288,"Tempe, Arizona",INSD,BSO
+2289,"Philadelphia, Pennsylvania",INSD,MED
+2290,"Framingham, Massachusetts",HACK,BSR
+2291,"Aiken, South Carolina",PHYS,GOV
+2292,"Warren, Maine",UNKN,GOV
+2293,"Barton, Vermont",HACK,GOV
+2294,"Laredo, Texas",PORT,EDU
+2295,"San Antonio, Texas",PHYS,BSO
+2296,"Oklahoma City, Oklahoma",PORT,GOV
+2297,"Longmont, Colorado",PHYS,MED
+2298,"Iowa City, Iowa",INSD,MED
+2299,"Baltimore, Maryland",DISC,GOV
+2300,"Richmond, Indiana",DISC,BSR
+2301,"San Francisco, California",HACK,BSO
+2302,"San Antonio, Texas",PHYS,MED
+2303,"Washington, District Of Columbia",DISC,GOV
+2304,"Reading, Pennsylvania",PORT,EDU
+2305,"Cleveland, Ohio",HACK,GOV
+2306,,HACK,BSO
+2307,"Sunnyvale, California",PORT,BSR
+2308,"Killeen, Texas",PHYS,EDU
+2309,"Worcester, Massachusetts",DISC,MED
+2310,"Arlington, Texas",DISC,MED
+2311,"Mesa, Arizona",INSD,MED
+2312,"New York, New York",PHYS,MED
+2313,"Minneapolis, Minnesota",PHYS,MED
+2314,"Long Beach, California",INSD,MED
+2315,"Martinez, California",CARD,BSR
+2316,"Montgomery, Alabama",DISC,GOV
+2317,"Atlanta, Georgia",STAT,BSO
+2318,"Omaha , Nebraska",HACK,BSO
+2319,"Covington, Kentucky",PORT,MED
+2320,"San Francisco, California",HACK,BSO
+2321,"Clive, Iowa",HACK,BSR
+2322,"Philadelphia, Pennsylvania",INSD,BSF
+2323,"Newark, Ohio",PHYS,EDU
+2324,"Piscataway, New Jersey",HACK,NGO
+2325,"San Diego, California",PHYS,BSR
+2326,"Shelton, Connecticut",PORT,MED
+2327,"Eugene, Oregon",HACK,EDU
+2328,"Miami, Florida",PORT,BSF
+2329,"Minneapolis, Minnesota",PORT,GOV
+2330,"Charleston, Illinois",HACK,EDU
+2331,"San  Francisco, California",PORT,MED
+2332,"New York, New York",UNKN,BSO
+2333,"Las Vegas, Nevada",INSD,MED
+2334,"Chicago, Illinois",INSD,BSF
+2335,"Concord, New Hampshire",DISC,MED
+2336,"Tumwater, Washington",PHYS,GOV
+2337,"Indianapolis, Indiana",PORT,MED
+2338,"Atlanta, Georgia",PORT,MED
+2339,"Bloomington, Minnesota",HACK,BSF
+2340,"Dayton, Ohio",PORT,MED
+2341,"New York, New York",PORT,BSO
+2342,"Sacramento , California",PORT,MED
+2343,"Boston, Massachusetts",INSD,GOV
+2344,"Omaha , Nebraska",HACK,BSF
+2345,"Winston-Salem, North Carolina",PORT,MED
+2346,"Arlington, Virginia",DISC,GOV
+2347,"Seattle, Washington",INSD,GOV
+2348,"Mount Laurel, New Jersey",INSD,BSF
+2349,"Columbus, Ohio",HACK,GOV
+2350,"St. Louis, Missouri",DISC,BSO
+2351,"Radnor, Pennsylvania",DISC,BSF
+2352,"Charlotte, North Carolina",PHYS,MED
+2353,"Scottsdale, Arizona",STAT,BSR
+2354,"Kentwood, Michigan",PORT,NGO
+2355,"Oakridge, Oregon",DISC,GOV
+2356,"College Park, Maryland",PORT,GOV
+2357,"Las Vegas, Nevada",HACK,EDU
+2358,"Sun City, Florida",INSD,BSF
+2359,"Hampton, Virginia",DISC,NGO
+2360,"New York, New York",CARD,BSF
+2361,"Columbus, Ohio",UNKN,GOV
+2362,"Oakland, California",INSD,MED
+2363,"Chapel Hill, North Carolina",HACK,EDU
+2364,"Clinton, Washington",PORT,MED
+2365,"Concord, New Hampshire",INSD,MED
+2366,"St. Louis, Missouri",HACK,EDU
+2367,"Tallahassee, Florida",INSD,GOV
+2368,"Napa, California",STAT,NGO
+2369,"Atlanta, Georgia",HACK,BSR
+2370,"Pittsburgh, Pennsylvania",INSD,MED
+2371,"Fort Lauderdale, Florida",INSD,MED
+2372,"Wichita, Kansas",PHYS,BSO
+2373,"Storrs, Connecticut",HACK,EDU
+2374,"Sherman Oaks, California",UNKN,MED
+2375,"Elmwood Park, New Jersey",INSD,BSF
+2376,"San Luis Obispo, California",CARD,BSF
+2377,"Greenville, North Carolina",CARD,BSR
+2378,,HACK,BSO
+2379,"Ypsilanti, Michigan",INSD,EDU
+2380,"Columbus, Ohio",DISC,BSO
+2381,"Charleston, West Virginia",DISC,MED
+2382,"Irving, Texas",HACK,BSO
+2383,"Oakland Park, Florida",UNKN,GOV
+2384,", Florida",INSD,BSO
+2385,"Tampa, Florida",INSD,BSF
+2386,"Pittsburgh, Pennsylvania",CARD,BSF
+2387,", Oklahoma",STAT,MED
+2388,"Phoenix, Arizona",PORT,MED
+2389,"San Rafael, California",PHYS,BSO
+2390,"Columbus, Ohio",STAT,MED
+2391,,PORT,EDU
+2392,"Las Vegas, Nevada",UNKN,BSF
+2393,,PORT,MED
+2394,"Hartford, Connecticut",INSD,MED
+2395,"New Orleans, Louisiana",INSD,MED
+2396,"Gambrills, Maryland",PORT,MED
+2397,"Milford, Connecticut",STAT,MED
+2398,", Illinois",PHYS,MED
+2399,"Bellwood, Illinois",INSD,BSF
+2400,"Las Vegas, Nevada",PHYS,EDU
+2401,"San Francisco, California",HACK,BSR
+2402,"Montpelier, Vermont",HACK,EDU
+2403,"Santa Maria, California",PORT,GOV
+2404,"Sacramento, California",PORT,MED
+2405,"Redwood City, California",INSD,BSR
+2406,"Schenectady, New York",DISC,BSF
+2407,"Atlanta, Georgia",INSD,MED
+2408,"San Francisco, California",INSD,MED
+2409,"Winchester, Virginia",HACK,BSO
+2410,"San Antonio, Texas",PORT,MED
+2411,"Chicago, Illinois",INSD,BSF
+2412,,INSD,BSF
+2413,,PORT,GOV
+2414,"Loma Linda, California",INSD,BSR
+2415,"Kokomo, Indiana",HACK,BSR
+2416,"Castroville, Texas",INSD,EDU
+2417,"Mount Pleasant, Texas",PORT,MED
+2418,,PHYS,BSF
+2419,"Denver, Colorado",DISC,GOV
+2420,"Fishers, Indiana",PHYS,BSR
+2421,"Kalispell, Montana",HACK,BSO
+2422,"Sacramento, California",HACK,BSO
+2423,,HACK,BSO
+2424,"Casper, Wyoming",UNKN,MED
+2425,"Brookline, Massachusetts",PORT,MED
+2426,"Aurora, Colorado",PHYS,MED
+2427,"Greensboro, North Carolina",UNKN,MED
+2428,"Dallas, Texas",PORT,MED
+2429,"Chicago, Illinois",PORT,MED
+2430,"Pleasant Grove, Alabama",UNKN,MED
+2431,"Urbana, Illinois",INSD,MED
+2432,"Indianapolis, Indiana",PHYS,MED
+2433,"Spartanburg, South Carolina",PORT,MED
+2434,"El Paso, Texas",PHYS,BSF
+2435,"New York, New York",CARD,BSF
+2436,"Winston-Salem, South Carolina",INSD,MED
+2437,"Carmichael, California",DISC,EDU
+2438,"New York, New York",INSD,BSF
+2439,"Indiana, Pennsylvania",PHYS,MED
+2440,"San Juan, Puerto Rico",STAT,MED
+2441,"San Juan, Puerto Rico",STAT,MED
+2442,"San Juan, Puerto Rico",PHYS,MED
+2443,"Long Beach, California",STAT,MED
+2444,"Suffolk, Virginia",UNKN,BSR
+2445,"Seneca, South Carolina",PORT,EDU
+2446,"Austin, Texas",UNKN,GOV
+2447,"Morganton, North Carolina",INSD,GOV
+2448,"Fredericksburg, Virginia",DISC,EDU
+2449,"Boca Raton, Florida",HACK,BSO
+2450,"Seal Beach, California",DISC,BSO
+2451,"Cary, North Carolina",HACK,BSR
+2452,"Altoona, Pennsylvania",HACK,EDU
+2453,"Bakersfield, California",INSD,BSR
+2454,"Boston, Massachusetts",HACK,BSO
+2455,"Denver, Colorado",PHYS,BSO
+2456,"Casa Grande, Arizona",INSD,GOV
+2457,"Atlanta, Georgia",HACK,BSO
+2458,"Mansfield, Ohio",PORT,MED
+2459,"Boulder, Colorado",INSD,MED
+2460,"Mill Valley, California",STAT,MED
+2461,"Phoenix, Arizona",UNKN,BSF
+2462,"Norcross, Georgia",HACK,BSF
+2463,"Spartanburg, South Carolina",PORT,MED
+2464,"London, London",HACK,BSR
+2465,"Austin, Texas",DISC,GOV
+2466,"Nashville, Tennessee",HACK,NGO
+2467,"Arlington, Virginia",HACK,NGO
+2468,"Bethesda, Maryland",HACK,BSO
+2469,"Sacramento, California",PORT,GOV
+2470,"Palatine, Illinois",PORT,EDU
+2471,"Warrensburg, Missouri",HACK,EDU
+2472,"Saint Louis, Montana",PORT,MED
+2473,"Tuba City, Arizona",PHYS,MED
+2474,"Birmingham, Alabama",PHYS,BSO
+2475,"Flint, Michigan",PORT,MED
+2476,"Seattle, Washington",PHYS,MED
+2477,"Stockton, California",PHYS,MED
+2478,"Denver, Colorado",PORT,GOV
+2479,"Hampstead, New Hampshire",HACK,BSF
+2480,"Jeannette, Pennsylvania",PORT,MED
+2481,"Jacksonville, Florida",DISC,MED
+2482,"Orlando, Florida",HACK,BSR
+2483,"Washington, District Of Columbia",HACK,BSO
+2484,"Universal City, California",HACK,BSO
+2485,"Branford, Connecticut",HACK,BSR
+2486,"Albany, New York",PORT,BSF
+2487,"Vancouver, Washington",HACK,EDU
+2488,"San Jose, California",HACK,BSO
+2489,"San Antonio, Texas",INSD,MED
+2490,"Deerfield, Illinois",DISC,BSR
+2491,"Colorado Springs, Colorado",INSD,MED
+2492,"Asbury Park, New Jersey",PORT,MED
+2493,"Minneapolis, Minnesota",DISC,BSO
+2494,"Hillandale, Georgia",UNKN,MED
+2495,"Indianapolis, Indiana",INSD,BSF
+2496,"Boston, Massachusetts",HACK,MED
+2497,"Norfolk, Nebraska",PHYS,BSR
+2498,"Martell, California",HACK,BSR
+2499,"San Francisco, California",HACK,BSR
+2500,"Irvine, California",HACK,BSR
+2501,"Peabody, Massachusetts",HACK,BSR
+2502,"Seattle, Washington",DISC,MED
+2503,"Huntsville, Texas",HACK,BSR
+2504,"Phoenix, Arizona",CARD,BSO
+2505,"Des Plaines, Illinois",PHYS,BSF
+2506,"Independence, Missouri",STAT,MED
+2507,"Lynn, Massachusetts",DISC,BSF
+2508,"St. Paul, Minnesota",INSD,GOV
+2509,"Grand Rapids, Michigan",INSD,NGO
+2510,"Denver, Colorado",DISC,BSF
+2511,"Alamo, Texas",PHYS,MED
+2512,"Salt Lake City, Utah",DISC,MED
+2513,"Paterson, New Jersey",DISC,GOV
+2514,"Brighton, Colorado",PHYS,MED
+2515,"Alpharetta, Georgia",PHYS,MED
+2516,"Nyack, New York",PORT,MED
+2517,"Boston, Massachusetts",PORT,BSF
+2518,"New York, New York",PORT,BSR
+2519,"Las Vegas, Nevada",HACK,EDU
+2520,"New York, New York",DISC,BSF
+2521,"Boston, Massachusetts",PORT,EDU
+2522,"Dresher, Pennsylvania",HACK,BSF
+2523,"Rancho Peñasquitos, California",CARD,BSF
+2524,"Washington, District Of Columbia",INSD,GOV
+2525,", West Virginia",UNKN,MED
+2526,"Atlanta, Georgia",PORT,BSO
+2527,"Burlingame, California",INSD,MED
+2528,"Boston, Massachusetts",PORT,MED
+2529,"Fayetteville, North Carolina",INSD,GOV
+2530,"Tucson, Arizona",HACK,GOV
+2531,"Chapel Hill, North Carolina",PHYS,EDU
+2532,"Columbus, Ohio",PHYS,GOV
+2533,"Pittsburgh, Pennsylvania",UNKN,GOV
+2534,"Milwaukee, Wisconsin",HACK,EDU
+2535,"Pomona, California",DISC,EDU
+2536,"Seattle, Washington",DISC,GOV
+2537,"Wilmington, Delaware",PORT,MED
+2538,"West Lafayette, Indiana",HACK,EDU
+2539,"Plymouth, Minnesota",HACK,BSF
+2540,"Raleigh, North Carolina",DISC,EDU
+2541,"San Francisco, California",HACK,GOV
+2542,"Rockville, Maryland",HACK,BSR
+2543,"Miami, Florida",INSD,MED
+2544,"St. Louis, Missouri",PHYS,EDU
+2545,"Rockville, Maryland",HACK,BSR
+2546,"Lansing, Michigan",DISC,BSF
+2547,"San Mateo, California",DISC,MED
+2548,"New York City, New York",PORT,MED
+2549,"Sun Valley, Idaho",HACK,BSR
+2550,"Westborough, Massachusetts",HACK,BSO
+2551,"Laurel, Maryland",INSD,BSR
+2552,"Honolulu, Hawaii",PHYS,EDU
+2553,"Amherst, Virginia",HACK,BSR
+2554,"San Francisco, California",HACK,GOV
+2555,"New Haven, Connecticut",DISC,EDU
+2556,"Vinton, Iowa",DISC,GOV
+2557,"Flower Mound, Texas",PORT,MED
+2558,"Johnstown, Ohio",PORT,BSR
+2559,"Johnstown, Ohio",UNKN,BSR
+2560,"Phoenix, Arizona",HACK,GOV
+2561,"New York, New York",UNKN,BSR
+2562,"Oshkosh, Wisconsin",HACK,MED
+2563,"Livingston, New Jersey",HACK,BSR
+2564,"Lexington, Kentucky",PORT,MED
+2565,"St. Albans, Vermont",PHYS,MED
+2566,"New York, New York",DISC,BSF
+2567,"Norwalk, Connecticut",PORT,BSF
+2568,"Pittsfield, Massachusetts",DISC,BSF
+2569,"Honolulu, Hawaii",DISC,GOV
+2570,"Austin, Texas",INSD,GOV
+2571,"Las Flores, California",HACK,EDU
+2572,"Depew, New York",PHYS,MED
+2573,"Seattle, Washington",INSD,MED
+2574,"Elgin, Texas",HACK,GOV
+2575,"Granbury, Texas",INSD,MED
+2576,"Haltom City, Texas",HACK,EDU
+2577,", Michigan",PHYS,GOV
+2578,"Cambridge, Massachusetts",DISC,EDU
+2579,"Indianapolis, Indiana",PORT,EDU
+2580,"Houston, Texas",PHYS,MED
+2581,"Palo Alto, California",DISC,MED
+2582,"Portland, Oregon",STAT,MED
+2583,"Austin, Texas",PORT,MED
+2584,"Biloxi, Mississippi",PHYS,GOV
+2585,"Bonney Lake, Washington",STAT,MED
+2586,"Winter Haven, Florida",INSD,MED
+2587,"San Clara, California",INSD,MED
+2588,"Cincinnati, Ohio",PHYS,EDU
+2589,"Dayton, Ohio",PORT,GOV
+2590,"Greensboro, North Carolina",DISC,GOV
+2591,"Alexandria, Virginia",PORT,GOV
+2592,"Arlington, Virginia",HACK,NGO
+2593,"Monticello, Minnesota",INSD,BSR
+2594,"Sacramento, California",HACK,GOV
+2595,"WIsconsin Dells, Wisconsin",HACK,BSR
+2596,"Baltimore, Maryland",PHYS,MED
+2597,"Tampa, Florida",INSD,BSR
+2598,"Ashley, Indiana",HACK,BSR
+2599,"Toledo, Ohio",DISC,MED
+2600,"Hanford, California",STAT,MED
+2601,"Illiana, Illinois",PHYS,MED
+2602,"Alpharetta, Georgia",PORT,BSO
+2603,"New York, New York",PORT,BSO
+2604,"San Antonio, Texas",DISC,EDU
+2605,"Corpus Christi, Texas",INSD,BSR
+2606,"St. Petersburg, Florida",HACK,BSR
+2607,"Spokane, Washington",HACK,BSO
+2608,"Knoxville, Tennessee",PHYS,MED
+2609,"Aurora, Colorado",PHYS,MED
+2610,"Scranton, Pennsylvania",PHYS,MED
+2611,"Tampa Bay, Florida",PHYS,MED
+2612,"San Francisco, California",HACK,BSR
+2613,"Waycross, Georgia",PORT,BSO
+2614,", Illinois",STAT,MED
+2615,", Texas",UNKN,MED
+2616,"Jonesboro, Arkansas",HACK,MED
+2617,"Austin, Texas",PORT,GOV
+2618,"Savannah, Georgia",PORT,MED
+2619,"San Antonio, Texas",DISC,GOV
+2620,"Washington, District Of Columbia",DISC,GOV
+2621,"Washington, District Of Columbia",DISC,GOV
+2622,"St. Louis, Missouri",PORT,MED
+2623,"Hazleton, Pennsylvania",PHYS,MED
+2624,"Worcester, Massachusetts",PORT,MED
+2625,,HACK,GOV
+2626,"Jacksonville, Florida",DISC,BSF
+2627,"Modesto, California",PHYS,BSO
+2628,"Ocala, Florida",INSD,GOV
+2629,"Oakland, California",PHYS,MED
+2630,"Troy, Michigan",STAT,MED
+2631,"Durango, Colorado",HACK,BSR
+2632,"Clarinda, Iowa",UNKN,BSF
+2633,"Shelby, Alabama",PHYS,BSR
+2634,"Washington, District Of Columbia",DISC,GOV
+2635,,DISC,BSR
+2636,"Worcester, Massachusetts",UNKN,EDU
+2637,"Newark, New Jersey",PORT,BSO
+2638,"Cincinnati, Ohio",PORT,BSR
+2639,"Alabama, Georgia",INSD,BSF
+2640,"Towson, Maryland",PORT,BSO
+2641,"Arlington, Texas",PORT,BSO
+2642,"High Point, North Carolina",INSD,MED
+2643,"Pinckneyville, Illinois",PHYS,MED
+2644,"Wheeling, West Virginia",UNKN,NGO
+2645,"Lawrence, Kansas",DISC,MED
+2646,"Boca Raton, Florida",HACK,BSO
+2647,"Philadelphia, Pennsylvania",PHYS,MED
+2648,"Pickens, South Carolina",PORT,MED
+2649,"Manchester, New Hampshire",PHYS,MED
+2650,"New York, New York",HACK,BSR
+2651,"Brownsville, Texas",DISC,EDU
+2652,"Minneapolis, Minnesota",PHYS,BSO
+2653,"Eden Prairie, Minnesota",PORT,MED
+2654,"Dallas, Texas",INSD,MED
+2655,"New York, New York",PORT,MED
+2656,"Lexington, Kentucky",PORT,MED
+2657,"Sitka, Alaska",DISC,MED
+2658,"Lebanon, Pennsylvania",STAT,MED
+2659,"Bismarck, North Dakota",PORT,MED
+2660,"Berkeley, California",INSD,MED
+2661,"Mequon, Wisconsin",INSD,MED
+2662,"Wellesley, Massachusetts",DISC,EDU
+2663,"Mount Vernon, Washington",DISC,GOV
+2664,"Springfield, New Jersey",HACK,BSR
+2665,"Atlanta, Georgia",PORT,NGO
+2666,"Waco, Texas",HACK,BSO
+2667,"Carlsbad, California",HACK,BSO
+2668,"Miami, Florida",INSD,NGO
+2669,"Riverside, California",HACK,EDU
+2670,"Ewing, New Jersey",DISC,EDU
+2671,"Blairsville, Pennsylvania",HACK,EDU
+2672,"Lawrence, Kansas",PHYS,EDU
+2673,"Martinez, California",DISC,GOV
+2674,"Omaha, Nebraska",HACK,BSR
+2675,"Dallas, Texas",PORT,BSF
+2676,"Columbus, Ohio",PHYS,GOV
+2677,"Dallas, Texas",HACK,BSO
+2678,"LIttle Rock, Arkansas",PORT,GOV
+2679,"Peoria, Illinois",INSD,BSR
+2680,"Olympia, Washington",INSD,BSR
+2681,"Savannah, Georgia",INSD,BSR
+2682,"Honolulu, Hawaii",HACK,BSO
+2683,"Wetumpka, Alabama",INSD,BSF
+2684,"Oak Park, Michigan",INSD,BSR
+2685,"New York, New York",INSD,BSR
+2686,"Harrisburg, Pennsylvania",DISC,GOV
+2687,"Peoria, Illinois",PORT,BSF
+2688,"Boston, Massachusetts",DISC,GOV
+2689,"Austin, Texas",INSD,BSO
+2690,"Waltham, Massachusetts",PORT,BSO
+2691,"Lowell, Massachusetts",INSD,BSF
+2692,"Albuquerque, New Mexico",PHYS,MED
+2693,"Miami, Florida",INSD,MED
+2694,"Conway, Arizona",PORT,MED
+2695,"Logan, West Virginia",PORT,MED
+2696,"Seattle, Washington",PORT,MED
+2697,"Mount Vernon, Ohio",PHYS,MED
+2698,"West Palm Beach, Florida",STAT,MED
+2699,"La Jolla, California",INSD,BSO
+2700,"Aguadilla, Puerto Rico",PHYS,MED
+2701,"Renton, Washington",PORT,MED
+2702,"Edina, Minnesota",PORT,MED
+2703,"Burlington, Vermont",INSD,MED
+2704,", Texas",PORT,MED
+2705,"Chicago, Illinois",PHYS,MED
+2706,"Capron, Illinois",PORT,MED
+2707,"Atlanta, Georgia",PORT,MED
+2708,"Bend, Oregon",PORT,MED
+2709,"Jackson, Mississippi",PORT,MED
+2710,"Springfield, Oregon",STAT,GOV
+2711,"Neshoba, Mississippi",UNKN,BSO
+2712,"Provo, Utah",HACK,GOV
+2713,"Burlington, Vermont",PORT,NGO
+2714,"Richmond, Virginia",DISC,GOV
+2715,"Ridgewood, New Jersey",HACK,GOV
+2716,"Oahu, Hawaii",INSD,GOV
+2717,"Lansdale, Pennsylvania",HACK,GOV
+2718,"Dublin, Ohio",HACK,BSO
+2719,"Chicago, Illinois",INSD,BSO
+2720,"College Point, New York",HACK,BSR
+2721,"Columbus, Ohio",HACK,MED
+2722,,INSD,MED
+2723,"Las Vegas, Nevada",PHYS,MED
+2724,"New Orleans, Louisiana",INSD,MED
+2725,"Gambrills, Maryland",INSD,MED
+2726,"Bellwood, Illinois",DISC,MED
+2727,"San Francisco, California",HACK,EDU
+2728,"Montpelier, Vermont",DISC,GOV
+2729,"New York, New York",PHYS,GOV
+2730,"Chicago, Illinois",DISC,BSO
+2731,"Redwood City, California",HACK,BSR
+2732,"Westlake Village, California",PORT,BSO
+2733,"San Francisco, California",HACK,BSO
+2734,"Winchester, Virginia",HACK,BSO
+2735,"Chicago, Illinois",PHYS,MED
+2736,"Harrisburg, Pennsylvania",PHYS,BSR
+2737,"San Antonio, Texas",PORT,MED
+2738,"Loma Linda, California",INSD,MED
+2739,"Ketchikan, Alaska",DISC,MED
+2740,"Kokomo, Indiana",PHYS,MED
+2741,"Castroville, Texas",PHYS,MED
+2742,"Mount Pleasant, Texas",INSD,MED
+2743,"Tempe, Arizona",HACK,EDU
+2744,"Great Barrington, Massachusetts",UNKN,BSR
+2745,"Washington, District Of Columbia",DISC,GOV
+2746,"Point Pleasant, West Virginia",HACK,GOV
+2747,"New York, New York",HACK,NGO
+2748,"New York, New York",INSD,NGO
+2749,"Louisville, Kentucky",DISC,EDU
+2750,"Stamford, Connecticut",INSD,BSO
+2751,"St. Augustine, Florida",INSD,BSO
+2752,", Florida",HACK,NGO
+2753,"Deerfield Beach, Florida",HACK,NGO
+2754,"Columbia, Missouri",PHYS,MED
+2755,"Amsterdam, Noord Holland",DISC,BSF
+2756,,STAT,MED
+2757,,DISC,GOV
+2758,"Santa Clara, California",HACK,EDU
+2759,"Providence, Rhode Island",HACK,BSO
+2760,"Washington, District Of Columbia",DISC,GOV
+2761,"Edinburg, Texas",DISC,EDU
+2762,"Richmond, Virginia",HACK,EDU
+2763,"Crawfordville, Florida",DISC,EDU
+2764,"Newtown Square, Pennsylvania",PORT,BSO
+2765,"Delaware, Ohio",HACK,NGO
+2766,"Miami, Florida",PORT,MED
+2767,"Lexington, Kentucky",PORT,MED
+2768,"Albany, New York",PORT,MED
+2769,"Tulsa, Oklahoma",PORT,MED
+2770,"Bloomfield, Connecticut",DISC,BSF
+2771,"Norfolk, Virginia",INSD,BSR
+2772,"Birmingham, Alabama",PHYS,MED
+2773,"New Cumberland, Pennsylvania",DISC,BSO
+2774,"Lakeway, Texas",HACK,BSR
+2775,"Reston, Virginia",HACK,BSO
+2776,", Indiana",HACK,GOV
+2777,"Hempstead, New York",UNKN,BSO
+2778,"San Mateo, California",DISC,MED
+2779,"Naperville, Illinois",DISC,EDU
+2780,"Palos Verdes, California",HACK,EDU
+2781,"Birmingham, Alabama",PORT,BSF
+2782,"Baton Rouge, Louisiana",UNKN,EDU
+2783,"Fairfield, Connecticut",HACK,BSO
+2784,"Pearl City, Hawaii",DISC,EDU
+2785,"Kannapolis, North Carolina",INSD,BSR
+2786,"Atlanta, Georgia",PORT,MED
+2787,"Long Beach, California",DISC,MED
+2788,"Atlanta, Georgia",PORT,BSO
+2789,"Wellington, Florida",STAT,MED
+2790,"Muskogee, Oklahoma",PHYS,MED
+2791,"Nashua, New Hampshire",UNKN,MED
+2792,"Raleigh, North Carolina",PORT,MED
+2793,"Libertyville, Illinois",DISC,BSR
+2794,"Tuscaloosa, Alabama",HACK,BSR
+2795,"Rock Hill, South Carolina",INSD,BSO
+2796,"Apple Valley, Minnesota",INSD,BSR
+2797,"New York, New York",INSD,BSO
+2798,"Rockville, Maryland",INSD,BSO
+2799,"Tuscaloosa, Alabama",DISC,EDU
+2800,"Fresno, California",STAT,BSR
+2801,"Tyler, Texas",INSD,BSR
+2802,"Loveland, Colorado",HACK,BSO
+2803,"Indianapolis, Indiana",PHYS,BSO
+2804,"Avon, Indiana",PORT,GOV
+2805,"Orlando, Florida",DISC,EDU
+2806,"Denver, Colorado",HACK,MED
+2807,"Rice Lake, Wisconsin",PORT,MED
+2808,"Chicago, Illinois",HACK,BSR
+2809,"Dallas, Texas",HACK,BSO
+2810,", Wisconsin",HACK,BSO
+2811,"Hartford, Connecticut",DISC,GOV
+2812,"Spotsylvania, Virginia",DISC,EDU
+2813,"New York, New York",PHYS,MED
+2814,"Twoson, Maryland",PORT,MED
+2815,"New Britain, Connecticut",HACK,EDU
+2816,"Rye, New York",DISC,GOV
+2817,"Salt Lake City, Utah",HACK,BSO
+2818,"Austin, Texas",DISC,GOV
+2819,"Northfield, Vermont",HACK,GOV
+2820,"New Orleans, Louisiana",PORT,MED
+2821,"New Orleans, Louisiana",PORT,MED
+2822,"Memphis, Tennessee",PHYS,BSF
+2823,"Concord, North Carolina",DISC,MED
+2824,"Gresham, Oregon",INSD,BSR
+2825,"Ladysmith, Wisconsin",UNKN,BSF
+2826,"Louisville, Kentucky",PHYS,MED
+2827,"Gainesville, Florida",PHYS,BSO
+2828,"Gainesville, Florida",DISC,EDU
+2829,"Fort Worth, Texas",HACK,BSO
+2830,"Los Angeles, California",HACK,GOV
+2831,"Los Angeles, California",HACK,GOV
+2832,"Houston, Texas",PORT,MED
+2833,"Hackensack, New Jersey",INSD,MED
+2834,"Warrensburg, Missouri",INSD,EDU
+2835,"Miami, Florida",INSD,EDU
+2836,"Miami, Florida",INSD,EDU
+2837,"Durham, North Carolina",DISC,MED
+2838,"Portland, Oregon",PORT,MED
+2839,"Belleville, Illinois",HACK,EDU
+2840,"Cypress, California",HACK,EDU
+2841,"Seattle, Washington",HACK,BSR
+2842,"San Francisco, California",PHYS,BSF
+2843,"San Diego, California",DISC,BSF
+2844,"San Diego, California",PORT,MED
+2845,"San Francisco, California",PORT,BSF
+2846,"San Diego, California",PORT,BSR
+2847,"Dallas, Texas",DISC,BSF
+2848,"Austin, Texas",HACK,BSF
+2849,"Augusta, Georgia",PORT,MED
+2850,"Huntsville, Alabama",PORT,MED
+2851,"Chattanooga, Tennessee",PORT,MED
+2852,"Sacramento, California",DISC,MED
+2853,"Willingboro, New Jersey",DISC,MED
+2854,"Richmond, Virginia",DISC,MED
+2855,"Greenwood, Indiana",PORT,MED
+2856,"Conshohocken, Pennsylvania",PORT,MED
+2857,"Conshohocken, Pennsylvania",PORT,MED
+2858,"Provo, Utah",DISC,EDU
+2859,"Arcata, California",DISC,EDU
+2860,"Barrington, New Jersey",HACK,MED
+2861,"San Francisco, California",DISC,BSO
+2862,"Orlando, Florida",PORT,GOV
+2863,"Bothell, Washington",STAT,MED
+2864,"Atlanta, Georgia",PORT,BSR
+2865,"Overland Park, Kansas",PHYS,MED
+2866,"Redwood City, California",HACK,BSR
+2867,"Wellesley, Massachusetts",PORT,BSO
+2868,"Austin, Texas",CARD,BSR
+2869,"Van Nuys, California",INSD,BSF
+2870,"Boulder, Colorado",PORT,GOV
+2871,"Rancho Cordova, California",PORT,MED
+2872,"New York, New York",HACK,BSR
+2873,"Sacramento, California",DISC,BSO
+2874,"Westport, Massachusetts",HACK,BSO
+2875,"San Francisco, California",UNKN,GOV
+2876,"Minnetonka, Minnesota",PORT,MED
+2877,"Providence, Rhode Island",DISC,GOV
+2878,"Tampa, Florida",DISC,EDU
+2879,"New York, New York",HACK,BSR
+2880,"Bloomington, Illinois",INSD,BSF
+2881,"Bloomington, Illinois",INSD,BSF
+2882,"San Francisco, California",INSD,BSF
+2883,"Lawrence, Massachusetts",PHYS,GOV
+2884,"Riverside, California",HACK,EDU
+2885,"Walnut Creek, California",STAT,BSO
+2886,", Illinois",HACK,BSO
+2887,"Port Hueneme, California",PHYS,GOV
+2888,"Plainfield, Indiana",HACK,GOV
+2889,", Pennsylvania",HACK,NGO
+2890,"Lodi, California",PHYS,BSO
+2891,"New York, New York",HACK,BSR
+2892,"Camp Robinson, Arkansas",PORT,GOV
+2893,", Texas",HACK,BSO
+2894,"Indianapolis, Indiana",PHYS,MED
+2895,"Springfield, Illinois",DISC,GOV
+2896,"Boston, Massachusetts",DISC,GOV
+2897,"Oakland, California",DISC,MED
+2898,"Pittsburgh, Pennsylvania",PHYS,MED
+2899,"New York, New York",DISC,NGO
+2900,"Jacksonville , Florida",DISC,MED
+2901,"Minneapolis, Minnesota",DISC,MED
+2902,"Philadelphia, Pennsylvania",PHYS,MED
+2903,"Chicago, Illinois",HACK,BSR
+2904,"Grand Rapids, Michigan",HACK,BSR
+2905,"Riverside, California",PORT,MED
+2906,"Waco, Texas",DISC,EDU
+2907,"Detroit, Michigan",DISC,GOV
+2908,"Niles, Michigan",HACK,GOV
+2909,"Garden City, New York",PHYS,EDU
+2910,"Bridgeport, Connecticut",HACK,EDU
+2911,"Albany, New York",HACK,BSO
+2912,", Oklahoma",PHYS,BSF
+2913,"Lexington, Virginia",DISC,EDU
+2914,"Glen Mills, Pennsylvania",HACK,BSR
+2915,"Little Rock, Arkansas",DISC,MED
+2916,"Baltimore, Maryland",PORT,BSR
+2917,"Orofino, Idaho",UNKN,BSR
+2918,"Rockville, Maryland",HACK,BSO
+2919,"Brea, California",HACK,BSO
+2920,"Fresno, California",PORT,MED
+2921,"Waterbury, Connecticut",DISC,MED
+2922,", Oregon",PHYS,MED
+2923,"Wichita Falls, Texas",PHYS,MED
+2924,"Bakersfield, California",PHYS,MED
+2925,"Bloomfield, Connecticut",INSD,MED
+2926,"Princeton, New Jersey",HACK,BSF
+2927,"Plano, Texas",STAT,BSR
+2928,"Silver Spring, Maryland",DISC,BSO
+2929,"Stockton, California",PHYS,MED
+2930,"Phoenix, Arizona",DISC,MED
+2931,"Portland, Oregon",PORT,MED
+2932,"Gallatin, Tennessee",DISC,EDU
+2933,"Austin, Texas",DISC,GOV
+2934,"Lake Worth, Texas",INSD,EDU
+2935,"College Station, Texas",DISC,EDU
+2936,"San Diego, California",DISC,BSO
+2937,"Atlanta, Georgia",HACK,EDU
+2938,"Houston, Texas",INSD,MED
+2939,"San Diego, California",HACK,GOV
+2940,"Houston, Texas",INSD,BSF
+2941,"Springfield, Oregon",INSD,BSF
+2942,"Tavares, Florida",HACK,GOV
+2943,"Chicago, Illinois",INSD,MED
+2944,"Charlotte, North Carolina",DISC,EDU
+2945,"New York, New York",UNKN,BSR
+2946,"Reading, Pennsylvania",INSD,MED
+2947,"Baton Rouge, Louisiana",PORT,MED
+2948,"Boston, Massachusetts",INSD,MED
+2949,"Mitchellville, Iowa",INSD,GOV
+2950,"Tallahassee, Florida",DISC,GOV
+2951,"Los Gatos, California",HACK,BSO
+2952,"Philadelphia, Pennsylvania",HACK,BSO
+2953,"South Weymouth, Massachusetts",PORT,MED
+2954,"Bakersfield, California",PHYS,MED
+2955,,PORT,MED
+2956,"Redmond, Oregon",HACK,BSR
+2957,"Anchorage, Alaska",INSD,BSR
+2958,"Moore Haven, Florida",HACK,GOV
+2959,"Hesperia, California",PHYS,BSF
+2960,"New York, New York",INSD,BSR
+2961,"Washington, District Of Columbia",HACK,GOV
+2962,"Atlanta, Georgia",DISC,BSF
+2963,"Reston, Virginia",HACK,BSF
+2964,"Washington, District Of Columbia",HACK,NGO
+2965,"Augusta, Georgia",PORT,GOV
+2966,"Charlottesville, Virginia",DISC,EDU
+2967,"Kulpsville, Pennsylvania",HACK,BSO
+2968,"Dover, Delaware",HACK,BSO
+2969,"Valencia, California",PHYS,BSO
+2970,"Tucson, Arizona",HACK,BSO
+2971,"Palm Beach, Florida",HACK,BSR
+2972,"Torrance, California",HACK,BSR
+2973,"Santa Monica, California",HACK,BSO
+2974,"Tarpon Springs, Florida",DISC,EDU
+2975,"Ahwatukee, Arizona",PHYS,BSO
+2976,"Phoenix, Arizona",PHYS,BSR
+2977,"Bakersfield, California",PHYS,GOV
+2978,"Torrance, California",HACK,BSO
+2979,"Port Angeles, Washington",STAT,MED
+2980,"Atlanta, Georgia",PORT,MED
+2981,"Albany, New York",INSD,GOV
+2982,"Provo, Utah",DISC,BSF
+2983,"Statesboro, Georgia",DISC,BSR
+2984,"Boston, Massachusetts",PHYS,MED
+2985,"San Francisco, California",DISC,BSO
+2986,"Indianola, Iowa",PHYS,GOV
+2987,"Phoenix, Arizona",PORT,MED
+2988,"Yakima, Washington",STAT,MED
+2989,"San Francisco, California",HACK,NGO
+2990,"Denver, Colorado",HACK,BSO
+2991,"Albuquerque, New Mexico",HACK,EDU
+2992,"Park City, Kentucky",HACK,BSR
+2993,"Monroe, Louisiana",HACK,EDU
+2994,"Pierre, South Dakota",HACK,GOV
+2995,"Baltimore, Maryland",HACK,BSO
+2996,"Winter Haven, Florida",PHYS,MED
+2997,"New York, New York",DISC,MED
+2998,"Wadsworth, Ohio",HACK,BSR
+2999,"Naperville, Illinois",PHYS,MED
+3000,"New York, New York",DISC,EDU
+3001,"New York, New York",PORT,BSO
+3002,"Horsham, Pennsylvania",PORT,BSR
+3003,"Jacksonville , Florida",HACK,EDU
+3004,"Juneau, Alaska",PORT,GOV
+3005,"Durham, North Carolina",DISC,MED
+3006,"Derby, Connecticut",INSD,MED
+3007,"Minneapolis, Minnesota",INSD,NGO
+3008,"Charlotte, North Carolina",INSD,BSF
+3009,"Jacksonville, Florida",INSD,BSF
+3010,"Tampa, Florida",PHYS,BSR
+3011,"Milford, Ohio",CARD,BSR
+3012,"San Antonio, Texas",HACK,BSR
+3013,"Bethpage, New York",DISC,BSF
+3014,"Washington, District Of Columbia",HACK,NGO
+3015,"Philadelphia, Pennsylvania",HACK,EDU
+3016,"West Des Moines, Iowa",INSD,BSR
+3017,"Columbus, Ohio",HACK,BSO
+3018,"Fort Lauderdale, Florida",HACK,BSO
+3019,"Costa Mesa, California",UNKN,BSF
+3020,"Los Angeles, California",DISC,MED
+3021,"Washington, District Of Columbia",HACK,GOV
+3022,"Stanford, California",HACK,EDU
+3023,"Greenwood Village, Colorado",HACK,BSR
+3024,"New York, New York",HACK,BSO
+3025,"Downieville, California",HACK,GOV
+3026,"Anchorage, Alaska",HACK,BSO
+3027,"Trotwood, Ohio",PHYS,BSR
+3028,"Washington, District Of Columbia",HACK,GOV
+3029,"North Palm Beach, Florida",HACK,BSO
+3030,"Grants Pass, Oregon",PORT,MED
+3031,"Lower Merion, Pennsylvania",HACK,GOV
+3032,", Florida",HACK,BSO
+3033,"Riviera Beach, Florida",HACK,BSR
+3034,"Lewiston, Idaho",HACK,EDU
+3035,"Wilson, Tennessee",DISC,EDU
+3036,"York, South Carolina",HACK,GOV
+3037,"Westborough, Massachusetts",UNKN,BSR
+3038,"Tempe, Arizona",PORT,BSO
+3039,"Miami, Florida",INSD,BSF
+3040,"Meridian, Mississippi",INSD,BSF
+3041,"Houston, Texas",HACK,MED
+3042,"Woonsocket, Rhode Island",DISC,BSR
+3043,"Latham, New York",PORT,MED
+3044,"New York, New York",PORT,BSF
+3045,"Suwanee, Georgia",INSD,BSR
+3046,"Vancouver, Washington",HACK,BSR
+3047,"San Antonio, Texas",PORT,EDU
+3048,"Henderson, Nevada",HACK,BSO
+3049,"Brockport, New York",HACK,EDU
+3050,"Maple Plain, Minnesota",HACK,GOV
+3051,"Chicago, Illinois",INSD,BSR
+3052,"Cleveland, Ohio",PORT,EDU
+3053,"New York, New York",PHYS,MED
+3054,"Indianapolis, Indiana",PHYS,NGO
+3055,"Ord, Nebraska",HACK,BSR
+3056,"Roseville, Minnesota",PORT,MED
+3057,"Greenville, North Carolina",PHYS,MED
+3058,"Dayton, Ohio",PHYS,GOV
+3059,"Houston, Texas",PORT,MED
+3060,"San Jose, California",HACK,EDU
+3061,"Gainesville, Florida",DISC,EDU
+3062,"Roseville, Minnesota",CARD,BSR
+3063,"Tulsa, Oklahoma",INSD,BSR
+3064,"Chicago, Illinois",DISC,BSR
+3065,"West Des Moines, Iowa",HACK,BSO
+3066,"Birmingham, Alabama",DISC,EDU
+3067,"Costa Mesa, California",UNKN,BSF
+3068,"Winston Salem, North Carolina",INSD,MED
+3069,"Brooklyn, New York",DISC,BSF
+3070,"Hoffman Estates, Illinois",PORT,BSR
+3071,"Knoxville, Tennessee",PHYS,MED
+3072,"Austin, Texas",DISC,MED
+3073,"Rhinebeck, New York",HACK,MED
+3074,"Calhoun, Georgia",UNKN,MED
+3075,"Anchorage, Alaska",UNKN,MED
+3076,"Miami, Florida",DISC,BSF
+3077,"Seattle, Washington",HACK,EDU
+3078,"Payson, Arizona",PHYS,GOV
+3079,"Seattle, Washington",HACK,EDU
+3080,"Long Beach, California",HACK,BSR
+3081,"Los Angeles, California",HACK,EDU
+3082,"Bronx, New York",HACK,BSO
+3083,"Washington, District Of Columbia",HACK,GOV
+3084,"Austin, Texas",STAT,BSR
+3085,"Plano, Texas",HACK,NGO
+3086,", Massachusetts",PHYS,MED
+3087,"Bernardsville, New Jersey",HACK,BSO
+3088,"Killeen, Texas",HACK,BSO
+3089,"Provo, Utah",HACK,BSO
+3090,"Washington, District Of Columbia",PORT,MED
+3091,"San Antonio, Texas",PHYS,BSO
+3092,", Massachusetts",HACK,BSR
+3093,"Suwanee, Georgia",PORT,MED
+3094,"Kailua-Kona, Hawaii",INSD,BSF
+3095,"Greenville, South Carolina",PHYS,GOV
+3096,"Omaha, Nebraska",PHYS,GOV
+3097,"Albuquerque, New Mexico",HACK,BSO
+3098,"Trenton, New Jersey",HACK,BSO
+3099,"Rockford, Illinois",PHYS,MED
+3100,"Claremont, California",INSD,EDU
+3101,"Creve Couer, Missouri",INSD,BSF
+3102,"Eugene, Oregon",STAT,MED
+3103,", California",PHYS,MED
+3104,", California",PORT,MED
+3105,"Federal Way, Washington",STAT,MED
+3106,"Phoenix, Arizona",INSD,MED
+3107,"Los Angeles, California",STAT,MED
+3108,"Saint Louis, Missouri",HACK,BSO
+3109,"Orcutt, California",CARD,BSR
+3110,"Rochester, New York",DISC,GOV
+3111,"Winchester, Kentucky",HACK,BSR
+3112,"Irvine, California",HACK,BSR
+3113,"Van Nuys, California",HACK,BSR
+3114,"Los Angeles, California",CARD,BSF
+3115,"Boston, Massachusetts",PORT,MED
+3116,"Washington, District Of Columbia",HACK,NGO
+3117,"Augusta, Maine",DISC,GOV
+3118,"New Haven, Connecticut",HACK,EDU
+3119,"San Francisco, California",HACK,BSR
+3120,"Islandia, New York",HACK,BSO
+3121,"Hartford, Connecticut",PORT,MED
+3122,"Corvallis, Oregon",INSD,EDU
+3123,,HACK,BSR
+3124,"Santa Barbara, California",HACK,BSR
+3125,"Chanhassen, Minnesota",PORT,BSR
+3126,"Chicago, Illinois",PORT,MED
+3127,"Troy, Ohio",UNKN,MED
+3128,"Tampa, Florida",INSD,GOV
+3129,"Troy, Ohio",PORT,MED
+3130,"New York, New York",STAT,MED
+3131,"Miami, Florida",PORT,MED
+3132,"Mystic, Connecticut",STAT,MED
+3133,"Mount Pleasant, Texas",PORT,MED
+3134,"Mount Pleasant, Texas",PHYS,MED
+3135,"Bremerton, Washington",STAT,MED
+3136,"Redlands, California",UNKN,MED
+3137,"Bakersfield, California",PHYS,MED
+3138,"Chattanooga, Tennessee",PHYS,MED
+3139,"Springfield, Massachusetts",HACK,BSF
+3140,"San Mateo, California",PORT,MED
+3141,"Madison, Wisconsin",DISC,GOV
+3142,"Sunnyvale, California",HACK,BSO
+3143,"Stephenville, Texas",PHYS,EDU
+3144,"San Francisco, California",UNKN,BSR
+3145,"Elizabethtown, Kentucky",PORT,MED
+3146,"Hollywood, Florida",INSD,MED
+3147,"Ontario, California",PORT,MED
+3148,"Libertyville, Illinois",HACK,MED
+3149,,INSD,MED
+3150,"Washington, North Carolina",PORT,MED
+3151,"Lexington, Kentucky",PORT,MED
+3152,"Steamboat Springs, Colorado",DISC,BSO
+3153,"Tallahassee, Florida",PHYS,GOV
+3154,"New York, New York",PORT,MED
+3155,"Chicago, Illinois",INSD,MED
+3156,"Nashville, Tennessee",DISC,GOV
+3157,"Wilmington, Delaware",PORT,MED
+3158,"Lincoln, Nebraska",PORT,MED
+3159,"Centennial, Colorado",DISC,BSF
+3160,"Wichita, Kansas",PORT,GOV
+3161,"Fresno, California",PHYS,MED
+3162,"Big Bear Lake, California",INSD,MED
+3163,"Washington, District Of Columbia",DISC,BSF
+3164,"Medford, Wisconsin",INSD,MED
+3165,"Fort Worth, Texas",UNKN,BSO
+3166,"San Diego, California",INSD,BSR
+3167,"Tucson, Arizona",DISC,EDU
+3168,"Tallahassee, Florida",PHYS,NGO
+3169,"New York, New York",HACK,BSR
+3170,"New York, New York",HACK,BSF
+3171,"Macon, Georgia",INSD,BSF
+3172,"Stanford, California",STAT,MED
+3173,"Atlanta, Georgia",DISC,GOV
+3174,"New York, New York",HACK,EDU
+3175,"Detroit, Michigan",INSD,BSR
+3176,"Miami, Florida",PHYS,EDU
+3177,"San Francisco, California",HACK,BSO
+3178,"Inverness, Florida",HACK,BSO
+3179,"Santa Clara, California",HACK,BSR
+3180,"Atlanta, Georgia",HACK,BSO
+3181,"Woburn, Massachusetts",DISC,BSR
+3182,"Bremerton, Washington",CARD,EDU
+3183,"Portland, Oregon",HACK,BSR
+3184,"San Francisco, California",PHYS,BSF
+3185,"Sellersburg, Indiana",PHYS,MED
+3186,"Dedham, Massachusetts",PHYS,MED
+3187,"Indianapolis, Indiana",HACK,MED
+3188,"Corpus Christi, Texas",PORT,MED
+3189,"Chandler, Arizona",STAT,MED
+3190,"Houston, Texas",PORT,MED
+3191,"Dayton, Ohio",PHYS,MED
+3192,"Denver, Colorado",PORT,GOV
+3193,"Washington, District Of Columbia",HACK,GOV
+3194,"Albuquerque, New Mexico",STAT,BSF
+3195,"Portland, Oregon",PORT,GOV
+3196,"Cleveland, Ohio",PORT,NGO
+3197,"Sacramento, California",PHYS,GOV
+3198,"Greensboro, North Carolina",PORT,BSR
+3199,"Newton, Massachusetts",HACK,MED
+3200,"Albany, New York",DISC,GOV
+3201,"Edwardsville, Illinois",PHYS,GOV
+3202,"Spartanburg, South Carolina",PHYS,BSF
+3203,"Los Angeles, California",INSD,GOV
+3204,"Troy, Michigan",INSD,BSO
+3205,"Overland Park, Kansas",INSD,BSO
+3206,"St. Louis, Missouri",INSD,EDU
+3207,"El Dorado Hills, California",HACK,BSR
+3208,"Mendota Heights, Minnesota",HACK,BSR
+3209,"Pueblo, Colorado",DISC,EDU
+3210,"Atlanta, Georgia",HACK,BSF
+3211,"South Bend, Indiana",DISC,EDU
+3212,"Seattle, Washington",HACK,BSR
+3213,"Durham, North Carolina",PHYS,MED
+3214,"Minneapolis, Minnesota",INSD,MED
+3215,"Anaheim, California",PHYS,MED
+3216,"Dayton, Ohio",INSD,BSO
+3217,"Columbus, Ohio",HACK,BSR
+3218,,PORT,MED
+3219,"Bloomington, Illinois",INSD,BSF
+3220,"San Francisco, California",DISC,BSO
+3221,"Corona, California",INSD,MED
+3222,"Eugene, Oregon",HACK,EDU
+3223,"Huntsville, Alabama",HACK,BSO
+3224,"Costa Mesa, California",HACK,BSF
+3225,"Peck Slip, New York",HACK,BSR
+3226,"Kingston, Rhode Island",DISC,EDU
+3227,"Brea, California",HACK,BSO
+3228,"Chicago, Illinois",HACK,BSF
+3229,"Mamaroneck, New York",INSD,BSR
+3230,"Waltham, Massachusetts",HACK,BSR
+3231,"Syracuse, New York",HACK,GOV
+3232,"Santa Clara, California",HACK,BSF
+3233,"Jamestown, Pennsylvania",HACK,BSR
+3234,"Providence, Utah",HACK,BSR
+3235,"Dothan, Alabama",HACK,EDU
+3236,"Indianapolis, Indiana",HACK,BSO
+3237,"Tampa, Florida",HACK,BSO
+3238,"Metairie, Louisiana",INSD,BSR
+3239,"Anaheim, California",HACK,BSO
+3240,"Phoenix, Arizona",HACK,BSO
+3241,"Indianapolis, Indiana",PORT,MED
+3242,"Irwinton, Georgia",HACK,EDU
+3243,"Cleveland, Ohio",INSD,BSF
+3244,"Arlington, Virginia",HACK,NGO
+3245,"New York, New York",HACK,BSO
+3246,"Colombus, Ohio",HACK,BSR
+3247,"Boston, Massachusetts",PHYS,BSR
+3248,"New York, New York",DISC,BSR
+3249,"Oro Valley, Arizona",INSD,MED
+3250,"Coral Springs, Florida",INSD,BSR
+3251,"Corpus Christi, Texas",PHYS,EDU
+3252,"Baton Rouge, Louisiana",PHYS,BSO
+3253,"Boston, Massachusetts",DISC,BSF
+3254,"New York, New York",DISC,BSF
+3255,"Boston, Massachusetts",HACK,BSF
+3256,"White Plains, New York",DISC,BSF
+3257,"Los Angeles, California",STAT,MED
+3258,"Houston, Texas",INSD,MED
+3259,"Milwaukee, Wisconsin",PORT,BSF
+3260,"Concord, New Hampshire",HACK,GOV
+3261,"New Haven, Connecticut",PORT,GOV
+3262,"Boston, Massachusetts",PHYS,BSO
+3263,"Louisville, Kentucky",HACK,BSF
+3264,"Portland, Maine",DISC,GOV
+3265,"El Paso, Texas",HACK,EDU
+3266,"St. Paul, Minnesota",INSD,GOV
+3267,"Barto, Pennsylvania",HACK,BSR
+3268,"Boston, Massachusetts",PORT,GOV
+3269,"Pittsburgh, Pennsylvania",HACK,EDU
+3270,"Cupertino, California",HACK,BSR
+3271,"New York, New York",CARD,BSR
+3272,"Nipomo, California",HACK,BSR
+3273,"Vallejo, California",PORT,BSF
+3274,"San Francisco, California",PORT,MED
+3275,"Indianapolis, Indiana",INSD,BSF
+3276,"Washington, District Of Columbia",DISC,NGO
+3277,"Conway, South Carolina",HACK,BSR
+3278,"Greene, Ohio",HACK,GOV
+3279,"Schererville, Indiana",HACK,EDU
+3280,"Saint John, Indiana",HACK,EDU
+3281,"Traverse City, Michigan",DISC,BSF
+3282,"Las Vegas, Nevada",HACK,NGO
+3283,"Fort Worth, Texas",UNKN,BSF
+3284,"Miami, Florida",PHYS,GOV
+3285,"McAllen, Texas",PHYS,EDU
+3286,"Madison, New Jersey",INSD,MED
+3287,"Burlington, Massachusetts",PORT,MED
+3288,"Concord, New Hampshire",HACK,BSF
+3289,"Wauwatosa, Wisconsin",INSD,BSR
+3290,"Ocoee, Florida",DISC,GOV
+3291,"Boston, Massachusetts",PORT,MED
+3292,"Austin, Texas",HACK,BSF
+3293,"Bakersfield, California",STAT,MED
+3294,"Miami, Florida",INSD,MED
+3295,"Washington, District Of Columbia",PORT,MED
+3296,"Des Plaines, Illinois",PHYS,NGO
+3297,"Milwaukee, Wisconsin",HACK,EDU
+3298,"Chicago, Illinois",DISC,MED
+3299,"Frankfort, Kentucky",HACK,MED
+3300,"Ormond Beach, Florida",PORT,MED
+3301,"Philadelphia, Pennsylvania",PORT,MED
+3302,"Dorchester, Massachusetts",INSD,MED
+3303,"Farmingdale, New York",HACK,MED
+3304,"Camp Hill, Pennsylvania",DISC,BSR
+3305,"Washington, District Of Columbia",INSD,MED
+3306,"Acworth, Georgia",PORT,MED
+3307,"Olympia, Washington",PORT,MED
+3308,"Chapel Hill, North Carolina",DISC,GOV
+3309,"Miami, Florida",DISC,EDU
+3310,"Westlake Village, California",DISC,BSF
+3311,"Lumberton, North Carolina",PORT,GOV
+3312,"San Mateo, California",HACK,EDU
+3313,"Chicago, Illinois",DISC,EDU
+3314,"Alexandria, Virginia",DISC,GOV
+3315,"Phoenix, Arizona",INSD,NGO
+3316,"Las Vegas, Nevada",PORT,NGO
+3317,"Columbus, Ohio",PHYS,BSO
+3318,"Monterey, California",PORT,EDU
+3319,"Niceville, Florida",HACK,EDU
+3320,"Lithonia, Georgia",HACK,BSO
+3321,"New York, New York",DISC,BSF
+3322,"New York, New York",HACK,BSF
+3323,", Kansas",HACK,BSO
+3324,"Atlanta, Georgia",INSD,BSR
+3325,"Columbia, Montana",HACK,BSR
+3326,"Santa Maria, California",PHYS,EDU
+3327,"Atlanta, Georgia",PHYS,BSO
+3328,"Madera, California",HACK,BSO
+3329,"Palo Alto, California",HACK,BSO
+3330,"Los Angeles, California",HACK,BSO
+3331,"Bellevue, Washington",HACK,BSR
+3332,"Baltimore, Maryland",UNKN,GOV
+3333,"Foster City, California",HACK,BSR
+3334,"North Bergen, New Jersey",PHYS,BSO
+3335,"Los Angeles, California",HACK,BSO
+3336,"Springfield, Montana",PHYS,MED
+3337,"Baltimore, Maryland",INSD,MED
+3338,"Burlington, Washington",HACK,GOV
+3339,"Charlottesville, Virginia",HACK,NGO
+3340,"Washington, District Of Columbia",HACK,GOV
+3341,"Willimantic, Connecticut",PORT,GOV
+3342,"Maryville, Tennessee",PORT,MED
+3343,"Boston, Massachusetts",INSD,MED
+3344,"harrisonburg, Virginia",PORT,MED
+3345,"Scottsdale, Arizona",PORT,MED
+3346,"Monroeville, Pennsylvania",DISC,GOV
+3347,"Fresno, California",STAT,MED
+3348,"Montplier, Vermont",PORT,BSF
+3349,"Waipahu, Hawaii",HACK,MED
+3350,"Montgomery, Alabama",UNKN,BSO
+3351,"Butte, Montana",INSD,BSR
+3352,"Tampa, Florida",INSD,MED
+3353,"Olympia, Washington",UNKN,MED
+3354,"Boston, Massachusetts",INSD,MED
+3355,"Abilene, Texas",HACK,BSF
+3356,"Boston, Massachusetts",DISC,BSO
+3357,"Canton, Ohio",HACK,MED
+3358,"Washington, District Of Columbia",PORT,GOV
+3359,"Silver Spring, Maryland",HACK,GOV
+3360,"Athens, Georgia",HACK,EDU
+3361,"Athens, Georgia",DISC,EDU
+3362,"Atlanta, Georgia",DISC,BSF
+3363,"Ithaca, New York",DISC,EDU
+3364,"Naperville, Illinois",HACK,GOV
+3365,"New York, New York",INSD,BSF
+3366,"Soledad, California",DISC,GOV
+3367,"Springfield, Illinois",PHYS,MED
+3368,"Louisville, Kentucky",HACK,BSF
+3369,"Colorado Springs, Colorado",PHYS,MED
+3370,"Providence, Rhode Island",PORT,MED
+3371,"Livermore, California",PORT,MED
+3372,"Mountain View, California",HACK,BSO
+3373,"Miami, Florida",INSD,BSF
+3374,"Baltimore, Maryland",INSD,MED
+3375,"Lexington, Kentucky",PORT,MED
+3376,"Chicago, Illinois",DISC,GOV
+3377,"Chicago, Illinois",HACK,BSO
+3378,"Bozeman, Montana",HACK,BSR
+3379,"Washington, District Of Columbia",INSD,GOV
+3380,"Huntsville, Alabama",PHYS,GOV
+3381,"Hillsboro, Oregon",PORT,BSR
+3382,"Suwanee, Georgia",HACK,BSR
+3383,"San Jose, California",HACK,BSO
+3384,"Bellevue, Washington",HACK,BSR
+3385,"Oakland, California",DISC,MED
+3386,"Fairfax, Virginia",CARD,MED
+3387,"Tampa, Florida",INSD,MED
+3388,"Ashland, Pennsylvania",PHYS,MED
+3389,"Belhaven, North Carolina",PHYS,MED
+3390,"Adelanto, California",PHYS,MED
+3391,"Reno, Nevada",HACK,MED
+3392,"West Haven, Connecticut",PORT,MED
+3393,"Dayton, Ohio",PHYS,MED
+3394,"Little Rock, Arkansas",INSD,MED
+3395,"Pensacola, Florida",INSD,MED
+3396,"Houston, Texas",PORT,MED
+3397,"Charlottesville, Virginia",PORT,MED
+3398,"Libertyville, Illinois",HACK,BSR
+3399,"Jacksonville, Florida",PORT,NGO
+3400,"Jacksonville, Florida",HACK,NGO
+3401,"Clinton, Wisconsin",PORT,BSR
+3402,"Washington, District Of Columbia",STAT,BSO
+3403,"Moorestown, New Jersey",PORT,BSF
+3404,"Albuquerque, New Mexico",PORT,MED
+3405,"Sacramento, California",DISC,MED
+3406,"Pittsburgh, Pennsylvania",PHYS,NGO
+3407,"Woodridge, Illinois",HACK,BSR
+3408,"Concord, California",STAT,EDU
+3409,"Germantown, Maryland",PORT,BSO
+3410,"Long Island, New York",INSD,MED
+3411,"Trenton, New Jersey",DISC,GOV
+3412,"Suffolk, Virginia",INSD,MED
+3413,"Malibu, California",PORT,EDU
+3414,"Pomona, California",DISC,EDU
+3415,"College Point, New York",CARD,BSR
+3416,"Sarasota, Florida",PHYS,MED
+3417,"Bridgeport, Connecticut",UNKN,MED
+3418,"Belhaven, North Carolina",PHYS,MED
+3419,"Stone Mountain, Georgia",PHYS,MED
+3420,"Ammon, Idaho",PHYS,MED
+3421,"Woodland, California",CARD,BSF
+3422,"Wilmington, Massachusetts",HACK,BSO
+3423,"San Jose, California",INSD,MED
+3424,"Las Vegas, Nevada",PORT,BSR
+3425,"Sacramento, California",DISC,MED
+3426,"Deerfield, Illinois",INSD,BSR
+3427,"San Diego, California",PHYS,BSR
+3428,"Santa Monica, California",DISC,BSR
+3429,"West Covina, California",DISC,GOV
+3430,"Delano, California",PORT,BSR
+3431,"Chicago, Illinois",HACK,BSF
+3432,"Owensboro, Kentucky",PORT,MED
+3433,"Mission Laguna Beach, California",PORT,MED
+3434,"Rosemont, Illinois",DISC,BSR
+3435,"Jacksonville, North Carolina",INSD,MED
+3436,"Princeton, Indiana",PORT,MED
+3437,"Boston, Massachusetts",STAT,MED
+3438,"Oklahoma City, Oklahoma",HACK,MED
+3439,"Woonsocket, Rhode Island",PHYS,MED
+3440,"Metuchen, New Jersey",PHYS,MED
+3441,"Woonsocket, Rhode Island",PORT,MED
+3442,"Ann Arbor, Michigan",PORT,MED
+3443,"Columbia, Maryland",PORT,BSO
+3444,"Oakland, California",DISC,MED
+3445,"Macon, Georgia",STAT,GOV
+3446,"Houston, Texas",INSD,EDU
+3447,"Hephzibah, Georgia",PORT,EDU
+3448,"Charlotte, North Carolina",PHYS,EDU
+3449,"Atlanta, Georgia",PORT,BSR
+3450,"Fairfax, Virginia",HACK,EDU
+3451,"Montgomery, Alabama",INSD,BSF
+3452,"Hudson, Florida",PHYS,BSR
+3453,"Overland Park, Kansas",PHYS,BSF
+3454,"San Francisco, California",INSD,BSF
+3455,"Columbus, Ohio",HACK,BSF
+3456,"Anaheim, California",PHYS,EDU
+3457,"Duluth, Minnesota",HACK,EDU
+3458,"Plainfield, Illinois",HACK,EDU
+3459,,HACK,EDU
+3460,"Tulsa, Oklahoma",HACK,GOV
+3461,"Louisville, Kentucky",HACK,MED
+3462,"Hayden, Idaho",PORT,MED
+3463,"St. Louis, Missouri",UNKN,BSR
+3464,"Reedley, California",STAT,MED
+3465,"Concord, California",HACK,BSR
+3466,"Los Angeles, California",HACK,EDU
+3467,"San Jose, California",UNKN,BSR
+3468,"Aurora, Colorado",PHYS,MED
+3469,"Palm Beach, Florida",INSD,MED
+3470,"Georgetown, Massachusetts",PHYS,MED
+3471,"Woodbury, Minnesota",INSD,MED
+3472,"New York, New York",PORT,BSO
+3473,"Oceanport, New Jersey",HACK,GOV
+3474,"La Grange, Texas",HACK,MED
+3475,"Rockville, Maryland",DISC,MED
+3476,"Woodridge, Illinois",HACK,BSR
+3477,"Jacksonville, Florida",INSD,MED
+3478,"New York, New York",DISC,BSR
+3479,"Miami, Florida",INSD,MED
+3480,", West Virginia",HACK,BSR
+3481,"Charleston, Illinois",DISC,EDU
+3482,"Athens, Georgia",HACK,BSR
+3483,"Tallahassee, Florida",PORT,GOV
+3484,"Montgomery, Alabama",PHYS,MED
+3485,"Van Nuys, California",PORT,MED
+3486,"Albuquerque, New Mexico",PHYS,BSO
+3487,"San Bruno, California",PORT,MED
+3488,"Natick, Massachusetts",HACK,BSR
+3489,"Antioch, California",DISC,EDU
+3490,"Tallahassee, Florida",INSD,MED
+3491,"Austin, Texas",INSD,MED
+3492,", Illinois",PORT,BSF
+3493,"Los Angeles, California",INSD,GOV
+3494,"Montgomery, Alabama",INSD,BSF
+3495,"New York, New York",HACK,BSO
+3496,"Washington, District Of Columbia",HACK,NGO
+3497,"Chandler, Arizona",HACK,BSR
+3498,"River Falls, Wisconsin",PHYS,MED
+3499,"Statesville, North Carolina",HACK,BSR
+3500,"Palatine, Illinois",DISC,BSO
+3501,"Honesdale, Pennsylvania",PORT,MED
+3502,"Montgomery, Alabama",HACK,NGO
+3503,"Prairie du Sac, Wisconsin",HACK,BSF
+3504,"Chapel Hill, North Carolina",HACK,EDU
+3505,"Tallahassee, Florida",STAT,MED
+3506,"Brandon, Florida",HACK,BSO
+3507,"Columbus, Ohio",DISC,BSR
+3508,"Porterville, California",HACK,MED
+3509,"Rome, Georgia",PORT,MED
+3510,"Milwaukee, Wisconsin",HACK,MED
+3511,"Jersey City, New Jersey",INSD,MED
+3512,"Palm Beach, Florida",INSD,MED
+3513,"Baltimore, Maryland",STAT,MED
+3514,"Brentwood, Tennessee",PORT,MED
+3515,"Baltimore, Maryland",PORT,MED
+3516,,HACK,BSR
+3517,"Richmond, Kentucky",INSD,BSR
+3518,"Poughkeepsie, New York",HACK,NGO
+3519,"Washington, District Of Columbia",PORT,GOV
+3520,"Cleveland, Ohio",HACK,GOV
+3521,"Orlando, Florida",INSD,MED
+3522,"Bartow, Florida",DISC,EDU
+3523,"San Francisco, California",HACK,BSR
+3524,"New York, New York",HACK,BSO
+3525,"Greencastle, Indiana",HACK,BSR
+3526,"St. Louis, Missouri",DISC,BSF
+3527,"Washington, District Of Columbia",HACK,GOV
+3528,"New York, New York",CARD,BSF
+3529,"Los Angeles, California",HACK,BSO
+3530,"Washington, District Of Columbia",HACK,GOV
+3531,"Tampa, Florida",HACK,BSR
+3532,"San Francisco, California",HACK,BSR
+3533,"Cortland, Illinois",INSD,BSR
+3534,"Walnut Creek, California",PHYS,BSR
+3535,", California",PORT,BSF
+3536,"Palo Alto, California",PORT,MED
+3537,"Napa, California",INSD,MED
+3538,"Detroit, Michigan",INSD,MED
+3539,"Oahu, Hawaii",HACK,BSR
+3540,"Waltham, Massachusetts",HACK,BSO
+3541,"Cherry Hill, New Jersey",PORT,BSF
+3542,"Newark, New Jersey",DISC,BSF
+3543,"Portland, Oregon",HACK,BSR
+3544,"Springfield, Massachusetts",DISC,BSF
+3545,"Farmington, Connecticut",INSD,MED
+3546,"Redwood City, California",HACK,BSO
+3547,"Minneapolis, Minnesota",INSD,EDU
+3548,"New Britain, Connecticut",PORT,BSR
+3549,"Redmond, Washington",HACK,BSR
+3550,"Menlo Park, California",HACK,BSO
+3551,"San Francisco, California",HACK,BSO
+3552,"Cupertino, California",HACK,BSR
+3553,"Littleton, Massachusetts",DISC,GOV
+3554,"Salt Lake City, Utah",PORT,MED
+3555,"Indianapolis, Indiana",DISC,MED
+3556,"Irvine, California",DISC,MED
+3557,"Charlotte, North Carolina",HACK,MED
+3558,", Georgia",INSD,BSR
+3559,"Sunnyvale, California",INSD,BSR
+3560,"Hudson, Massachusetts",INSD,BSR
+3561,"Salem, Massachusetts",HACK,EDU
+3562,"New York, New York",INSD,BSO
+3563,"Milford, Connecticut",HACK,BSR
+3564,", California",HACK,BSR
+3565,"Cupertino, California",HACK,BSR
+3566,"Melrose, Massachusetts",INSD,MED
+3567,"Willard, Missouri",INSD,BSO
+3568,"Aiken, South Carolina",DISC,GOV
+3569,"Washington, District Of Columbia",DISC,GOV
+3570,"Milwaukee, Wisconsin",PHYS,GOV
+3571,"Dearborn, Michigan",HACK,BSR
+3572,"Washington, District Of Columbia",HACK,GOV
+3573,"Calabasas, California",INSD,BSF
+3574,"Harrisburg, Pennsylvania",HACK,GOV
+3575,"Indianapolis, Indiana",DISC,GOV
+3576,"Baton Rouge, Louisiana",INSD,MED
+3577,"Utica, New York",STAT,MED
+3578,"West Palm Beach, Florida",DISC,BSO
+3579,"Decatur, Illinois",CARD,BSF
+3580,"Greer, South Carolina",PHYS,MED
+3581,"Ann Arbor, Michigan",HACK,BSR
+3582,"Scottsburg, Indiana",PORT,MED
+3583,"Tampa, Florida",PORT,MED
+3584,"Tallahassee, Florida",HACK,EDU
+3585,"Portland, Maine",HACK,BSF
+3586,"Salt Lake City, Utah",HACK,GOV
+3587,"Hampton, Virginia",INSD,NGO
+3588,"Portland, Oregon",PORT,MED
+3589,"Lubbock, Texas",DISC,MED
+3590,"Portland , Oregon",PORT,EDU
+3591,"Portland, Oregon",PORT,EDU
+3592,"Lima, Ohio",DISC,GOV
+3593,"Phoenix, Arizona",PORT,MED
+3594,"Anaheim, California",STAT,MED
+3595,"Fort Myers, Florida",PORT,MED
+3596,"San Francisco, California",HACK,BSO
+3597,"Miami, Florida",INSD,BSO
+3598,"Phoenix, Arizona",CARD,BSR
+3599,"Troy, New York",INSD,MED
+3600,"Hiram, Georgia",PHYS,MED
+3601,"San Francisco, California",HACK,BSO
+3602,"West Valley City, Utah",PHYS,MED
+3603,"Tooele, Utah",PORT,GOV
+3604,"Uniontown, Pennsylvania",HACK,MED
+3605,"Seymour, Indiana",DISC,MED
+3606,"Hicksville, New York",PHYS,MED
+3607,"Chattanooga, Tennessee",PHYS,MED
+3608,"Troy, Michigan",HACK,BSF
+3609,"Del Mar, California",PHYS,BSF
+3610,"Long Island City, New York",HACK,BSF
+3611,"Boca Raton, Florida",HACK,BSO
+3612,"Indianapolis, Indiana",PORT,BSR
+3613,"Atlanta, Georgia",DISC,BSO
+3614,"Irving, Texas",DISC,BSF
+3615,"Houston, Texas",HACK,BSR
+3616,"New York, New York",HACK,BSR
+3617,"Raleigh, North Carolina",PORT,BSO
+3618,"Orange, California",DISC,EDU
+3619,"New York, New York",HACK,BSF
+3620,"New York, New York",HACK,BSF
+3621,"Portland, Maine",HACK,BSR
+3622,"Westbrook, Maine",HACK,BSR
+3623,"Santa Clara, California",PORT,BSO
+3624,"Cedar Rapids, Iowa",HACK,EDU
+3625,"Burlington, North Carolina",PORT,MED
+3626,"Orlando, Florida",INSD,MED
+3627,"Washington, District Of Columbia",UNKN,GOV
+3628,"Burlington, New Jersey",CARD,BSF
+3629,"Atlanta, Georgia",CARD,BSF
+3630,"Yuma, Arizona",PORT,MED
+3631,"Glens Falls, New York",DISC,MED
+3632,"Houston, Texas",INSD,BSO
+3633,"Sacramento, California",INSD,BSO
+3634,"Little Rock, Arkansas",PORT,BSR
+3635,"Lafayette, Indiana",DISC,BSR
+3636,"Seattle, Washington",PORT,MED
+3637,"Orem, Utah",DISC,EDU
+3638,"Syracuse, New York",PORT,MED
+3639,"Pasadena, California",HACK,BSF
+3640,"New Braunfels, Texas",DISC,MED
+3641,"Watsonville, California",CARD,BSR
+3642,"Redwood, California",HACK,BSO
+3643,"Valhalla, New York",INSD,BSR
+3644,"Washington, District Of Columbia",HACK,GOV
+3645,"Washington, District Of Columbia",HACK,GOV
+3646,"Rochester, New York",PORT,MED
+3647,"Manchester, New Hampshire",PHYS,MED
+3648,"San Ramon, California",HACK,BSF
+3649,"Ketchikan, Alaska",HACK,EDU
+3650,"Raleigh, North Carolina",PHYS,MED
+3651,"Denver, Colorado",HACK,BSO
+3652,"Galloway, New Jersey",HACK,BSO
+3653,"Chicago, Illinois",STAT,GOV
+3654,"Olympia, Washington",HACK,GOV
+3655,"York, Pennsylvania",HACK,MED
+3656,"Lafayette, Indiana",PORT,MED
+3657,"Sacramento, California",PHYS,GOV
+3658,"Memphis, Tennessee",DISC,MED
+3659,"Portland, Oregon",PORT,MED
+3660,"Jackson, Mississippi",PORT,EDU
+3661,"Baltimore, Maryland",PHYS,MED
+3662,"Greenwood, Indiana",PORT,MED
+3663,"Suwanee, Georgia",INSD,MED
+3664,"Augusta, Maine",HACK,BSO
+3665,"Yardley, Pennsylvania",PORT,MED
+3666,"Berkeley, California",DISC,GOV
+3667,"Amherst, New York",DISC,MED
+3668,"San Francisco, California",DISC,BSR
+3669,"El Centro, California",PHYS,MED
+3670,"Aurora, Oregon",DISC,MED
+3671,"Mechanicsburg, Pennsylvania",PHYS,MED
+3672,"Seattle, Washington",PHYS,MED
+3673,"Murray, Utah",STAT,MED
+3674,"Bowling Green, Ohio",PHYS,MED
+3675,"New Rochelle, New York",STAT,MED
+3676,"Sioux Falls, South Dakota",STAT,MED
+3677,"Speedway, Indiana",INSD,MED
+3678,"Medford, Wisconsin",UNKN,BSO
+3679,"New York, New York",DISC,BSO
+3680,"Washington, District Of Columbia",DISC,GOV
+3681,"Boston, Massachusetts",INSD,BSO
+3682,"Washington, District Of Columbia",HACK,GOV
+3683,"Gainesville, Florida",INSD,MED
+3684,"Pocatello, Idaho",DISC,MED
+3685,"Newport News, Virginia",INSD,MED
+3686,"Frisko, Texas",HACK,MED
+3687,"Rochester, New York",PORT,MED
+3688,"Sacramento, California",PHYS,MED
+3689,"Palm Springs, California",PORT,NGO
+3690,"Riverside, California",PORT,GOV
+3691,"Santa Monica, California",PORT,MED
+3692,"Buffalo, New York",DISC,MED
+3693,"Buffalo, New York",PHYS,MED
+3694,"Amherst, Massachusetts",HACK,EDU
+3695,"Springfield, Massachusetts",DISC,BSF
+3696,"Norcross, Georgia",INSD,BSO
+3697,,HACK,BSO
+3698,"Sante Fe, New Mexico",HACK,BSO
+3699,"Ashland, Virginia",HACK,BSO
+3700,"Santa Monica, California",HACK,BSR
+3701,"Englewood, Colorado",HACK,BSO
+3702,"Mount Pleasant, Pennsylvania",HACK,BSR
+3703,"Elyria, Ohio",HACK,BSF
+3704,"Orange, California",DISC,EDU
+3705,"Brookhaven, New York",DISC,GOV
+3706,"Virginia Beach, Virginia",PHYS,MED
+3707,"Orlando, Florida",INSD,BSR
+3708,"Palo Alto, California",PORT,MED
+3709,"Fayetteville, North Carolina",PHYS,MED
+3710,"Palo Alto, California",STAT,MED
+3711,"Mountain View, California",HACK,BSO
+3712,,DISC,MED
+3713,"Salt Lake City, Utah",HACK,GOV
+3714,"Olympia, Washington",HACK,BSO
+3715,"Ephrata, Pennsylvania",INSD,MED
+3716,"Woodland, California",UNKN,BSF
+3717,"San Francisco, California",HACK,BSO
+3718,"Reston, Virginia",DISC,BSR
+3719,,DISC,BSR
+3720,"Jacksonville, Florida",HACK,BSF
+3721,"Menlo Park, California",DISC,BSO
+3722,"Burlington, Vermont",PORT,EDU
+3723,"San Diego, California",PORT,BSF
+3724,"New York, New York",DISC,BSF
+3725,"Knoxville, Tennessee",PHYS,MED
+3726,"Miami, Florida",INSD,MED
+3727,"Lincoln City, Oregon",PHYS,MED
+3728,"New York, New York",PORT,MED
+3729,"Abingdon, Maryland",PHYS,MED
+3730,"Heber Springs, Arkansas",PHYS,MED
+3731,", Tennessee",UNKN,MED
+3732,"Norwood, Ohio",PORT,MED
+3733,"Columbia, South Carolina",PORT,EDU
+3734,,HACK,BSR
+3735,"Seattle, Washington",PORT,GOV
+3736,"Gulf Breeze, Florida",INSD,MED
+3737,"Tallahassee, Florida",DISC,EDU
+3738,"Chicago, Illinois",HACK,BSF
+3739,"Indianapolis, Indiana",DISC,GOV
+3740,"Honolulu, Hawaii",STAT,BSR
+3741,"Fort Worth, Texas",PHYS,MED
+3742,"Rancho Cordova, California",HACK,GOV
+3743,"Greensboro, North Carolina",DISC,EDU
+3744,"Pasadena, California",DISC,MED
+3745,"Orlando, Florida",INSD,MED
+3746,"Long Beach, California",INSD,MED
+3747,"Albany, New York",INSD,MED
+3748,"Akron, Ohio",HACK,GOV
+3749,"Monroeville, Pennsylvania",DISC,MED
+3750,"Miami, Florida",INSD,MED
+3751,"Washington, District Of Columbia",DISC,GOV
+3752,"Cupertino, California",HACK,BSR
+3753,"Charlottesville, Virginia",DISC,EDU
+3754,"New York, New York",HACK,BSO
+3755,"Danbury, Connecticut",DISC,EDU
+3756,"Detroit, Michigan",PHYS,MED
+3757,"Columbia, South Carolina",PORT,MED
+3758,"New York, New York",DISC,BSR
+3759,"New York, New York",INSD,BSF
+3760,"New York, New York",DISC,BSF
+3761,"West Hollywood, California",DISC,BSO
+3762,"West Hollywood, California",DISC,BSO
+3763,"Falls Church, Virginia",PORT,MED
+3764,"Bentonville, Arkansas",HACK,BSR
+3765,", Oklahoma",CARD,BSR
+3766,"Stanford, California",HACK,EDU
+3767,"Portland, Oregon",DISC,MED
+3768,"Washington, District Of Columbia",DISC,BSF
+3769,"Princeton, New Jersey",HACK,BSF
+3770,"Manchester, New Hampshire",HACK,BSF
+3771,"Augusta, Georgia",PORT,MED
+3772,"Jeffersonville, Indiana",DISC,MED
+3773,"Lone Tree, Colorado",INSD,MED
+3774,"Tempe, Arizona",DISC,BSO
+3775,"New York, New York",PORT,BSR
+3776,"Auburn, Alabama",DISC,EDU
+3777,"San Marcos, California",HACK,EDU
+3778,"Tempe, Arizona",HACK,BSO
+3779,"Suwanee, Georgia",DISC,MED
+3780,"Los Angeles, California",PORT,MED
+3781,"Redwood, California",DISC,BSF
+3782,"Sacramento, California",PHYS,MED
+3783,"Sonoma, California",DISC,MED
+3784,"Minneapolis, Minnesota",CARD,BSO
+3785,"Lansing, Michigan",HACK,MED
+3786,"Van Nuys, California",HACK,BSF
+3787,"San Francisco, California",PORT,BSR
+3788,"Bloomington, Indiana",DISC,MED
+3789,"Baltimore, Maryland",PHYS,GOV
+3790,"Harris, Texas",HACK,GOV
+3791,"Anchorage, Alaska",DISC,MED
+3792,"Atlanta, Georgia",HACK,EDU
+3793,"Washington, District Of Columbia",HACK,GOV
+3794,"Irvine, California",HACK,BSO
+3795,"Ogden, Utah",DISC,GOV
+3796,"Bronx, New York",PORT,MED
+3797,"Portland, Oregon",HACK,GOV
+3798,"Jackson, Mississippi",DISC,MED
+3799,", Texas",PORT,MED
+3800,"Cortez, Colorado",HACK,BSR
+3801,"New York, New York",INSD,BSO
+3802,"St. Louis, Missouri",HACK,BSR
+3803,"Houston, Texas",PORT,MED
+3804,"Columbia, Missouri",DISC,BSF
+3805,"New York, New York",HACK,BSO
+3806,"Nashville, Tennessee",HACK,BSF
+3807,"Santa Monica, California",HACK,BSO
+3808,"San Francisco, California",HACK,EDU
+3809,"Newark, Delaware",HACK,EDU
+3810,"Suwanee, Georgia",HACK,BSO
+3811,"Saint Johnsbury, Vermont",PORT,MED
+3812,"San Francisco, California",DISC,BSR
+3813,"Houston, Texas",DISC,GOV
+3814,"Troy, Alabama",INSD,MED
+3815,"Prince Frederick, Maryland",DISC,MED
+3816,"Novato, California",PHYS,BSO
+3817,"Brentwood, Tennessee",CARD,BSR
+3818,"Salt Lake City, Utah",INSD,GOV
+3819,"Miami, Florida",DISC,MED
+3820,"Miami, Florida",PHYS,MED
+3821,"San Francisco, California",PORT,BSO
+3822,"St. Louis, Missouri",PORT,MED
+3823,"New York, New York",HACK,BSF
+3824,"O'Fallon, Missouri",STAT,MED
+3825,"Phoenix, Arizona",PORT,BSO
+3826,"Minneapolis, Minnesota",HACK,BSO
+3827,"New York, New York",CARD,BSR
+3828,"Blacksburg, Virginia",DISC,EDU
+3829,"New York, New York",HACK,BSO
+3830,"Boston, Massachusetts",PORT,GOV
+3831,"Inverness, Florida",HACK,BSR
+3832,"Lake Placid, Florida",HACK,BSR
+3833,"Greenfield, Massachusetts",UNKN,BSR
+3834,"Westport, Connecticut",DISC,BSF
+3835,"Springfield, Missouri",HACK,GOV
+3836,"Williston, Vermont",HACK,BSR
+3837,"San Mateo, California",PORT,BSF
+3838,"Tacoma, Washington",DISC,BSO
+3839,"Tampa, Florida",INSD,EDU
+3840,"Marrieta, Georgia",DISC,GOV
+3841,"Rockland, Massachusetts",HACK,BSF
+3842,"Tampa, Florida",INSD,MED
+3843,"Oakland, California",DISC,MED
+3844,"Roseville, Minnesota",HACK,BSR
+3845,"Troy, Michigan",HACK,BSF
+3846,"Albany, Georgia",INSD,MED
+3847,"Merriam, Kansas",PHYS,BSO
+3848,"Sacramento, California",PORT,MED
+3849,"Imperial, California",DISC,MED
+3850,"Denver, Colorado",PORT,MED
+3851,"Brooklyn, New York",PORT,MED
+3852,"Brooklyn, New York",PHYS,MED
+3853,"Brooklyn, New York",DISC,MED
+3854,"Sidney, Ohio",PORT,MED
+3855,"Greenfield, Indiana",INSD,MED
+3856,"Medley, Florida",HACK,BSR
+3857,"South Bend, Indiana",UNKN,MED
+3858,"New Town, North Dakota",UNKN,MED
+3859,"Mountain View, California",DISC,BSO
+3860,"Aventura, Florida",CARD,BSR
+3861,"Westmoreland, Tennessee",PORT,MED
+3862,"San Francisco, California",PORT,BSO
+3863,"San Jose, California",PORT,MED
+3864,"St. Louis, Missouri",HACK,BSF
+3865,"Little Falls, Minnesota",INSD,GOV
+3866,"Fort Lauderdale, Florida",INSD,MED
+3867,"New York, New York",DISC,MED
+3868,"Stanford, California",HACK,EDU
+3869,"Little Rock, Arkansas",CARD,BSR
+3870,"Columbia, South Carolina",INSD,MED
+3871,"Saint Louis, Missouri",HACK,MED
+3872,"Norman, Oklahoma",HACK,EDU
+3873,"Gastonia, North Carolina",DISC,MED
+3874,"Santa Barbara, California",HACK,BSF
+3875,"Redwood City, California",PORT,NGO
+3876,"Salinas, California",HACK,GOV
+3877,"Gig Harbor, Washington",PORT,GOV
+3878,"Anaheim, California",STAT,BSR
+3879,"Los Angeles, California",PORT,MED
+3880,"Sacramento, California",HACK,EDU
+3881,"Howell, Michigan",HACK,BSO
+3882,"St. Paul, Minnesota",INSD,BSF
+3883,"Boulder, Colorado",HACK,BSF
+3884,"Glenside, Pennsylvania",HACK,BSF
+3885,"Danbury, Connecticut",HACK,BSR
+3886,"Long Island, New York",CARD,BSR
+3887,"Columbia, South Carolina",HACK,GOV
+3888,"Washington, District Of Columbia",HACK,GOV
+3889,"Minneapolis, Minnesota",PORT,MED
+3890,"Minneapolis, Minnesota",INSD,MED
+3891,"Stamford, Connecticut",PORT,BSO
+3892,"Minneapolis, Minnesota",PORT,MED
+3893,"Alhambra, California",PORT,MED
+3894,"East Lansing, Michigan",HACK,EDU
+3895,"East Lansing, Michigan",HACK,EDU
+3896,"Mountain View, California",HACK,BSO
+3897,"Columbia, Missouri",INSD,MED
+3898,"Portland, Maine",PHYS,EDU
+3899,"Park Ridge, Illinois",STAT,MED
+3900,"Big Rapids, Michigan",HACK,EDU
+3901,"Brooklyn, New York",PORT,NGO
+3902,"Tempe, Arizona",DISC,BSO
+3903,"Stevens Point, Wisconsin",DISC,BSF
+3904,"Phoenix, Arizona",PHYS,BSR
+3905,"New York, New York",HACK,BSO
+3906,"Fort Worth, Texas",DISC,BSR
+3907,"Philadelphia, Pennsylvania",HACK,GOV
+3908,"Wichita Falls, Texas",HACK,BSR
+3909,"Laurel, New Jersey",INSD,MED
+3910,"Corvallis, Oregon",PHYS,MED
+3911,"Miami Beach, Florida",INSD,MED
+3912,"Cleveland, Ohio",STAT,MED
+3913,"Atlanta, Georgia",INSD,MED
+3914,"Clearwater, Florida",INSD,MED
+3915,"Orlando, Florida",INSD,MED
+3916,"Secaucus, New Jersey",PORT,BSO
+3917,"Atlanta, Georgia",DISC,BSR
+3918,"Fort Lauderdale, Florida",INSD,MED
+3919,"Tucson, Arizona",HACK,EDU
+3920,"Morrison, Colorado",PORT,MED
+3921,"Oak Ridge, Tennessee",PORT,MED
+3922,"Miami Beach, Florida",INSD,MED
+3923,"Portland, Oregon",DISC,BSF
+3924,"Denver, Colorado",PORT,MED
+3925,"Baltimore, Maryland",INSD,GOV
+3926,"Raleigh, North Carolina",DISC,GOV
+3927,"Chicago, Illinois",PHYS,BSF
+3928,"Torrance, California",HACK,BSR
+3929,"Tallahassee, Florida",DISC,GOV
+3930,"Pullman, Washington",PORT,EDU
+3931,"Jeffersonville, Indiana",DISC,GOV
+3932,"Nashua, New Hampshire",HACK,BSO
+3933,"Greencastle, Indiana",HACK,EDU
+3934,"Atlanta, Georgia",HACK,MED
+3935,"Milwaukee, Wisconsin",DISC,EDU
+3936,"Janesville, Wisconsin",PORT,MED
+3937,"Kirkwood, Missouri",HACK,BSO
+3938,"Wayne, New Jersey",PORT,MED
+3939,"New York, New York",PORT,GOV
+3940,"New York, New York",PHYS,MED
+3941,"Denver, Colorado",PHYS,MED
+3942,"Tinley Park, Illinois",DISC,MED
+3943,"Lima, Ohio",STAT,MED
+3944,"Austin, Texas",PORT,MED
+3945,"Philadelphia, Pennsylvania",INSD,MED
+3946,"Pasadena, Maryland",INSD,MED
+3947,"Columbus, Georgia",INSD,BSO
+3948,"San Jose, California",PORT,MED
+3949,"Newport, Vermont",INSD,MED
+3950,"Dallas, Texas",STAT,MED
+3951,"Independence, Ohio",PORT,MED
+3952,"Los Angeles, California",PORT,MED
+3953,"Chicago, Illinois",UNKN,MED
+3954,"Charlottesville, Virginia",HACK,MED
+3955,"Pottsville, Pennsylvania",PORT,MED
+3956,"Littleton, Colorado",PORT,MED
+3957,"McAllen, Texas",INSD,MED
+3958,"Berkeley, California",INSD,MED
+3959,"Chicago, Illinois",HACK,BSF
+3960,"Austin, Texas",HACK,BSO
+3961,"Blacksburg, Virginia",HACK,EDU
+3962,"San Francisco, California",HACK,BSO
+3963,"Bloomington, Illinois",INSD,BSF
+3964,"Austin, Texas",HACK,BSO
+3965,"Burbank, California",HACK,BSR
+3966,"Crystal Lake, Illinois",DISC,EDU
+3967,"New York, New York",DISC,BSF
+3968,"Boston, Massachusetts",HACK,BSF
+3969,"Baltimore, Maryland",STAT,MED
+3970,"Elkton, Maryland",INSD,MED
+3971,"Dublin, Ohio",PORT,BSF
+3972,"Oak Ridge, Tennessee",PORT,MED
+3973,"Chicago, Illinois",DISC,BSF
+3974,"Hurst, Texas",HACK,BSO
+3975,"West Des Moines, Iowa",INSD,MED
+3976,"San Francisco, California",PORT,MED
+3977,"Columbus, Ohio",HACK,BSF
+3978,"Austin, Texas",DISC,MED
+3979,"Seattle, Washington",DISC,NGO
+3980,"Big Rapids, Michigan",HACK,MED
+3981,"Porterville, California",INSD,MED
+3982,"Suwanee, Georgia",HACK,BSO
+3983,"Santa Rosa, California",HACK,BSO
+3984,"Anaheim, California",PORT,MED
+3985,"Pittsburgh, Pennsylvania",INSD,MED
+3986,"Canonsburg, Pennsylvania",HACK,BSO
+3987,"Wichita, Kansas",HACK,GOV
+3988,"Fortuna, California",PORT,MED
+3989,"Denver, Colorado",PORT,BSO
+3990,", California",DISC,MED
+3991,"Lake Ronkonkoma, New York",HACK,EDU
+3992,"Milwaukee, Wisconsin",PORT,MED
+3993,"Lincoln, Nebraska",HACK,EDU
+3994,"Spokane, Washington",HACK,BSR
+3995,"Portland, Oregon",HACK,BSR
+3996,,HACK,BSO
+3997,"San Jose, California",HACK,BSR
+3998,"St. Johnsbury, Vermont",HACK,BSR
+3999,"San Diego, California",UNKN,BSF
+4000,"Riverwoods, Illinois",UNKN,BSF
+4001,"Riverwoods, Illinois",UNKN,BSF
+4002,"Sebastopol, California",STAT,MED
+4003,"Short Hills, New Jersey",HACK,BSO
+4004,"Houston, Texas",PORT,MED
+4005,,HACK,BSO
+4006,"Chicago, Illinois",DISC,EDU
+4007,"Seattle, Washington",HACK,MED
+4008,"Bradenton, Florida",INSD,MED
+4009,"Sacramento, California",DISC,GOV
+4010,"New York, New York",INSD,GOV
+4011,"Glen Burnie, Maryland",INSD,MED
+4012,"Darlington, Wisconsin",DISC,MED
+4013,"New York, New York",HACK,BSF
+4014,"Iowa City, Iowa",HACK,EDU
+4015,"Boston, Massachusetts",CARD,BSO
+4016,"Storrs, Connecticut",INSD,MED
+4017,"Los Angeles, California",HACK,NGO
+4018,"Falls Church, Virginia",DISC,MED
+4019,"Collegeville, Pennsylvania",DISC,MED
+4020,"Santa Barbara, California",DISC,MED
+4021,"St. Paul, Minnesota",DISC,MED
+4022,"Denver, Colorado",PORT,GOV
+4023,"Washington, District Of Columbia",UNKN,GOV
+4024,"Washington, District Of Columbia",HACK,BSO
+4025,"Las Vegas, Nevada",HACK,BSO
+4026,"Detroit Lakes, Minnesota",UNKN,BSR
+4027,"Columbia, South Carolina",PORT,MED
+4028,"Chapel Hill, North Carolina",DISC,EDU
+4029,"Radnor, Pennsylvania",DISC,EDU
+4030,"Nashville, Tennessee",INSD,GOV
+4031,"Washington, District Of Columbia",HACK,GOV
+4032,"San Jose, California",PORT,MED
+4033,"Riverwoods, Illinois",UNKN,BSF
+4034,"Ogden, Utah",HACK,BSO
+4035,"Centennial, Colorado",INSD,BSF
+4036,"Rocklin, California",STAT,MED
+4037,"Vineland, New Jersey",STAT,MED
+4038,"Orlando, Florida",INSD,MED
+4039,"Baltimore, Maryland",INSD,BSR
+4040,"New York, New York",INSD,MED
+4041,"Columbia, South Carolina",PORT,MED
+4042,"Norcross, Georgia",PORT,MED
+4043,"Austell, Georgia",PORT,MED
+4044,"Colorado Springs, Colorado",INSD,MED
+4045,"Dallas, Texas",STAT,MED
+4046,"Orlando, Florida",PORT,MED
+4047,"Kennett Square, Pennsylvania",PORT,MED
+4048,"Scottsdale, Arizona",INSD,MED
+4049,"Springfield, Illinois",PORT,MED
+4050,"Laurel, Maryland",PHYS,MED
+4051,"Gaithersburg, Maryland",PHYS,MED
+4052,"Snellville, Georgia",PHYS,MED
+4053,"Anderson, South Carolina",INSD,MED
+4054,"Virginia Beach, Virginia",INSD,MED
+4055,"San Francisco, California",PORT,MED
+4056,"Chicago, Illinois",STAT,MED
+4057,"Staten Island, New York",INSD,MED
+4058,"Savannah, Georgia",INSD,MED
+4059,"Charleston, South Carolina",HACK,MED
+4060,"Atlanta, Georgia",DISC,MED
+4061,"San Juan, Puerto Rico",UNKN,MED
+4062,"Tallahassee, Florida",UNKN,MED
+4063,"Jefferson City, Missouri",DISC,MED
+4064,"Frisco, Colorado",DISC,MED
+4065,"Chicago, Illinois",PHYS,MED
+4066,"Brentwood, Tennessee",DISC,MED
+4067,"Roseland, New Jersey",INSD,BSF
+4068,"Sacramento, California",INSD,MED
+4069,"Nashville, Tennessee",PORT,MED
+4070,"Pembroke Pines, Florida",INSD,MED
+4071,"Sherman, Texas",INSD,GOV
+4072,"Philadelphia, Pennsylvania",INSD,MED
+4073,"Fridley, Minnesota",PHYS,MED
+4074,"Boca Raton, Florida",INSD,MED
+4075,"San Jose, California",INSD,MED
+4076,"Des Moines, Iowa",PORT,MED
+4077,"Austin, Texas",PORT,MED
+4078,"Ashland, Ohio",PHYS,MED
+4079,"Boca Raton, Florida",PORT,MED
+4080,"St. Louis, Missouri",UNKN,MED
+4081,"Jacksonville, Florida",PHYS,MED
+4082,"Durham, North Carolina",DISC,MED
+4083,"Fall Church, Virginia",PHYS,MED
+4084,"Hudson, Florida",DISC,MED
+4085,"Los Angeles, California",INSD,MED
+4086,"Springfield, Illinois",DISC,MED
+4087,"Springfield, Massachusetts",PHYS,MED
+4088,"Indianapolis, Indiana",DISC,MED
+4089,"Indianapolis, Indiana",UNKN,MED
+4090,"Monterey Park, California",PORT,MED
+4091,"Kansas City, Missouri",UNKN,MED
+4092,"Sacramento, California",UNKN,MED
+4093,"Indianapolis, Indiana",PHYS,MED
+4094,"Charlotte, North Carolina",HACK,MED
+4095,"Burlington, North Carolina",PHYS,MED
+4096,"Burlington, North Carolina",STAT,MED
+4097,"Takoma Park, Maryland",PORT,MED
+4098,"Brooklyn, New York",PORT,MED
+4099,"Winter Haven, Florida",INSD,MED
+4100,"Ridgewood, New Jersey",HACK,MED
+4101,"Honolulu, Hawaii",HACK,MED
+4102,"Los Angeles, California",PHYS,MED
+4103,"Shreveport, Louisiana",DISC,MED
+4104,"Houston, Texas",DISC,BSO
+4105,"Walla Walla, Washington",DISC,MED
+4106,"Springfield, Massachusetts",DISC,BSF
+4107,"Bronx, New York",DISC,MED
+4108,"Camarillo, California",PHYS,BSF
+4109,,HACK,BSO
+4110,"Nashville, Tennessee",PORT,MED
+4111,"New York, New York",HACK,BSO
+4112,"Tacoma, Washington",DISC,MED
+4113,"Brighton , Massachusetts",HACK,BSO
+4114,"Newport News, Virginia",INSD,MED
+4115,"Denver, Colorado",INSD,MED
+4116,"Fairfax, Virginia",HACK,MED
+4117,"San Francisco, California",INSD,BSO
+4118,"Columbia, South Carolina",INSD,GOV
+4119,"Middleburg Heights, Ohio",PHYS,MED
+4120,"Burlington, North Carolina",INSD,GOV
+4121,"Bellevue, Washington",HACK,GOV
+4122,"New York, New York",UNKN,BSF
+4123,"Van Nuys, California",HACK,BSR
+4124,", District Of Columbia",UNKN,GOV
+4125,"Centennial, Colorado",INSD,BSF
+4126,"Hartford, Connecticut",PHYS,MED
+4127,"San Diego, California",HACK,BSR
+4128,"Sacramento, California",HACK,MED
+4129,"Merrillville, Indiana",HACK,BSR
+4130,"Oakland, California",DISC,MED
+4131,"Suwanee, Georgia",HACK,MED
+4132,"Suwanee, Georgia",PHYS,MED
+4133,"Minneapolis, Minnesota",HACK,MED
+4134,"Natick, Massachusetts",HACK,MED
+4135,"Chicago, Illinois",HACK,BSO
+4136,"Indianapolis, Indiana",HACK,MED
+4137,"Sacramento, California",HACK,GOV
+4138,"Schenectady, New York",HACK,GOV
+4139,"Brea, California",HACK,BSO
+4140,"Redmond, Washington",HACK,BSO
+4141,"San Jose, California",PHYS,MED
+4142,"New York, New York",INSD,BSO
+4143,"San Francisco, California",UNKN,BSF
+4144,"Greenpoint, Brooklyn, New York",HACK,BSO
+4145,"New York, New York",HACK,BSO
+4146,"San Francisco, California",UNKN,BSO
+4147,"Salt Lake City, Utah",CARD,BSF
+4148,"College Park, Maryland",HACK,EDU
+4149,"Sacramento, California",STAT,GOV
+4150,"Washington, District Of Columbia",HACK,BSO
+4151,"Venice, California",HACK,BSO
+4152,"Bloomington, Indiana",HACK,EDU
+4153,,HACK,BSF
+4154,"Cupertino, California",HACK,BSO
+4155,"Hoffman Estates, Illinois",HACK,BSR
+4156,"Mt. Pleasant, Pennsylvania",HACK,BSR
+4157,"West Sacramento, California",HACK,BSR
+4158,"Chicago , Illinois",HACK,BSO
+4159,"Detroit, Michigan",HACK,GOV
+4160,"Las Vegas, Nevada",HACK,BSO
+4161,"Orrville, Ohio",HACK,BSR
+4162,"Eureka, California",PHYS,MED
+4163,"Chicago, Illinois",HACK,MED
+4164,"Salt Lake City, Utah",INSD,BSF
+4165,"Anchorage, Alaska",HACK,BSR
+4166,"Boston , Massachusetts",INSD,BSF
+4167,"New York, New York",HACK,BSF
+4168,"South San Francisco, California",HACK,BSO
+4169,"Mayfield Heights, Ohio",HACK,BSO
+4170,"Lebanon, New Hampshire",HACK,BSO
+4171,"Portland, Oregon",HACK,EDU
+4172,"New York, New York",HACK,GOV
+4173,"Bismarck, North Dakota",HACK,EDU
+4174,"Pittsburgh, Pennsylvania",UNKN,EDU
+4175,"Gainesville, Florida",PORT,MED
+4176,"New York, New York",HACK,BSO
+4177,"Baltimore, Maryland",HACK,EDU
+4178,"Denton, Texas",HACK,BSR
+4179,"Vincent, Ohio",HACK,BSR
+4180,"Frederick, Maryland",HACK,MED
+4181,"Southfield, Michigan",INSD,MED
+4182,"Maple Grove, Minnesota",HACK,BSR
+4183,"New York, New York",HACK,BSR
+4184,"Detroit, Michigan",INSD,MED
+4185,"New York, New York",HACK,BSR
+4186,"Billings, Montana",PHYS,MED
+4187,"Milford , Ohio",PHYS,MED
+4188,"Malibu , California",HACK,BSR
+4189,"Auburn, Alabama",HACK,EDU
+4190,"Shelburne, Vermont",HACK,BSR
+4191,"Sacramento , California",HACK,GOV
+4192,", Pennsylvania",INSD,GOV
+4193,"New York, New York",HACK,BSF
+4194,"Kenosha, Wisconsin",HACK,EDU
+4195,"Oakland, California",HACK,MED
+4196,,HACK,BSO
+4197,"Ridgefield Park, New Jersey",HACK,BSO
+4198,"New York, New York",CARD,BSF
+4199,"Tehachapi, California",PHYS,GOV
+4200,"Salt Lake City, Utah",HACK,GOV
+4201,"San Francisco, California",HACK,BSO
+4202,"Herndon, Virginia",HACK,GOV
+4203,"Lenexa, Kansas",PHYS,MED
+4204,"Tigard, Oregon",HACK,BSR
+4205,"Knoxville, Tennessee",PHYS,MED
+4206,"Coppell, Texas",HACK,BSR
+4207,"Phoenix, Arizona",UNKN,EDU
+4208,"Ames, Iowa",HACK,EDU
+4209,"New York, New York",HACK,BSO
+4210,"Springfield, Missouri",PORT,MED
+4211,"Portland , Oregon",INSD,NGO
+4212,"Pismo Beach, California",HACK,BSR
+4213,"Suwanee, Georgia",HACK,BSO
+4214,"Sacramento, California",HACK,BSO
+4215,"Rancho Cordova, California",PHYS,GOV
+4216,"Albany, New York",HACK,BSO
+4217,"Amarillo, Texas",INSD,BSF
+4218,"Birmingham, Alabama",INSD,BSO
+4219,"Pittsburgh, Pennsylvania",HACK,MED
+4220,,PORT,BSO
+4221,"Irvine , California",HACK,EDU
+4222,"Tempe, Arizona",HACK,BSR
+4223,"Long Beach, California",PHYS,MED
+4224,"Kansas City, Missouri",HACK,NGO
+4225,"Dallas, Texas",HACK,MED
+4226,"Mechanicsburg, Pennsylvania",HACK,BSO
+4227,"San Jose, California",HACK,BSO
+4228,"Rancho Mirage, California",STAT,MED
+4229,"Manhasset, New York",UNKN,MED
+4230,"Denver , Colorado",STAT,BSF
+4231,"Atlanta, Georgia",PORT,MED
+4232,"San Diego , California",DISC,EDU
+4233,"Mooresville, North Carolina",DISC,BSR
+4234,"Nashville, Tennessee",DISC,BSO
+4235,"Horsham, Pennsylvania",DISC,BSF
+4236,"Williston, Vermont",DISC,GOV
+4237,"Ashburn, Virginia",DISC,EDU
+4238,"Burlington, Vermont",DISC,GOV
+4239,"Dallas, Texas",DISC,BSF
+4240,"Sacramento , California",DISC,GOV
+4241,"Boston, Massachusetts",PORT,BSF
+4242,"Atlanta, Georgia",PORT,MED
+4243,"Hight Point, North Carolina",PORT,MED
+4244,"Los Angeles, California",DISC,MED
+4245,"Duarte, California",STAT,MED
+4246,"San Francisco, California",STAT,MED
+4247,"Irvine, California",PORT,BSF
+4248,"San Francisco, California",STAT,MED
+4249,"Lexington, Kentucky",PORT,MED
+4250,"Orlando , Florida",PORT,MED
+4251,"Escondido, California",PORT,MED
+4252,"Portland , Oregon",DISC,BSF
+4253,"Kansas City , Missouri",DISC,BSF
+4254,"Dallas, Texas",DISC,BSO
+4255,"Los Angeles, California",STAT,MED
+4256,"Carlsbad, California",HACK,BSO
+4257,"Helena, Montana",HACK,MED
+4258,"Suwanee, Georgia",HACK,BSR
+4259,"Austin, Texas",HACK,BSO
+4260,"Mooresville, North Carolina",DISC,BSR
+4261,"Hutchinson, Kansas",UNKN,BSF
+4262,"Mechanicsburg, Pennsylvania",HACK,BSF
+4263,"Santa Rosa, California",PHYS,MED
+4264,"Greenfield, California",STAT,BSF
+4265,"Boulder, Colorado",PHYS,MED
+4266,"Austin, Texas",INSD,MED
+4267,"Atlanta, Georgia",INSD,BSR
+4268,"Columbus, Georgia",DISC,MED
+4269,", Florida",UNKN,GOV
+4270,"Hershey , Pennsylvania",INSD,MED
+4271,"Hartford, Connecticut",INSD,BSF
+4272,"Ashland, Kentucky",UNKN,BSF
+4273,"Coupeville, Washington",HACK,BSO
+4274,"San Diego, California",DISC,MED
+4275,"Palm Desert, California",INSD,EDU
+4276,"Riverside, California",DISC,EDU
+4277,"Pittsburgh, Pennsylvania",DISC,BSF
+4278,"Jonesboro, Arkansas",HACK,EDU
+4279,"Atlanta, Georgia",INSD,BSR
+4280,"Palo Alto, California",DISC,BSF
+4281,"Addison, Texas",HACK,BSF
+4282,"Hanover, Pennsylvania",DISC,BSO
+4283,"Tremont , Illinois",HACK,BSO
+4284,"Washington, District Of Columbia",HACK,EDU
+4285,"Moreno Valley, California",PORT,MED
+4286,"New York, New York",HACK,BSO
+4287,"Indianapolis, Indiana",HACK,EDU
+4288,"Birmingham, Alabama",PORT,BSF
+4289,"Houston, Texas",HACK,BSO
+4290,"St. Louis, Missouri",HACK,BSF
+4291,"Orange, New Jersey",HACK,EDU
+4292,"Uxbridge, Massachusetts",PORT,EDU
+4293,"Somersworth, New Hampshire",PORT,BSF
+4294,"Milford, Massachusetts",PORT,EDU
+4295,"Williston, Vermont",HACK,MED
+4296,"New York, New York",DISC,MED
+4297,"New York, New York",DISC,BSF
+4298,"Indianapolis, Indiana",DISC,MED
+4299,"Tuscon, Arizona",PORT,BSO
+4300,"Boston, Massachusetts",HACK,BSO
+4301,"Greenwich, Connecticut",HACK,BSR
+4302,"Irving, Texas",PORT,BSO
+4303,"Washington, District Of Columbia",HACK,GOV
+4304,"Houston , Texas",HACK,BSO
+4305,"San Francisco, California",DISC,BSF
+4306,"Portland, Oregon",DISC,NGO
+4307,"Miami, Florida",HACK,BSF
+4308,"Orangeburg, South Carolina",PORT,EDU
+4309,"Seattle, Washington",HACK,BSO
+4310,"Washington, District Of Columbia",HACK,BSF
+4311,"Philadelphia, Pennsylvania",HACK,EDU
+4312,"Fortworth, Texas",HACK,BSO
+4313,"Los Angles, California",HACK,BSO
+4314,"Towson, Maryland",HACK,BSO
+4315,"Sausalito, California",STAT,MED
+4316,"Richmond, Virginia",HACK,BSO
+4317,"Philadelphia, Pennsylvania",PHYS,MED
+4318,"Apple Valley, California",DISC,MED
+4319,"Encinitas, California",DISC,GOV
+4320,"Chicago, Illinois",HACK,EDU
+4321,"Castle Rock, Colorado",PORT,EDU
+4322,"Irving , Texas",HACK,BSR
+4323,"Sacramento, California",STAT,MED
+4324,"Brooklyn, New York",HACK,BSO
+4325,"New York, New York",HACK,BSO
+4326,"New York, New York",HACK,BSR
+4327,"Eugene, Oregon",HACK,BSR
+4328,"Atlanta, Georgia",DISC,BSR
+4329,"Milton , Washington",PHYS,BSR
+4330,"New York, New York",HACK,BSO
+4331,"Santa Maria, California",DISC,MED
+4332,"Los Angeles, California",STAT,MED
+4333,"Scottsdale, Arizona",HACK,BSO
+4334,"San Antonio, Texas",PORT,MED
+4335,"Oregon, Ohio",INSD,MED
+4336,"Montgomery, Alabama",INSD,GOV
+4337,"Parsippany, New Jersey",DISC,BSO
+4338,"Los Angeles, California",UNKN,MED
+4339,"West Chester, Pennsylvania",HACK,BSR
+4340,"Irvine, California",INSD,BSF
+4341,"Kent, Washington",HACK,BSR
+4342,"Baltimore, Maryland",HACK,GOV
+4343,"Kansas City, Missouri",INSD,EDU
+4344,"Burbank, California",HACK,BSR
+4345,"Concord, Massachusetts",HACK,BSR
+4346,"Santa Barbara, California",HACK,EDU
+4347,"Unknown, Wisconsin",HACK,BSO
+4348,"Los Angeles, California",DISC,BSF
+4349,"San Mateo, California",INSD,MED
+4350,"Hauppauge, New York",HACK,BSR
+4351,"New Hope, Pennsylvania",HACK,BSO
+4352,"Atlanta, Georgia",HACK,BSR
+4353,"Bay Area, California",UNKN,BSO
+4354,"Boise, Idaho",HACK,BSO
+4355,"Eden Prairie, Minnesota",HACK,BSO
+4356,"Los Angeles, California",DISC,MED
+4357,"Ann Arbor, Michigan",DISC,MED
+4358,"Milpitas, California",PHYS,BSO
+4359,"Orange., California",PHYS,MED
+4360,"Long Beach, California",PHYS,MED
+4361,"Orange, California",PHYS,MED
+4362,"Miami, Florida",PHYS,MED
+4363,"Franklin, Tennessee",HACK,MED
+4364,"Pawcatuck, Connecticut",HACK,NGO
+4365,"Los Angeles, California",PORT,BSO
+4366,"Chicago , Illinois",DISC,BSO
+4367,"Peoria, Illinois",PORT,MED
+4368,"Houston, Texas",INSD,MED
+4369,"Los Angeles, California",INSD,MED
+4370,"Beachwood, Ohio",PORT,MED
+4371,"Washington, District Of Columbia",HACK,GOV
+4372,"North Port, Florida",HACK,BSO
+4373,"San Diego, California",HACK,BSO
+4374,"Rockville, Maryland",HACK,BSR
+4375,"Napa, California",PORT,GOV
+4376,"Hayward, California",HACK,EDU
+4377,"Phoenix, Arizona",HACK,BSR
+4378,"Cupertino, California",HACK,BSO
+4379,"Las Vegas, Nevada",HACK,BSR
+4380,"Austin, Texas",PORT,BSF
+4381,"Los Angeles, California",PORT,MED
+4382,"San Francisco, California",HACK,BSO
+4383,"Menlo Park, California",PORT,BSO
+4384,"San Francisco, California",HACK,NGO
+4385,"Spokane , Washington",HACK,BSR
+4386,"Batvia, Illinois",HACK,BSR
+4387,"Baltimore, Maryland",DISC,BSF
+4388,"San Francisco, California",HACK,BSF
+4389,"Edina, Minnesota",HACK,BSR
+4390,"Des Peres, Missouri",INSD,BSR
+4391,"Dallas, Texas",INSD,BSR
+4392,"Manhattan, New York",HACK,BSR
+4393,"Provo, Utah",HACK,EDU
+4394,"Hays, Kansas",DISC,EDU
+4395,"Birmingham , Alabama",PORT,MED
+4396,"Gainesville, Florida",DISC,MED
+4397,"Purchase, New York",DISC,BSF
+4398,"San Jose, California",PORT,NGO
+4399,,HACK,BSO
+4400,"Hoffman Estates, Illinois",HACK,BSR
+4401,"Salina, Kansas",DISC,MED
+4402,"Sausalito, California",HACK,BSO
+4403,"Sacramento, California",HACK,MED
+4404,"Pen Argyl, Pennsylvania",HACK,BSR
+4405,"Pequannock, New Jersey",HACK,BSR
+4406,"Naperville, Illinois",HACK,BSR
+4407,"Wilmington , California",HACK,BSR
+4408,"Portland, Oregon",HACK,GOV
+4409,"Jacksonville, Florida",HACK,BSF
+4410,"Washington, District Of Columbia",HACK,GOV
+4411,"Washington, District Of Columbia",HACK,GOV
+4412,"Southern and Northern California cities, California",DISC,BSF
+4413,"Chapel Hill, North Carolina",HACK,MED
+4414,"New York, New York",PORT,MED
+4415,"Miami, Florida",HACK,MED
+4416,"Dallas, Texas",HACK,MED
+4417,"Seattle , Washington",DISC,EDU
+4418,"Falls Church, Virginia",HACK,GOV
+4419,"Gaffney , South Carolina",PORT,MED
+4420,"Brentwood, Tennessee",DISC,MED
+4421,"Greensboro, North Carolina",DISC,MED
+4422,"San Antonio, Texas",DISC,MED
+4423,"Detroit, Michigan",DISC,MED
+4424,"Washington, District Of Columbia",HACK,GOV
+4425,"Gresham, Oregon",PORT,MED
+4426,"Atlanta , Georgia",PORT,GOV
+4427,"Denver, Colorado",DISC,GOV
+4428,"Brookville, Pennsylvania",HACK,MED
+4429,"Houston, Texas",DISC,GOV
+4430,"Cleveland, Ohio",INSD,MED
+4431,"Oak Partk, Michigan",DISC,MED
+4432,"Dallas, Texas",PORT,MED
+4433,"Chico, California",UNKN,MED
+4434,"Pleasanton, California",HACK,GOV
+4435,"New York, New York",PORT,BSR
+4436,"Los Angeles, California",HACK,BSO
+4437,"Redwood City, California",HACK,BSO
+4438,"Brisbane, California",HACK,BSR
+4439,"South Plainfield, New Jersey",HACK,BSF
+4440,"Cherry Hill, New Jersey",PORT,BSF
+4441,"Highlands, North Carolina",DISC,MED
+4442,"Kansas City , Missouri",PHYS,MED
+4443,"Nassau, New York",INSD,MED
+4444,"San Jose, California",PORT,MED
+4445,"Monroe County, New York",DISC,MED
+4446,"El Cajon, California",PORT,BSO
+4447,"St. Louis, Missouri",HACK,BSO
+4448,"Jacksonville, Florida",PORT,BSO
+4449,"Berkeley, California",HACK,EDU
+4450,"New York, New York",HACK,BSO
+4451,"Redmond , Washington",HACK,BSO
+4452,"Framingham, Massachusetts",HACK,BSR
+4453,"New York, New York",HACK,BSF
+4454,"Santa Clara, California",HACK,BSO
+4455,"Santa Rosa, California",PORT,BSO
+4456,"San Francisco, California",HACK,BSO
+4457,"Burbank, California",HACK,BSO
+4458,"New York, New York",HACK,BSO
+4459,"Atlanta, Georgia",HACK,BSO
+4460,"Grants Pass, Oregon",HACK,BSR
+4461,"Palm Springs, California",PORT,BSF
+4462,"Harlingen, Texas",PORT,MED
+4463,"Mount Pleasant, Texas",HACK,EDU
+4464,"Roseville, California",PORT,MED
+4465,"Lincoln City, Oregon",HACK,BSO
+4466,"Santa Rosa, California",HACK,BSR
+4467,"Denver, Colorado",DISC,BSF
+4468,"San Francisco, California",INSD,MED
+4469,"Indianapolis, Indiana",HACK,BSF
+4470,"Tallahassee, Florida",DISC,BSO
+4471,"Wayne, New Jersey",HACK,BSR
+4472,"New York, New York",HACK,BSO
+4473,"Lakewood, Colorado",HACK,BSR
+4474,"Irvine, California",HACK,BSO
+4475,"Altamonte Springs, Florida",HACK,EDU
+4476,"Chicago, Illinois",HACK,BSO
+4477,"San Francisco, California",HACK,BSO
+4478,"Redmond, Washington",HACK,MED
+4479,"San Francisco, California",HACK,BSO
+4480,"New York, New York",PORT,BSF
+4481,"Greensboro, North Carolina",PORT,BSF
+4482,"Golden Valley, Minnesota",HACK,BSO
+4483,"New York, New York",HACK,BSO
+4484,"Santa Clara, California",PORT,MED
+4485,"Georgetown, Texas",DISC,BSO
+4486,"Orono, Maine",PORT,EDU
+4487,"Independence, Ohio",PORT,BSF
+4488,"Escondido, California",PORT,EDU
+4489,"Redmond, Washington",HACK,BSO
+4490,"Newark, New Jersey",PORT,BSF
+4491,"New York, New York",HACK,BSO
+4492,"Highland, California",PORT,BSF
+4493,"Seattle, Washington",HACK,BSR
+4494,"Chandler, Arizona",INSD,BSO
+4495,"Los Angeles, California",PORT,MED
+4496,"Dallas, Texas",INSD,BSO
+4497,"Damariscotta, Maine",HACK,GOV
+4498,"Grapevine, Texas",HACK,GOV
+4499,"Denton, Texas",HACK,BSR
+4500,"Allentown, Pennsylvania",HACK,BSO
+4501,"University Park, Pennsylvania",HACK,EDU
+4502,"Sacramento, California",DISC,GOV
+4503,"Mclean , Virginia",HACK,BSO
+4504,"Visalia, California",DISC,GOV
+4505,"Riverside, California",PORT,EDU
+4506,"Baltimore, Maryland",HACK,BSF
+4507,"Brandon, Florida",DISC,BSF
+4508,"Woodland Hills, California",HACK,BSF
+4509,"Modesto, California",UNKN,MED
+4510,"San Diego, California",UNKN,BSF
+4511,"San Francisco, California",HACK,MED
+4512,"Seattle, Washington",HACK,BSR
+4513,"San Diego, California",PORT,MED
+4514,"West Covina, California",HACK,BSO
+4515,"Mountlake Terrace, Washington",HACK,BSF
+4516,"Fairfax, Virginia",HACK,BSO
+4517,"Houston, Texas",HACK,BSO
+4518,"Memphis , Tennessee",HACK,BSR
+4519,"Fairfax, Virginia",HACK,BSO
+4520,"La Mesa, California",DISC,BSF
+4521,"Lake Forest, Illinois",DISC,BSF
+4522,"Portland, Oregon",HACK,BSR
+4523,"Manhattan, New York",DISC,BSF
+4524,"Washington, District Of Columbia",INSD,GOV
+4525,"New York, New York",HACK,BSO
+4526,"San Dimas, California",HACK,EDU
+4527,"Corona, California",PORT,BSF
+4528,"Cambridge, Massachusetts",HACK,EDU
+4529,"Calistoga, California",HACK,BSO
+4530,"Denver, Colorado",HACK,BSO
+4531,"Jersey City, New Jersey",HACK,BSF
+4532,"Ione, California",DISC,GOV
+4533,"Austin, Texas",HACK,BSO
+4534,"New York, New York",HACK,BSO
+4535,"San Diego, California",HACK,BSO
+4536,"Westchester, Illinois",HACK,BSO
+4537,"Orange, California",INSD,MED
+4538,"Boulder, Colorado",HACK,BSO
+4539,"Anaheim, California",INSD,BSO
+4540,"Dallas, Texas",HACK,BSR
+4541,"Miami, Florida",HACK,BSO
+4542,"Boston, Massachusetts",PHYS,MED
+4543,"Imperial Beach, California",INSD,BSR
+4544,"Oakland, California",PORT,BSF
+4545,"Cerritos, California",PORT,BSO
+4546,"Los Angeles, California",INSD,BSF
+4547,"Chicago, Illinois",HACK,BSO
+4548,"Hot Springs, South Dakota",PHYS,MED
+4549,"Southlake, Texas",HACK,BSO
+4550,"Fort Wayne, Indiana",HACK,MED
+4551,"Oakland, California",INSD,MED
+4552,"San Jose, California",HACK,BSO
+4553,"Santa Ana, California",HACK,BSO
+4554,"San Francisco, California",PORT,MED
+4555,"Fresno, California",PORT,MED
+4556,"Vancouver, British Columbia",HACK,BSO
+4557,"New York, New York",INSD,BSF
+4558,"Charlottesville, Virginia",HACK,EDU
+4559,,HACK,BSO
+4560,"Jacksonville, Florida",HACK,BSO
+4561,"Costa Mesa, California",HACK,BSO
+4562,,HACK,BSO
+4563,"Dallas, Texas",DISC,BSF
+4564,"New York, New York",PORT,BSO
+4565,,HACK,NGO
+4566,"San Francisco, California",HACK,BSO
+4567,"Alpharetta, Georgia",PORT,BSF
+4568,"Oakland, California",PHYS,BSO
+4569,"Los Angeles, California",PORT,MED
+4570,"St. Paul, Minnesota",DISC,GOV
+4571,"Eureka, California",PORT,MED
+4572,"Washington, District Of Columbia",HACK,BSO
+4573,"Washington , District Of Columbia",HACK,BSO
+4574,"New York, New York",HACK,BSO
+4575,"Durham, North Carolina",HACK,BSO
+4576,"Brooklyn, New York",PHYS,BSO
+4577,"Sacramento, California",INSD,MED
+4578,"Newport Beach, California",HACK,BSO
+4579,"Los Angeles, California",HACK,BSO
+4580,"New Orleans, Louisiana",PORT,EDU
+4581,"Los Angeles, California",HACK,MED
+4582,"Syracuse, New York",HACK,BSF
+4583,"San Diego, California",HACK,BSO
+4584,"Washington , District Of Columbia",HACK,GOV
+4585,"Northridge, California",PHYS,BSO
+4586,"Newport Beach, California",DISC,MED
+4587,"Palo Alto, Virginia",DISC,MED
+4588,"Barrington, Illinois",PORT,MED
+4589,"Durham, North Carolina",DISC,BSF
+4590,"Springfield, Massachusetts",PHYS,BSO
+4591,"Newark, New Jersey",DISC,GOV
+4592,"New York , New York",INSD,BSO
+4593,"Larkspur, California",HACK,BSO
+4594,"Santa Monica, California",HACK,BSO
+4595,"Costa Mesa, California",HACK,BSF
+4596,"Bronx, New York",DISC,MED
+4597,"Cost Mesa, California",HACK,BSF
+4598,"Mooresville, California",DISC,EDU
+4599,"Norfolk, Virginia",PORT,MED
+4600,"Washington, District Of Columbia",HACK,BSF
+4601,"San Francisco, California",DISC,BSF
+4602,"Walnut Creek, California",UNKN,BSF
+4603,"Austin, Texas",HACK,BSO
+4604,"Hollywood, California",HACK,BSO
+4605,"New York , New York",HACK,BSF
+4606,"Miami, Florida",DISC,BSF
+4607,"Decatur, Georgia",HACK,BSO
+4608,"Vacaville, California",DISC,GOV
+4609,"New York, New York",HACK,BSF
+4610,"St. Louis, Missouri",HACK,BSF
+4611,"Wausau, Wisconsin",PORT,BSF
+4612,"Bethesda, Maryland",HACK,EDU
+4613,"Reno, Nevada",HACK,BSO
+4614,"Atlanta, Georgia",PORT,BSO
+4615,"Phoenix, Arizona",HACK,BSO
+4616,"Oklahoma City, Oklahoma",PORT,MED
+4617,"Knocksville, Tennessee",HACK,BSO
+4618,"Emeryville, California",HACK,BSO
+4619,"San Diego, California",PORT,NGO
+4620,"Granville, North Carolina",DISC,MED
+4621,"Denver, Colorado",HACK,BSO
+4622,"Osceola County, Florida",DISC,GOV
+4623,"Osceola County, Florida",DISC,GOV
+4624,"San Francisco, California",HACK,BSO
+4625,"El Paso, Texas",DISC,MED
+4626,"Suffolk, Virginia",INSD,MED
+4627,"Kirkland, Washington",HACK,BSO
+4628,"Washington, District Of Columbia",HACK,BSO
+4629,"Las Vegas, Nevada",HACK,BSO
+4630,"Pomona, California",HACK,BSO
+4631,"Brooksville, Florida",HACK,BSO
+4632,"Parsippany, New Jersey",DISC,BSO
+4633,"Rockville , Connecticut",HACK,BSO
+4634,"New York, New York",HACK,BSO
+4635,"Inglewood, California",HACK,BSO
+4636,"Sacramento, California",DISC,GOV
+4637,"Fulton County, Georgia",DISC,GOV
+4638,"Lakeforest, Illinois",DISC,BSO
+4639,"Stamford, Connecticut",HACK,BSO
+4640,,INSD,BSO
+4641,"Decatur, Georgia",DISC,EDU
+4642,"Los Angeles, California",HACK,BSO
+4643,"Birmingham, Alabama",PORT,MED
+4644,"South Jordan, Utah",HACK,BSO
+4645,"McClean , Virginia",HACK,BSO
+4646,"Jefferson County, Texas",DISC,GOV
+4647,"Damariscotta, Maine",HACK,BSR
+4648,"Dallas County, Texas",DISC,GOV
+4649,"Minneapolis, Minnesota",HACK,BSR
+4650,"Arlington Heights, Illinois",HACK,BSO
+4651,"Danvers, Massachusetts",PHYS,EDU
+4652,"Omaha, Nebraska",DISC,BSF
+4653,"Santa Barbara, California",DISC,MED
+4654,"Torrance, California",DISC,BSF
+4655,"Bayonne, New Jersey",HACK,BSO
+4656,"Dallas, Texas",HACK,BSO
+4657,"Middletown , Connecticut",HACK,MED
+4658,"Portland , Oregon",INSD,MED
+4659,"Sacramento, California",DISC,MED
+4660,"Dallas, Texas",HACK,BSO
+4661,"Brooklyn, New York",HACK,BSO
+4662,"Sacramento, California",UNKN,BSF
+4663,"Anaheim, California",DISC,BSF
+4664,"Pittsburgh, Pennsylvania",HACK,BSO
+4665,"Vacaville, California",HACK,BSF
+4666,"Dallas, Texas",INSD,BSO
+4667,"Columbia, Missouri",HACK,BSR
+4668,"Huntington Beach, California",HACK,BSO
+4669,"Phoenix, Arizona",PORT,BSO
+4670,"Round Rock, Texas",PORT,MED
+4671,"Hampton, Virginia",DISC,EDU
+4672,"South Jordan , Utah",DISC,MED
+4673,"Fort Meyers, Florida",PHYS,MED
+4674,"Oshkosh, Wisconsin",PORT,MED
+4675,"Fremont, California",HACK,MED
+4676,"Los Angeles, California",DISC,MED
+4677,"Brecksville, Ohio",PORT,GOV
+4678,"Storrs, Connecticut",HACK,EDU
+4679,"Boston, Massachusetts",HACK,BSF
+4680,"Portland, Oregon",DISC,GOV
+4681,"Albuquerque, New Mexico",PHYS,MED
+4682,"Jacksonville, Florida",HACK,MED
+4683,"San Diego, California",HACK,BSO
+4684,"San Francisco, California",DISC,BSO
+4685,"Lafayette, Indiana",PORT,MED
+4686,"St. Louis, Missouri",HACK,MED
+4687,"Lebanon, Indiana",PORT,MED
+4688,"Austin, Texas",HACK,MED
+4689,"Cucamonga, California",PHYS,MED
+4690,"Winter Park, Florida",PHYS,MED
+4691,"Dallas, Texas",PHYS,MED
+4692,"Albany, New York",PORT,MED
+4693,"Corpus Christi, Texas",HACK,MED
+4694,"San Francisco, California",INSD,MED
+4695,"Los Angeles, California",DISC,MED
+4696,"Tacoma, Washington",PORT,MED
+4697,"Mid-Atlantic , Maryland",DISC,MED
+4698,"Moreno Valley, California",PORT,MED
+4699,"Dallas, Texas",PORT,MED
+4700,"Worcester, Massachusetts",INSD,MED
+4701,"Hooksett, New Hampshire",DISC,EDU
+4702,"Rancho Cucamonga, California",STAT,MED
+4703,"Richmond, Virginia",DISC,GOV
+4704,"Chicago, Illinois",HACK,BSO
+4705,"Charlottesville, Virginia",HACK,EDU
+4706,,DISC,BSO
+4707,"Allentown, Pennsylvania",STAT,BSO
+4708,"Glendale, Arizona",CARD,BSO
+4709,"San Anselmo, California",HACK,BSO
+4710,"Cedar Falls, Iowa",UNKN,EDU
+4711,"Oklahoma City, Oklahoma",PHYS,BSO
+4712,"Indianapolis, Indiana",PHYS,BSF
+4713,"Houston, Texas",HACK,BSO
+4714,"New York, New York",HACK,BSO
+4715,"Des Moines, Iowa",HACK,BSO
+4716,"Honolulu, Hawaii",DISC,MED
+4717,"Evans, Georgia",HACK,BSF
+4718,"Cedar Rapids, Iowa",HACK,BSF
+4719,"Dallas, Texas",HACK,BSO
+4720,"Orlando, Florida",HACK,EDU
+4721,"Chicago, Illinois",PHYS,MED
+4722,"Paterson, New Jersey",HACK,MED
+4723,"Los Angeles, California",HACK,MED
+4724,"Kalispell, Montana",PORT,MED
+4725,"Brookville, New York",DISC,MED
+4726,"Aventura, Florida",PHYS,MED
+4727,"Springfield, Ohio",PHYS,MED
+4728,"Crown Point, Indiana",PHYS,MED
+4729,"West Des Moines, Iowa",PHYS,MED
+4730,"Washington, District Of Columbia",INSD,GOV
+4731,"Washington , District Of Columbia",HACK,GOV
+4732,"San Jose, California",HACK,BSO
+4733,"New York, New York",HACK,BSO
+4734,"Mountain View, California",HACK,BSR
+4735,"Baja, California",HACK,BSF
+4736,"Seattle, Washington",HACK,BSO
+4737,"Simi Valley, California",DISC,EDU
+4738,"Seattle, Washington",HACK,BSO
+4739,"Draper, Utah",DISC,MED
+4740,"San Diego, California",DISC,GOV
+4741,"Woodland , California",HACK,BSO
+4742,"Washington, District Of Columbia",UNKN,GOV
+4743,"Tulare, California",HACK,MED
+4744,"Scottsvalley, California",HACK,BSO
+4745,"San Diego, California",DISC,BSO
+4746,"Venice, California",HACK,BSO
+4747,"Newport Beach, California",HACK,BSO
+4748,"Atlanta, Georgia",HACK,BSR
+4749,"Manhasset, New York",PORT,NGO
+4750,"San Jose, California",HACK,BSO
+4751,"Orlando, Florida",HACK,BSO
+4752,"New York, New York",HACK,BSO
+4753,"Fort Meyers, Florida",HACK,MED
+4754,"Reston, Virginia",HACK,BSO
+4755,"Carle Place, New York",HACK,BSO
+4756,"Redwood City, California",HACK,BSO
+4757,"San Diego, California",HACK,BSO
+4758,"Fairfield, California",DISC,BSO
+4759,"Roanoke, Virginia",HACK,BSR
+4760,"Waltham, Massachusetts",HACK,BSO
+4761,"Hartford, Connecticut",HACK,BSO
+4762,"Chatsworth, California",HACK,BSR
+4763,"Charlotte, North Carolina",INSD,BSF
+4764,"Bakersfield, California",HACK,NGO
+4765,"Phoenix, Arizona",HACK,BSO
+4766,"Woodland, California",HACK,BSF
+4767,"Palo Alto, California",HACK,BSO
+4768,"Irvine, California",PORT,BSF
+4769,"Baltimore, Maryland",HACK,BSF
+4770,"New York, New York",HACK,BSO
+4771,"Memphis, Tennessee",PORT,MED
+4772,"Indianola, Mississippi",DISC,MED
+4773,"Cincinnati, Ohio",DISC,MED
+4774,"Washington , District Of Columbia",DISC,GOV
+4775,"Eden Prairie, Minnesota",PORT,MED
+4776,"Brookfield , Wisconsin",HACK,BSO
+4777,"Newport Beach, California",HACK,BSO
+4778,"Carson, California",HACK,BSO
+4779,"San Francisco, California",HACK,BSO
+4780,"Berkeley, California",DISC,EDU
+4781,"New York, New York",HACK,BSF
+4782,"Seattle, Washington",HACK,BSO
+4783,"Middletown, Ohio",HACK,BSO
+4784,"New York, New York",PORT,MED
+4785,"Ottawa, Illinois",PHYS,MED
+4786,"Pleasant Grove, Utah",HACK,BSO
+4787,"Arlington, Washington",HACK,EDU
+4788,"New York, New York",HACK,BSO
+4789,"Haywood County, North Carolina",STAT,MED
+4790,"Fort Lauderdale, Florida",DISC,MED
+4791,"Greenville, Texas",DISC,MED
+4792,"Nazareth, Pennsylvania",HACK,EDU
+4793,"Mountain View , California",DISC,BSO
+4794,"Oakland, California",HACK,MED
+4795,"Fresno, California",HACK,MED
+4796,"Washington , District Of Columbia",HACK,BSO
+4797,"Dublin, Ohio",HACK,BSO
+4798,"Poway , California",DISC,EDU
+4799,"Nashville, Tennessee",HACK,BSO
+4800,"Ann Arbor, Michigan",HACK,BSO
+4801,"Milwaukee, Wisconsin",HACK,BSO
+4802,"Monument, Colorado",DISC,EDU
+4803,"Santa Monica, California",HACK,BSO
+4804,"Atlanta, Georgia",HACK,BSO
+4805,"Ashburn, Virginia",PORT,BSO
+4806,"Roseville, California",HACK,BSO
+4807,"Miami, Florida",HACK,BSO
+4808,,HACK,BSO
+4809,"Hume, California",HACK,BSO
+4810,"Santa Rosa, California",HACK,BSF
+4811,", Texas",DISC,MED
+4812,"Redwood City, California",HACK,MED
+4813,"Newport Beach, California",HACK,BSO
+4814,"Berkeley, California",HACK,MED
+4815,"Paradise, California",PORT,BSO
+4816,"San Francisco, California",DISC,BSF
+4817,"Fairfield, California",HACK,EDU
+4818,"San Francisco, California",HACK,BSO
+4819,"Las Vegas, Nevada",PORT,MED
+4820,"Indianapolis, Indiana",DISC,MED
+4821,"Santa Clara, California",PORT,MED
+4822,"Aventura, Florida",HACK,MED
+4823,"Baton Rouge, Louisiana",HACK,MED
+4824,"Calhoun, Georgia",HACK,MED
+4825,"Cordele, Georgia",HACK,MED
+4826,"Lafayette, Indiana",HACK,MED
+4827,"San Pablo, California",PHYS,MED
+4828,"Hollywood, California",PORT,MED
+4829,"Prineville, Oregon",PHYS,MED
+4830,"Lenexa , Kansas",DISC,MED
+4831,"Indianapolis, Indiana",PORT,MED
+4832,"San Francisco, California",PHYS,MED
+4833,"Jamaica, New York",DISC,MED
+4834,"Richmond, Virginia",HACK,MED
+4835,"Bartlesville, Oklahoma",HACK,MED
+4836,"Bloomington, Illinois",INSD,BSF
+4837,"Waukesha, Wisconsin",HACK,BSO
+4838,"Reno, Nevada",HACK,BSO
+4839,"San Jose, California",HACK,MED
+4840,"San Jose, California",HACK,BSO
+4841,"New York, New York",DISC,MED
+4842,"Modesto, California",HACK,BSO
+4843,"San Mateo, California",PORT,EDU
+4844,"El Dorado Hills, California",HACK,BSF
+4845,"San Francisco, California",HACK,EDU
+4846,"El Centro, California",PORT,MED
+4847,"Atlanta, Georgia",DISC,MED
+4848,"Austin, Texas",DISC,MED
+4849,"Baton Rouge, Louisiana",PHYS,MED
+4850,"Poughkeepsie, New York",HACK,MED
+4851,"Kalamazoo, Missouri",DISC,MED
+4852,"Elkhorn, Nevada",PORT,MED
+4853,"Columbia, South Carolina",DISC,MED
+4854,"Washington, District Of Columbia",HACK,BSO
+4855,"Storrs, Connecticut",HACK,EDU
+4856,"Batavia, Ohio",PORT,BSO
+4857,"Oneida, Tennessee",PHYS,MED
+4858,"Lincoln, Nebraska",HACK,MED
+4859,"Deerfield, Illinois",PHYS,MED
+4860,"Bloomington, Indiana",PORT,MED
+4861,"Jonesboro, Arkansas",DISC,MED
+4862,"Santa Clarita, California",HACK,MED
+4863,"Staten Island, New York",PORT,MED
+4864,"Bentonville, Arkansas",HACK,MED
+4865,"Hartford, Connecticut",HACK,MED
+4866,"Grand Junction, Colorado",HACK,MED
+4867,"Corpus Christi, Texas",HACK,MED
+4868,"Freeport, Illinois",PORT,MED
+4869,"St. Paul, Minnesota",HACK,MED
+4870,"Norton, Kansas",PORT,MED
+4871,"Vancouver, Washington",DISC,MED
+4872,"Locust Fork, Alabama",DISC,MED
+4873,"St. Louis, Missouri",HACK,MED
+4874,"Albertson, New York",HACK,MED
+4875,"Miami, Florida",HACK,MED
+4876,"Ann Arbor, Michigan",DISC,MED
+4877,"Peoria, Illinois",HACK,MED
+4878,"Yuba City, California",DISC,GOV
+4879,"Cromwell, Connecticut",DISC,MED
+4880,"Chardon, Ohio",HACK,MED
+4881,"Greenville, North Carolina",HACK,MED
+4882,"Farmington Hills, Michigan",PORT,MED
+4883,"Evesham Township, New Jersey",HACK,MED
+4884,"Berkeley, California",PORT,MED
+4885,"New York, New York",HACK,MED
+4886,"Fairfield, California",DISC,MED
+4887,"Grand Rapids, Michigan",PORT,MED
+4888,"New York, New York",HACK,MED
+4889,"Rochester, New York",PHYS,MED
+4890,"Del Rio, Texas",HACK,MED
+4891,"Bozeman, Montana",DISC,MED
+4892,"Richmond, Virginia",HACK,MED
+4893,"Brooklyn, New York",HACK,MED
+4894,"Plano, Texas",PORT,MED
+4895,"Morton, Washington",HACK,MED
+4896,"Iowa City, Iowa",HACK,MED
+4897,"Milwaukee, Wisconsin",HACK,MED
+4898,"Orange Park, Florida",PORT,MED
+4899,"Philadelphia, Pennsylvania",DISC,MED
+4900,"Broomfield, Colorado",DISC,MED
+4901,"Minneapolis, Minnesota",DISC,MED
+4902,"San Diego, California",DISC,MED
+4903,"Pembroke Pines, Florida",PORT,MED
+4904,"Shiprock, New Mexico",DISC,MED
+4905,"Elmwood Park, New Jersey",DISC,MED
+4906,"Miami, Florida",HACK,MED
+4907,"Pensacola, Florida",DISC,MED
+4908,"Carlsbad, California",PORT,MED
+4909,"Norwich, Connecticut",HACK,MED
+4910,"Oklahoma City, Oklahoma",DISC,MED
+4911,"Tallahassee, Florida",DISC,MED
+4912,"Green Bay, Wisconsin",PORT,MED
+4913,"San Antonio, Texas",HACK,MED
+4914,"Vail, Colorado",HACK,MED
+4915,"Orlando, Florida",HACK,MED
+4916,"Madison, Wisconsin",PORT,MED
+4917,"Tavares, Florida",PORT,MED
+4918,"Casper, Wyoming",HACK,MED
+4919,"Oakland, California",PHYS,MED
+4920,"Akron, Ohio",PHYS,MED
+4921,"Columbus, Ohio",DISC,MED
+4922,"Cincinnati, Ohio",HACK,MED
+4923,"Washington , District Of Columbia",HACK,MED
+4924,"Lawton , Oklahoma",HACK,MED
+4925,"Midland, Michigan",HACK,MED
+4926,"Florence, South Carolina",DISC,MED
+4927,"Indianapollis, Indiana",DISC,MED
+4928,"Land O Lakes, Florida",DISC,MED
+4929,"Minneapolis, Minnesota",DISC,MED
+4930,"Lafayette, Indiana",HACK,MED
+4931,"West Des Moines, Iowa",DISC,MED
+4932,"Weston, Florida",HACK,MED
+4933,"Katy, Texas",HACK,MED
+4934,"Little Rock, Arkansas",DISC,MED
+4935,"Elk Grove, Illinois",DISC,MED
+4936,"Houson, Texas",PORT,MED
+4937,"Elk Grove, California",PORT,MED
+4938,"Somerset, Kentucky",PORT,MED
+4939,"Birmingham, Alabama",PORT,MED
+4940,"Aztec, New Mexico",HACK,MED
+4941,"Ann Arbor, Michigan",HACK,MED
+4942,"Tuscon, Arizona",PHYS,MED
+4943,"Tallahassee, Florida",HACK,MED
+4944,"Columbus, Ohio",DISC,MED
+4945,"Columbus, Georgia",DISC,MED
+4946,"Berkeley, California",DISC,MED
+4947,"Emporium , Pennsylvania",PHYS,MED
+4948,"Bentonville, Arkansas",DISC,MED
+4949,"Huntsville, Tennessee",HACK,MED
+4950,"Liberty, Missouri",HACK,MED
+4951,"Albuquerque, New Mexico",DISC,MED
+4952,"Grand Junction, Colorado",HACK,MED
+4953,"Little Rock, Arkansas",HACK,MED
+4954,"Easton, Pennsylvania",HACK,MED
+4955,"Westlake Village, California",HACK,MED
+4956,"Stamford, Connecticut",HACK,MED
+4957,"Holt, Missouri",DISC,MED
+4958,"Washington, District Of Columbia",PHYS,MED
+4959,"Tampa, Florida",HACK,BSO
+4960,"Fayetteville, Arkansas",HACK,MED
+4961,"Pinellas Park, Florida",HACK,MED
+4962,"Brecksville, Ohio",PHYS,BSF
+4963,"Lafayette, Indiana",PORT,MED
+4964,"Rego Park, New York",DISC,MED
+4965,"Newburgh, New York",PORT,MED
+4966,"Santa Clara, California",HACK,BSO
+4967,"Brentwood , Tennessee",STAT,BSF
+4968,"Lake Charles, Louisiana",PORT,MED
+4969,"Depew, New York",DISC,MED
+4970,"Boston, Massachusetts",HACK,MED
+4971,"San Jose, California",HACK,MED
+4972,"Dallas, Texas",PHYS,MED
+4973,"Las Vegas, Nevada",HACK,BSO
+4974,"Redding, California",INSD,MED
+4975,"New York, New York",DISC,BSF
+4976,"Manassas, Virginia",PORT,MED
+4977,"Bakersfield, California",DISC,MED
+4978,"Riverside, California",DISC,MED
+4979,"Louisville, Kentucky",HACK,MED
+4980,"Anderson, South Carolina",DISC,MED
+4981,,HACK,BSO
+4982,"Marina del Rey, California",PORT,BSO
+4983,"Atlanta, Georgia",HACK,BSO
+4984,"Boston, Massachusetts",HACK,MED
+4985,"Glenwood Springs, Colorado",HACK,MED
+4986,"Brandon, Florida",HACK,MED
+4987,"Redmond, Washington",HACK,MED
+4988,"Sandy, Utah",HACK,MED
+4989,"Honolulu, Hawaii",DISC,MED
+4990,"Lakewood Hills, Texas",HACK,MED
+4991,"Montpelier, Ohio",HACK,MED
+4992,"West Hills, California",PHYS,MED
+4993,"Round Rock, Texas",PORT,MED
+4994,"Oshkosh, Wisconsin",PORT,MED
+4995,"Minneapolis, Minnesota",PHYS,MED
+4996,"Austin, Texas",DISC,MED
+4997,"Fort Meyers, Florida",PHYS,MED
+4998,,PORT,GOV
+4999,"Stockton, California",DISC,GOV
+5000,"New York, New York",HACK,BSO
+5001,"Cupertino, California",HACK,BSO
+5002,"Newton Square, Pennsylvania",HACK,BSO
+5003,"Oakland, California",INSD,MED
+5004,"Dallas, Texas",HACK,BSO
+5005,"Blaine, Minnesota",HACK,MED
+5006,"Buffalo, New York",DISC,MED
+5007,"Angier, North Carolina",HACK,MED
+5008,"Midland, Texas",DISC,MED
+5009,"St. Louis, Missouri",HACK,MED
+5010,"Midland, Texas",DISC,MED
+5011,,HACK,BSO
+5012,"Coppell, Texas",HACK,BSO
+5013,"Burlington, Massachusetts",HACK,BSO
+5014,"San Francisco, California",HACK,BSO
+5015,"The Woodlands, Texas",INSD,MED
+5016,"Portland, Oregon",INSD,MED
+5017,"Harrison, New Jersey",HACK,GOV
+5018,,HACK,BSO
+5019,"Washington, District Of Columbia",HACK,BSO
+5020,"Burbank, California",HACK,BSO
+5021,"Farmington, Missouri",HACK,MED
+5022,"Farmington, Missouri",HACK,MED
+5023,"Birmingham, Alabama",DISC,MED
+5024,"Easton, Pennsylvania",DISC,MED
+5025,"Wilmington, Delaware",PORT,MED
+5026,"Westerville, Ohio",PHYS,MED
+5027,"Midland, Texas",DISC,MED
+5028,"Spring Hill , Florida",PHYS,MED
+5029,"San Diego, California",HACK,MED
+5030,"Sunrise, Florida",DISC,MED
+5031,"Uniontown, Ohio",DISC,MED
+5032,"Denver, Colorado",DISC,MED
+5033,"Memphis, Tennessee",HACK,MED
+5034,"Little Rock, Arkansas",HACK,MED
+5035,"Waldorf, Maryland",HACK,MED
+5036,"Langhorne, Pennsylvania",HACK,MED
+5037,"Des Moines, Iowa",DISC,MED
+5038,"Phoenix, Arizona",HACK,MED
+5039,"San Jose, California",HACK,BSO
+5040,"Albany, New York",HACK,BSF
+5041,"Dallas, Texas",DISC,BSO
+5042,"Walnut Creek, California",PORT,MED
+5043,"Richmond , Virginia",DISC,MED
+5044,"Phoenix, Arizona",HACK,MED
+5045,"Northbrook, Illinois",DISC,MED
+5046,"Reston, Virginia",HACK,MED
+5047,"St. Louis, Missouri",HACK,MED
+5048,"Chester, Pennsylvania",DISC,MED
+5049,"Laurel, Missouri",HACK,MED
+5050,"Phoenix, Arizona",PORT,MED
+5051,"Lubbock, Texas",PORT,MED
+5052,"Norwalk, Connecticut",HACK,BSO
+5053,"Los Angeles, California",PORT,MED
+5054,"Bellevue, Washington",HACK,BSO
+5055,"Lehi, Utah",HACK,BSO
+5056,"San Francisco, California",HACK,BSO
+5057,"Cary, North Carolina",HACK,BSO
+5058,"Marshall, Minnesota",HACK,BSO
+5059,"Long Beach, California",HACK,MED
+5060,"Sacramento, California",DISC,GOV
+5061,"Plano, Texas",DISC,BSO
+5062,"Orleans, Massachusetts",HACK,MED
+5063,"Lebanon, Tennessee",PHYS,MED
+5064,"Urbana, Illinois",DISC,MED
+5065,"Mount Hope, Bronx, New York",PHYS,EDU
+5066,"Austin, Texas",HACK,BSO
+5067,"Raleigh, North Carolina",HACK,BSO
+5068,"Portland, Oregon",PORT,BSF
+5069,"Milwaukee, Wisconsin",PORT,BSF
+5070,"Baja, California",HACK,BSF
+5071,"San Francisco, California",HACK,BSF
+5072,"Cobleskill , New York",HACK,BSO
+5073,"Springfield, Illinois",HACK,GOV
+5074,"Phoenix, Arizona",HACK,GOV
+5075,"Nashville, Tennessee",HACK,BSO
+5076,", Quebec",HACK,BSO
+5077,"Kirkland, Washington",HACK,BSO
+5078,"Baltimore, Maryland",DISC,GOV
+5079,"Fairfax, Virginia",HACK,BSO
+5080,"Crawfordsville, Indiana",HACK,EDU
+5081,"Seattle, Washington",DISC,MED
+5082,", Louisiana",HACK,MED
+5083,"Hunt Valley, Maryland",DISC,BSF
+5084,"Louisville, Colorado",PHYS,BSF
+5085,"Olivette, Missouri",HACK,BSO
+5086,"Long Beach, California",HACK,BSO
+5087,"Mount Airy, North Carolina",HACK,BSO
+5088,"Abilene, Texas",HACK,BSO
+5089,"Providence, Rhode Island",HACK,MED
+5090,"New York, New York",HACK,BSO
+5091,"Los Banos, California",PHYS,MED
+5092,"Sonora, California",HACK,BSF
+5093,"Sonora, California",HACK,MED
+5094,"Houston, Texas",PORT,BSO
+5095,"St. Paul, Minnesota",DISC,BSF
+5096,"Sevierville, Tennessee",HACK,BSO
+5097,"Jacksonville , Florida",PHYS,BSO
+5098,"Hamstead, North Carolina",HACK,BSO
+5099,"New York, New York",HACK,MED
+5100,"Montreal, Quebec",HACK,BSO
+5101,"Sacramento, California",PORT,MED
+5102,"Milwaukee, Wisconsin",HACK,MED
+5103,"Springfield, Missouri",DISC,MED
+5104,"Coppel, Texas",HACK,BSO
+5105,"Boston, Massachusetts",DISC,MED
+5106,"Ashland, Oregon",DISC,MED
+5107,"Fort Benning, Georgia",PHYS,MED
+5108,"Sunnyvale, California",HACK,BSO
+5109,"New Haven, Connecticut",INSD,MED
+5110,"Chico, California",HACK,BSO
+5111,"Dallas, Texas",HACK,BSO
+5112,"Dresher, Pennsylvania",DISC,BSF
+5113,"Arlington, Texas",HACK,BSO
+5114,"Los Angeles, California",HACK,MED
+5115,"Napa Valley, California",PHYS,MED
+5116,"San Francisco, California",HACK,BSF
+5117,"Redwood City, California",HACK,BSO
+5118,"Fort Wayne, Indiana",HACK,BSO
+5119,"Woodland Hills, California",INSD,BSF
+5120,"Susanville, California",HACK,MED
+5121,"Palo Alto, California",HACK,BSO
+5122,"West Palm Beach, Florida",HACK,BSO
+5123,"Vallejo, California",UNKN,GOV
+5124,"Oakland, California",DISC,NGO
+5125,"San Francisco, California",DISC,BSO
+5126,"Deerfield, Illinois",DISC,MED
+5127,"Tulsa, Oklahoma",HACK,MED
+5128,"Arlington, Illinois",DISC,MED
+5129,"Moutain Home, Arkansas",DISC,MED
+5130,"San Diego, California",DISC,MED
+5131,"Prescott, Arizona",HACK,MED
+5132,"Madison, Wisconsin",DISC,MED
+5133,"Denton , Texas",HACK,MED
+5134,"Novato, California",HACK,MED
+5135,"Orange, California",PORT,MED
+5136,"Wilmington, Delaware",HACK,BSO
+5137,"Manchester, Indiana",HACK,MED
+5138,"Arlington, Texas",HACK,MED
+5139,"La Mesa, California",HACK,BSF
+5140,"South Bend, Indiana",PORT,MED
+5141,"Pottstown, Pennsylvania",HACK,BSO
+5142,"San Francisco, California",HACK,BSO
+5143,"San Francisco, California",HACK,BSO
+5144,"Manchester, New Hampshire",HACK,BSO
+5145,"Alexandria, Virginia",DISC,BSO
+5146,"Orlando, Florida",PHYS,MED
+5147,"Seattle, Washington",HACK,MED
+5148,"Springfield, Massachusetts",HACK,MED
+5149,"Middleton, New York",HACK,GOV
+5150,"Montreal, Quebec",HACK,BSO
+5151,"Springfield, Massachusetts",HACK,MED
+5152,"Shelbyville, Tennessee",DISC,MED
+5153,"Simi Valley, California",DISC,MED
+5154,"Oxford, Mississippi",HACK,MED
+5155,"Memphis, Tennessee",PORT,MED
+5156,"Washington, District Of Columbia",INSD,GOV
+5157,"San Jose, California",DISC,MED
+5158,"San Jose, California",DISC,BSO
+5159,"Culver City, California",HACK,BSO
+5160,"Greenbrae, California",HACK,MED
+5161,"Indianapolis, Indiana",DISC,MED
+5162,"St. Joseph, Missouri",HACK,MED
+5163,"Reno, Nevada",PHYS,MED
+5164,"Tavares, Florida",HACK,MED
+5165,"San Juan, New Mexico",HACK,MED
+5166,"Thomasville, Georgia",DISC,MED
+5167,"San Rafael, California",HACK,MED
+5168,"Greenbrae, California",HACK,MED
+5169,"Seattle, Washington",DISC,MED
+5170,"Gahanna, Ohio",HACK,MED
+5171,"Hopkinsville, Kentucky",HACK,MED
+5172,"Chatham, New Jersey",HACK,MED
+5173,"Lansing, Michigan",DISC,MED
+5174,"Ventura, California",DISC,MED
+5175,"Schnecksville, Pennsylvania",PHYS,MED
+5176,"Tacoma, Washington",DISC,MED
+5177,"Hilton Head, South Carolina",DISC,MED
+5178,"King of Prussia, Pennsylvania",HACK,MED
+5179,"Merced, California",PHYS,MED
+5180,"Montgomery, Alabama",DISC,MED
+5181,"Baltimore, Maryland",HACK,MED
+5182,"Oberlin, Kansas",PHYS,MED
+5183,"Santa Cruz, California",DISC,MED
+5184,"Plano, Texas",PHYS,MED
+5185,"Portland, Oregon",HACK,MED
+5186,"Los Angeles, California",PHYS,MED
+5187,"Yakima, Washington",DISC,MED
+5188,"Independence, Kentucky",DISC,MED
+5189,"Oak Park, Illinois",HACK,MED
+5190,"New York, New York",HACK,MED
+5191,"Houston, Texas",DISC,MED
+5192,"Columbia, Maryland",HACK,MED
+5193,"Austin, Texas",PHYS,MED
+5194,"Warren, Ohio",HACK,MED
+5195,"New York, New York",HACK,EDU
+5196,"Mason City, Iowa",DISC,BSO
+5197,"Lexington, North Carolina",HACK,BSO
+5198,"Sunnyvale, California",HACK,BSO
+5199,"Escondido, California",PHYS,BSO
+5200,"Escondido, California",PHYS,BSO
+5201,"Mountain View, California",HACK,BSO
+5202,"Ballwin, Missouri",HACK,BSO
+5203,"Irvington, New York",HACK,BSO
+5204,"Irvine, California",HACK,BSF
+5205,"Watsonville, California",DISC,MED
+5206,"West Chester, Pennsylvania",DISC,BSO
+5207,"Lebanon, Pennsylvania",PORT,MED
+5208,"Groton, Connecticut",DISC,MED
+5209,"Austin, Texas",PHYS,MED
+5210,"Washington, District Of Columbia",INSD,GOV
+5211,"East Lansing, Michigan",HACK,EDU
+5212,"Marin, California",HACK,MED
+5213,"Geneseo, Illinois",HACK,BSO
+5214,"Represa, California",DISC,GOV
+5215,"Washington, District Of Columbia",DISC,GOV
+5216,"New York, New York",HACK,BSO
+5217,,HACK,BSO
+5218,"Rome , Georgia",PHYS,MED
+5219,"Mountain View, California",HACK,BSO
+5220,"Lincolnshire, Illinois",HACK,BSO
+5221,"Santa Barbara, California",PORT,BSF
+5222,"New York, New York",DISC,BSF
+5223,"Waukesha, Wisconsin",HACK,BSO
+5224,"San Jose, California",DISC,EDU
+5225,"West Covina, California",HACK,MED
+5226,"Cranston, Rhode Island",PHYS,BSO
+5227,"Seguin, Texas",HACK,MED
+5228,"Metairie, Louisiana",HACK,MED
+5229,"Los Angeles, California",DISC,BSF
+5230,"Madison, New Jersey",HACK,MED
+5231,"Bellevue, Washington",DISC,BSO
+5232,"Hollywood, California",DISC,BSO
+5233,"Pensacola, Florida",PHYS,MED
+5234,"Houston, Texas",DISC,MED
+5235,"Hillsborough Township, New Jersey",HACK,MED
+5236,"Glendale, California",HACK,MED
+5237,"New York, New York",PHYS,MED
+5238,"Sunnyvale, California",HACK,BSO
+5239,"Cedar Falls, Iowa",HACK,BSO
+5240,"San Antonio, Texas",HACK,BSO
+5241,"Washington, District Of Columbia",HACK,GOV
+5242,"Washington, District Of Columbia",HACK,GOV
+5243,"New York, New York",HACK,BSO
+5244,"Los Angeles, California",HACK,GOV
+5245,"Oakland, California",DISC,MED
+5246,"Englewood, Colorado",HACK,BSF
+5247,"Cheswold, Delaware",INSD,BSF
+5248,"Claremont, California",PORT,EDU
+5249,"Redmond, Washington",HACK,BSO
+5250,"Concord, New Hampshire",INSD,MED
+5251,,HACK,BSO
+5252,"Brooklyn, New York",HACK,BSO
+5253,"Plano, Texas",HACK,BSO
+5254,"Olympia, Washington",HACK,GOV
+5255,"Frankfort, Kentucky",HACK,GOV
+5256,"Boise, Idaho",HACK,GOV
+5257,"Washington , District Of Columbia",PORT,GOV
+5258,"Salem, Massachusetts",HACK,BSF
+5259,"Brooklyn, New York",HACK,BSO
+5260,"Newton, Massachusetts",HACK,BSO
+5261,"Cape Cod, Massachusetts",HACK,BSF
+5262,"Boston, Massachusetts",HACK,BSF
+5263,"High Point, North Carolina",HACK,BSO
+5264,"Cupertino, California",DISC,BSO
+5265,,HACK,BSO
+5266,"Santa Ana, California",DISC,NGO
+5267,"New York, New York",DISC,MED
+5268,"Brentwood, Tennessee",DISC,MED
+5269,"Alexandria, Minnesota",HACK,MED
+5270,"Cherry Hill, New Jersey",HACK,MED
+5271,"Goshen, New York",DISC,MED
+5272,"Indianapolis, Indiana",HACK,MED
+5273,"Seattle, Washington",HACK,MED
+5274,"Napoleon, Ohio",PHYS,MED
+5275,"Casa Grande, Arizona",HACK,MED
+5276,"Dalton, Georgia",HACK,MED
+5277,"Monaca, Pennsylvania",HACK,MED
